@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 0503",
+    "description": "Music Skins 0503",
+    "uuid": "5ab2ac96-6c62-4eb9-b040-a61e4515494f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c05899e6-0869-4d1f-ae25-9d07d5364237",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

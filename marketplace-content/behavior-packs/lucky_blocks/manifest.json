@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Lucky Blocks Add-On",
+    "description": "Break a lucky block for random amazing loot or terrible disasters!",
+    "uuid": "288c5e7b-7b44-4932-8865-18f9bcd80b27",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "557b826a-59b9-49d5-a7d8-36eeae713081",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Mass Automation"
+    ],
+    "product_type": "behavior_pack",
+    "price": "$2.99",
+    "price_usd": {
+      "currency": "USD",
+      "amount": 2.99
+    },
+    "price_mc": {
+      "currency": "MXN",
+      "amount": 478
+    }
+  }
+}

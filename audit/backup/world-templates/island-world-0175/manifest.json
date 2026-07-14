@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Island World 0175",
+    "description": "Island World 0175",
+    "uuid": "844528f4-5661-4397-8c7d-a15d9f2cc88d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "b9f73b68-452e-4514-8c85-2957de4319c4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "world_template",
+    "price": "$3.99 (640 MC)",
+    "price_usd": 3.99,
+    "price_mc": 640,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

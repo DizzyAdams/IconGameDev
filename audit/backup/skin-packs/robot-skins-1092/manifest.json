@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 1092",
+    "description": "Robot Skins 1092",
+    "uuid": "8b5b1340-831b-4fb2-8635-a0123ea1c0b3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ed87bbde-4bd2-4528-a97d-9b9198d5e649",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

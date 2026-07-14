@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 0108",
+    "description": "Retro Skins 0108",
+    "uuid": "03236b68-da50-4419-82ca-44ad1b3feeac",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "669f5362-1576-4f11-b120-e981b2030d0c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

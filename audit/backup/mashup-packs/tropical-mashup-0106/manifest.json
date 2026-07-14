@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tropical Mashup 0106",
+    "description": "Tropical Mashup 0106",
+    "uuid": "3be6fa4e-611f-4fa8-9412-6f367d02ae78",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "1f1ead7e-297e-4c24-ae96-ee5a72f60d83",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "price": "$5.99 (960 MC)",
+    "price_usd": 5.99,
+    "price_mc": 960,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

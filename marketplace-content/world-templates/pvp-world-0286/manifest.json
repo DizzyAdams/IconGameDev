@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pvp World 0286",
+    "description": "Pvp World 0286",
+    "uuid": "bc2ca676-3c3d-4a25-ae5d-6add3bc9a6cb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "f36600c0-a651-4a7a-bfd4-0ecd8f8d2976",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "world_template",
+    "price": "$3.99 (640 MC)",
+    "price_usd": 3.99,
+    "price_mc": 640,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 0348",
+    "description": "Horror Skins 0348",
+    "uuid": "87eaa3b6-aaa6-4d30-a1a8-2a2f36b3aa69",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "eb401823-f95b-469a-9816-e245de8b9e03",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

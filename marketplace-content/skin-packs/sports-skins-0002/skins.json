@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Sports1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sports8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sports8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Sports Skins 0002",
+  "localization_name": "Sports Skins 0002"
+}

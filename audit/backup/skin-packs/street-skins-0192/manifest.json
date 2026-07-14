@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Street Skins 0192",
+    "description": "Street Skins 0192",
+    "uuid": "5c99b80c-7ca9-4e70-ae22-aaab278d79fb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2d0ff0e2-b8a7-4771-8905-e5cf03a54c87",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "NoDebuffRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NoDebuffRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NoDebuffBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NoDebuffBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NoDebuffGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NoDebuffGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DebuffGod",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DebuffGod.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RefillKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RefillKing.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PearlPro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PearlPro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SoupLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SoupLord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PotMaster",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PotMaster.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "PotPVP",
+  "localization_name": "PotPVP"
+}

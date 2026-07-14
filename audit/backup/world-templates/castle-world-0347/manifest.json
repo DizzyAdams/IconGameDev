@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Castle World 0347",
+    "description": "Castle World 0347",
+    "uuid": "d4b98a55-9e18-4fce-a146-01ec01e8e7fc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "93fd4798-65e7-42a1-a3c5-11d2d5c02925",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "world_template",
+    "price": "$3.99 (640 MC)",
+    "price_usd": 3.99,
+    "price_mc": 640,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

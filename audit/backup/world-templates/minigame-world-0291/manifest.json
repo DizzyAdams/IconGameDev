@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minigame World 0291",
+    "description": "Minigame World 0291",
+    "uuid": "d9bfeaa2-6ea1-4268-81e2-2b8142897eac",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "2e3d3972-d034-49a6-b80c-fa03612997d8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "world_template",
+    "price": "$3.99 (640 MC)",
+    "price_usd": 3.99,
+    "price_mc": 640,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

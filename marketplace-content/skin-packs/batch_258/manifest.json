@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Batch 258",
+    "description": "Auto‑generated skin pack",
+    "uuid": "252b8a41-90b3-4081-937c-874807e90434",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b70d1eb8-7075-4c4d-8670-b0f98d2e4b16",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Japanese Fashion",
+    "description": "8 traditional Japanese fashion skins! Kimono, schoolgirl, samurai, geisha, shrine maiden, ninja, yokai, ronin.",
+    "uuid": "f3a814b1-0e1b-46e9-838d-84f75bad57cb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4a89faca-0b6e-4bec-8308-d48d20216652",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

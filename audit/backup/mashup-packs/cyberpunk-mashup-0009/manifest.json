@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyberpunk Mashup 0009",
+    "description": "Cyberpunk Mashup 0009",
+    "uuid": "0d252ab4-207a-4151-ae9b-0c1df2cd6b78",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "8ad7a5a3-2c7f-4203-93f9-2e57e09329a1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "price": "$5.99 (960 MC)",
+    "price_usd": 5.99,
+    "price_mc": 960,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

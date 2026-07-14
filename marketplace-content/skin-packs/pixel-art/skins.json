@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Hero",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hero.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mage",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rogue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rogue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alien",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alien.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Pixel Art",
+  "localization_name": "Pixel Art"
+}

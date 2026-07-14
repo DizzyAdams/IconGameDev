@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Island World 0376",
+    "description": "Island World 0376",
+    "uuid": "cabbf0da-ce1b-490a-8eb2-81dc596e38a7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "f5be276e-230b-45ff-96d3-07f1b0bab27a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "world_template",
+    "price": "$3.99 (640 MC)",
+    "price_usd": 3.99,
+    "price_mc": 640,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Viking Mashup 0196",
+    "description": "Viking Mashup 0196",
+    "uuid": "ec8660fd-e81f-4384-9618-4083fe323a95",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "617414b7-e1a3-4c91-844f-785348c798a7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "price": "$5.99 (960 MC)",
+    "price_usd": 5.99,
+    "price_mc": 960,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

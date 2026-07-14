@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "64x Natural",
+    "description": "Enhanced 64x64 textures that make your world look stunning while keeping the vanilla feel.",
+    "uuid": "fbd3bff4f-aa3f-c1e3-3edd-00074268ff56",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "feb05c8ed-a9b8-63f5-b312-00ece0b78953",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "resources",
+    "price": "$4.49 (720 MC)",
+    "price_usd": 4.49,
+    "price_mc": 720,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Enhanced 64x64 textures that make your world look stunning while keeping the vanilla feel."
+  }
+}

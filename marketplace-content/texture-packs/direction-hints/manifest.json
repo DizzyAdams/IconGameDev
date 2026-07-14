@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Direction Hints",
+    "description": "Directional arrows on hoppers, dispensers and droppers.",
+    "uuid": "329bbd56-adcd-48d6-b70b-d856bd001daf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ebca180f-9c68-49b6-a8b8-55e6ef08174e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "resources",
+    "price": "$4.49 (720 MC)",
+    "price_usd": 4.49,
+    "price_mc": 720,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Directional arrows on hoppers, dispensers and droppers."
+  }
+}

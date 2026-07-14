@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Freddy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Freddy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bonnie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bonnie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chica",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Chica.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Foxy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Foxy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Springtrap",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Springtrap.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mangle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mangle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ballora",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ballora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CircusBaby",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CircusBaby.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "FNAF Pack",
+  "localization_name": "FNAF Pack"
+}

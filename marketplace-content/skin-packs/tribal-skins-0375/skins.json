@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Tribal1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tribal8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tribal8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Tribal Skins 0375",
+  "localization_name": "Tribal Skins 0375"
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Cellbit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cellbit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alanzoka",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alanzoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TazerCraft",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TazerCraft.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BA",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BA.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bianca",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bianca.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Luba",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Luba.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VenomExtreme",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VenomExtreme.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Orochi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Orochi.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "YouTubers BR",
+  "localization_name": "YouTubers BR"
+}

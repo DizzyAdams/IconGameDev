@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Korean Fashion",
+    "description": "8 K-pop inspired fashion skins! K-pop star, streetwear, idol, dancer, chic, trendy, casual, model.",
+    "uuid": "fd521c8e8-85f6-5292-aa32-003da5a9d743",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f5eec304a-c082-c823-33e7-003242543ad4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 K-pop inspired fashion skins! K-pop star, streetwear, idol, dancer, chic, trendy, casual, model."
+  }
+}

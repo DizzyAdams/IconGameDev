@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tropical Mashup 0075",
+    "description": "Tropical Mashup 0075",
+    "uuid": "0b28d3bb-bfdd-4b64-8b19-5eafedec2f96",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "2554fe33-9f3e-4eeb-a68f-bc5d7d7869ca",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "price": "$5.99 (960 MC)",
+    "price_usd": 5.99,
+    "price_mc": 960,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

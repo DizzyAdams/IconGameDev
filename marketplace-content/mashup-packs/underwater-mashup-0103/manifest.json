@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Underwater Mashup 0103",
+    "description": "Underwater Mashup 0103",
+    "uuid": "95381370-39d0-4a16-bdad-af33a97f5dc6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "87c8ff0c-f0ab-47cb-b24b-d4cfd837cfcc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "price": "$5.99 (960 MC)",
+    "price_usd": 5.99,
+    "price_mc": 960,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

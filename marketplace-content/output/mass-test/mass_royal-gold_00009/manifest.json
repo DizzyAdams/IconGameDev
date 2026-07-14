@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass RoyalGold #9",
+    "description": "Generated pack: Mass RoyalGold #9",
+    "uuid": "426bb25c-0fa9-889e--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "05487855-929f-b87d--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

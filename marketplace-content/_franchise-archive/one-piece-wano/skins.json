@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Luffy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Luffy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zoro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zoro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sanji",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sanji.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yamato",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Yamato.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kaido",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kaido.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BigMom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BigMom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Law",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Law.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kid.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "One Piece Wano",
+  "localization_name": "One Piece Wano"
+}

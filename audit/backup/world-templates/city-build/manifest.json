@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "City Build",
+    "description": "Flat modern city with roads, plots, and infrastructure.",
+    "uuid": "ffc443c1a-23af-056d-cd41-001695887c1e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "f2830dd25-685e-b70b-895f-00cd789b1d1a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Flat modern city with roads, plots, and infrastructure."
+  }
+}

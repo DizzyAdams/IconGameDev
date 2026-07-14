@@ -1,0 +1,36 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "More TNT Add-On",
+        "description": "Explode your world with 10 new types of TNT!",
+        "uuid": "f925ced68-4566-5b24-ebb3-00192efa68c9",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f876c7430-bb9e-5c1e-6176-00b2af287e16",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Bedrock Mass Automation"
+        ],
+        "product_type": "behavior_pack",
+        "price": "$2.99"
+    }
+}

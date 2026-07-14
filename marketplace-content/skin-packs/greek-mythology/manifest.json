@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Greek Mythology",
+    "description": "8 Greek god skins! Zeus, Poseidon, Hades, Athena, Ares, Apollo, Artemis, Aphrodite.",
+    "uuid": "e16aaff5-5eee-4125-bc11-aee2bd85a8ce",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "392da1ee-c50d-4323-9024-bf9103aedc1b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Warrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Warrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mage",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rogue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rogue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cleric",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cleric.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Paladin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Paladin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Druid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Druid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Warlock",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Warlock.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Fantasy RPG",
+  "localization_name": "Fantasy RPG"
+}

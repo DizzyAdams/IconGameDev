@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "PVP Optimized",
+    "description": "PVP-optimized textures with high visibility for competitive play.",
+    "uuid": "bba8926d9-a28a-7451-4f9f-0087a61e0d85",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b99dfcc7b-198f-60ed-0ec3-00694f8ce49a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "resources",
+    "price": "$4.49 (720 MC)",
+    "price_usd": 4.49,
+    "price_mc": 720,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "PVP-optimized textures with high visibility for competitive play."
+  }
+}

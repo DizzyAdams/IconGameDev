@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Ra",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ra.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anubis",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anubis.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bastet",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bastet.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Osiris",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Osiris.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Isis",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Isis.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Seth",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Seth.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cleopatra",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cleopatra.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Egyptian Mythology",
+  "localization_name": "Egyptian Mythology"
+}

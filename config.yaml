@@ -1,0 +1,93 @@
+# Hermes + NVIDIA NIM + multi-model bridge config
+# Organized scanner section listing provider key words and settings.
+
+bridge:
+  enabled: true
+  html_render:
+    max_html_chunk: 4000          # max chars injected per rendered snippet
+    strip_scripts: true
+    strip_styles: false
+    inline_svg: true
+  latex_render:
+    enabled: true
+    fallback_formula_type: latex
+  markdown_render:
+    tables: true
+    code_blocks: true
+    normalize: true
+  output:
+    preferred: markdown
+    allow_html: true
+    max_output_tokens: 16384
+
+scanner:
+  provider_key_words:
+    # Identity/auth
+    - API_KEY
+    - api_key
+    - OPENAI_API_KEY
+    - NVIDIA_API_KEY
+    - DEEPSEEK_API_KEY
+    - KIMI_API_KEY
+    - authorisation
+    - authorization
+    - bearer
+    # NVIDIA / NIM contexts
+    - NIM
+    - nim
+    - integrate.api.nvidia.com
+    - nvapi-
+    # DeepSeek family
+    - deepseek
+    - deepseek-ai
+    - deepseek-v4
+    - deepseek-v3
+    # Kimi / Moonshot
+    - kimi
+    - kimi-k2
+    - moonshot
+    moonshotai
+    - KIMI_API_KEY
+    # OpenAI-compatible shims
+    - OPENAI_BASE_URL
+    - base_url
+    # Browser / HTML rendering triggers
+    - render
+    - html
+    - markdown
+    - latex
+    - mathjax
+  detections:
+    inline_key_hint: true           # flag obvious raw key patterns in logs
+    require_env: true              # must be set via env/config for NIM calls
+  trust_boundaries:
+    - env
+    - secret_store
+    - keyring
+
+model:
+  default: stepfun/step-3.7-flash:free
+  fallback_models:
+    - moonshotai/kimi-k2.6
+    - deepseek-ai/deepseek-v4-pro
+  providers: {}
+
+providers:
+  openai_compatible:
+    base_url: https://integrate.api.nvidia.com/v1
+    chat_path: /chat/completions
+  deepseek:
+    base_url: https://api.deepseek.com
+    chat_path: /chat/completions
+  kimi_cn:
+    base_url: https://api.moonshot.cn/v1
+    chat_path: /chat/completions
+  nous:
+    inference_base_url: https://inference-api.nousresearch.com/v1
+
+skills:
+  - hermes-agent
+  - browser
+  - terminal
+  - file
+  - web

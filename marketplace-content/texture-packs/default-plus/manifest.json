@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Default+ Enhanced",
+    "description": "Enhanced default textures with slightly more detail and saturation.",
+    "uuid": "24c1326b-a0a7-49eb-a72a-4261f737c54a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "699f6363-5f3c-4c60-9688-ce03aef7cc90",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "resources",
+    "price": "$4.49 (720 MC)",
+    "price_usd": 4.49,
+    "price_mc": 720,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Enhanced default textures with slightly more detail and saturation."
+  }
+}

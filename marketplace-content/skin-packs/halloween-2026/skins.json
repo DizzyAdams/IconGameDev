@@ -1,0 +1,78 @@
+{
+  "skins": [
+    {
+      "localization_name": "Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vampire",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Vampire.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Werewolf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Werewolf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Witch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Witch.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skeleton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skeleton.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pumpkin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pumpkin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Devil",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Devil.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mummy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mummy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clown",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Reaper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Reaper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BlackCat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BlackCat.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Halloween 2026",
+  "localization_name": "Halloween 2026"
+}

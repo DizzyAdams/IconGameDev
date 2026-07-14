@@ -1,0 +1,19 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "op_swords:fire_sword",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "fire_sword"
+            },
+            "minecraft:display_name": {
+                "value": "Fire Sword"
+            },
+            "minecraft:damage": 10,
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

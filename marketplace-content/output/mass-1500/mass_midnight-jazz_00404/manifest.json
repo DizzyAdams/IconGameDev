@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass MidnightJazz #404",
+    "description": "Generated pack: Mass MidnightJazz #404",
+    "uuid": "8375aed7-09d8-a284--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "122327a2-92d3-79cc--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

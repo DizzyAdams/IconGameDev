@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "FutureTech",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FutureTech.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hologram",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hologram.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DigitalMind",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DigitalMind.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberSoul",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberSoul.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VirtualDream",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VirtualDream.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Quantum",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Quantum.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "StarBorn",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StarBorn.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TimeWalker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TimeWalker.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Future 2027",
+  "localization_name": "Future 2027"
+}

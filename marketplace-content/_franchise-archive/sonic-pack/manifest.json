@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sonic Pack",
+    "description": "6 Sonic-inspired skins! Sonic, Tails, Knuckles, Shadow, Amy, Dr. Eggman.",
+    "uuid": "727a0da6-13cd-7d4f-5a2f-005fde492e24",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ba49a10f-d041-9151-4c2b-007e814b4e93",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

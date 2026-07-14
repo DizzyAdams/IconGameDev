@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Goku",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Goku.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vegeta",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Vegeta.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gohan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gohan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Piccolo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Piccolo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frieza",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Frieza.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cell",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cell.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MajinBuu",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MajinBuu.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Trunks",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Trunks.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Dragon Ball",
+  "localization_name": "Dragon Ball"
+}

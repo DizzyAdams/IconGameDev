@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "DrowWarrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DrowWarrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NightElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NightElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BloodElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BloodElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VoidElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VoidElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HighElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HighElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MoonElf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MoonElf.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Dark Elf",
+  "localization_name": "Dark Elf"
+}

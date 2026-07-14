@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "localization_name": "Skin_555_0",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_0.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_8.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skin_555_9",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin_555_9.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Batch Pack",
+  "localization_name": "Batch Pack"
+}

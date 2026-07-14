@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Tanjiro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tanjiro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nezuko",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nezuko.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zenitsu",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zenitsu.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Inosuke",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Inosuke.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rengoku",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rengoku.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shinobu",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shinobu.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Giyu",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Giyu.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mitsuri",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mitsuri.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Demon Slayer",
+  "localization_name": "Demon Slayer"
+}

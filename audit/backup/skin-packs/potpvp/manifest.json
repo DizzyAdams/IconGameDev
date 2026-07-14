@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "PotPVP",
+    "description": "8 PotPVP skins! NoDebuff Red, Blue, Green, Debuff God, Refill, Pearl, Soup, PotMaster.",
+    "uuid": "baa70802c-d1a9-bc1f-81ea-00ff50517620",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bc15227a6-35d3-e613-ba97-00e23a6aad35",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 PotPVP skins! NoDebuff Red, Blue, Green, Debuff God, Refill, Pearl, Soup, PotMaster."
+  }
+}

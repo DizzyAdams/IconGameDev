@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "HackerGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerPurple",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerPurple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerGold",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerGold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerCyan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerCyan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerWhite",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerWhite.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HackerBlack",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HackerBlack.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Hacker Neon",
+  "localization_name": "Hacker Neon"
+}

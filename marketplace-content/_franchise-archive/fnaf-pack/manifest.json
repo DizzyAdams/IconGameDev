@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "FNAF Pack",
+    "description": "8 Five Nights at Freddy's skins! Freddy, Bonnie, Chica, Foxy, Springtrap, Mangle, Ballora, CircusBaby.",
+    "uuid": "ab645f24-f64b-fcbc-10ee-0063f1c69453",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4a32d38b-a0e5-f1b2-fb9d-001c36c0e88b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

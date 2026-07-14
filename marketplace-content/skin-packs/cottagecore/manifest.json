@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cottagecore",
+    "description": "8 cottagecore skins! Meadow Girl, Flower Crown, Strawberry Fields, Lavender Dream, Honey Bee, etc.",
+    "uuid": "729016d8-5e65-4f3e-a4bb-49e07f3ca13a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "41cb75a8-8a4e-4ff2-8363-da3ea8c9137f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 cottagecore skins! Meadow Girl, Flower Crown, Strawberry Fields, Lavender Dream, Honey Bee, etc."
+  }
+}

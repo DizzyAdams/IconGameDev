@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Whiteout",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Whiteout.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blackout",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Blackout.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrayScale",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrayScale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PureRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PureRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DeepBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DeepBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EmeraldGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EmeraldGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalPurple",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalPurple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SunsetOrange",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SunsetOrange.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Minimalist Mono",
+  "localization_name": "Minimalist Mono"
+}

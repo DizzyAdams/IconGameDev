@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "GothLolita",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GothLolita.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampQueen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampQueen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowCat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowCat.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkFairy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkFairy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NightRose",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NightRose.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Witch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Witch.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SoulEater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SoulEater.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Gothic Kawaii",
+  "localization_name": "Gothic Kawaii"
+}

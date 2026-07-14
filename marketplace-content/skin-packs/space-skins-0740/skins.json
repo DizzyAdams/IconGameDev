@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Space1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Space8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Space8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Space Skins 0740",
+  "localization_name": "Space Skins 0740"
+}

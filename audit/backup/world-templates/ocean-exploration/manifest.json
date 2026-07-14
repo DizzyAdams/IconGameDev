@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ocean Exploration",
+    "description": "Dive into ocean adventures!",
+    "uuid": "b1d8e0de8-e036-67ef-4d7b-009ba892afb7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "b5b3b8200-4c59-f28b-2f76-00a48bf4eb0d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Dive into ocean adventures!"
+  }
+}

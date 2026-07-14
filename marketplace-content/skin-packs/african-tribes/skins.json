@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "ZuluWarrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZuluWarrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MasaiElder",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MasaiElder.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BerberKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BerberKing.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NubianQueen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NubianQueen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TuaregNomad",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TuaregNomad.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AshantiPrince",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AshantiPrince.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "YorubaSpirit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "YorubaSpirit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EthiopianStar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EthiopianStar.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "African Tribes",
+  "localization_name": "African Tribes"
+}

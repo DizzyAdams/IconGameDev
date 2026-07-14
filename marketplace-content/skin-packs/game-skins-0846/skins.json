@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Game1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Game8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Game8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Game Skins 0846",
+  "localization_name": "Game Skins 0846"
+}

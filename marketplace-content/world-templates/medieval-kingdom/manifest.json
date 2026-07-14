@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Kingdom",
+    "description": "Build your kingdom! Quest system, NPC traders, dungeon raids, and castle defense.",
+    "uuid": "52c413f6-ae62-464e-af99-6fbfcb941e6e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "28efe6a3-4bd1-4a98-9fea-0b9bd0bb7824",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "price": "$4.99 (800 MC)",
+    "product_type": "world_template",
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Build your kingdom! Quest system, NPC traders, dungeon raids, and castle defense."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Factions",
+    "description": "Dominate the server!",
+    "uuid": "2867463d-a9fb-4e50-b476-280d81721192",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "6577c683-9b14-4bdf-adbe-54bd8f45893d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Dominate the server!"
+  }
+}

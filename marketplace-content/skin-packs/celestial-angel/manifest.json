@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Celestial Angel",
+    "description": "8 celestial angel skins! Solar Angel, Moon Angel, Star Angel, Light Angel, Dawn Angel, Twilight, Sky, Divine.",
+    "uuid": "7e981f02-ddc2-4867-a268-832f11ce0526",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3a599b22-c23f-4713-a841-5f457fffb7f0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 celestial angel skins! Solar Angel, Moon Angel, Star Angel, Light Angel, Dawn Angel, Twilight, Sky, Divine."
+  }
+}

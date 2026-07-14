@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "MassSkin_01433_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_01433_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_01433_08.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Mass NeonMint #1433",
+  "localization_name": "Mass NeonMint #1433"
+}

@@ -1,0 +1,32 @@
+To: microsoftpartnercenter@microsoft.com
+Subject: Submission of Bedrock Content Packs for Marketplace Approval
+
+Dear Microsoft Partner Center Team,
+
+Please find attached our submission of Bedrock content packs for consideration in the Microsoft Marketplace.
+
+Submission Details:
+- CNPJ: 52.834.139/0001-34
+- Contact Email: bussins@iconMine.tech
+- Company/Project: Bedrock Minemods
+- Content Type: Behavior Packs, Skin Packs, Mashup Packs
+- Number of Packs: Approximately 791 add-ons (as per README)
+- Manifests Validated: All manifest.json files have been audited and corrected to ensure compliance with Microsoft Marketplace requirements, including:
+    * Valid UUIDs for header and modules
+    * Proper version and min_engine_version formats
+    * Authors listed as a non-empty array
+    * Price information included (default $2.99 where missing)
+    * format_version set to 2
+
+Additional Materials:
+- Screenshots and icons for each pack are available in the audit/screenshots directory.
+- Backup of original manifests is stored in audit/backup for reference.
+- Detailed audit and fix reports are available in audit/manifest_report.json and audit/fix_report.json.
+
+We confirm that the content adheres to Microsoft's policies and guidelines for Marketplace submission. We are ready to provide any additional information or assets required for the review process.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Bedrock Minemods Team
+bussins@iconMine.tech

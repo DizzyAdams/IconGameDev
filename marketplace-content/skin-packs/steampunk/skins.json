@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Engineer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Engineer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AirshipCap",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AirshipCap.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Inventor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Inventor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clockmaker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clockmaker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alchemist",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alchemist.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pilot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pilot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Explorer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Explorer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tinkerer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tinkerer.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Steampunk",
+  "localization_name": "Steampunk"
+}

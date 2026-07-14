@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Zeus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zeus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Poseidon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Poseidon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hades",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hades.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Athena",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Athena.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ares",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ares.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Apollo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Apollo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Artemis",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Artemis.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Aphrodite",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Aphrodite.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Greek Mythology",
+  "localization_name": "Greek Mythology"
+}

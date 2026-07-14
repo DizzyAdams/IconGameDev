@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "RedBot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RedBot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Engineer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Engineer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mechanic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mechanic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hacker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hacker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyborg",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyborg.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Drone",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Drone.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AI",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AI.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Redstone Tech",
+  "localization_name": "Redstone Tech"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Egyptian Mythology",
+    "description": "8 Egyptian god skins! Ra, Anubis, Horus, Bastet, Osiris, Isis, Seth, Cleopatra.",
+    "uuid": "0b59de59-d4e8-4626-aa9b-3ec22e360f47",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f51af075-d85b-4177-a239-9254ab96d0c5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

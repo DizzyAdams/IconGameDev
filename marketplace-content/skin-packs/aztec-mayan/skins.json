@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "AztecWarrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AztecWarrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MayanPriest",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MayanPriest.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Quetzalcoatl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Quetzalcoatl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JaguarKnight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JaguarKnight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EagleWarrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EagleWarrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SunGod",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SunGod.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MoonGoddess",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MoonGoddess.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SerpentKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SerpentKing.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Aztec Mayan",
+  "localization_name": "Aztec Mayan"
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Cupid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cupid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LoveAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LoveAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HeartQueen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HeartQueen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoseKnight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoseKnight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sweetheart",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sweetheart.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lovestruck",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lovestruck.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RomanticSoul",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RomanticSoul.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TrueLove",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TrueLove.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Valentine's 2027",
+  "localization_name": "Valentine's 2027"
+}

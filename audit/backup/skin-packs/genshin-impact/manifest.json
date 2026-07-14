@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Elemental World Travelers",
+    "description": "8 elemental world traveler skins from fantasy realms. (adapted from: 8 Genshin Impact skins! Hu Tao, Ganyu, Zhongli, Raiden, Xiao, Kazuha,…",
+    "uuid": "fee079678-1ba4-66de-fb17-00d5aeecf74d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f8ce7ebf3-2ffc-a77c-19a8-000a256f67e4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 elemental world traveler skins from fantasy realms. (adapted from: 8 Genshin Impact skins! Hu Tao, Ganyu, Zhongli, Raiden, Xiao, Kazuha,…"
+  }
+}

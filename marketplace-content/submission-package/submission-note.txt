@@ -1,0 +1,18 @@
+ACESSO DO PACK PARA APROVACAO LOJA MICROSOFT
+"""
+Conteudo pronto para envio')
+
+Para definir que as nossas skins .mcpack devem ser aprovadas e vendidas no Marketplace,
+precisa de:
+ Horario': Pedro/Milena/Helio devem solicitar acesso ao Partner no Centro de parceiros
+ Tipo de acesso: Publicador de skins (create/manage submissions)
+ E-mail de contato etc. invites
+
+Nesse e-mail, recomendamos incluir:
+ - Nome do estúdio = IconMyBedrockMods
+ - CNPJ = a ser fornecido'
+ - Link para a pasta com todos os arquivos .mcpack
+ - A confirmacao de que os manifests ja trazem obrigacoes de autor, tipo, etc.
+
+"""
+Envie no e-tapa

@@ -1,0 +1,25 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "pack": "mass_neon-streets_00001",
+      "valid": true,
+      "errors": [],
+      "warnings": [
+        "missing_tier",
+        "missing_price",
+        "missing_product_type",
+        "suboptimal_copy"
+      ],
+      "fixes": [],
+      "asset_status": "CLEAN",
+      "decision": "HOLD",
+      "assets": {
+        "manifest": true,
+        "skins_json": true,
+        "textures": 8,
+        "pack_icon": false
+      }
+    }
+  ]
+}

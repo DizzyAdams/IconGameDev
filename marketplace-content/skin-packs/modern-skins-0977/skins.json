@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Modern1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Modern8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Modern Skins 0977",
+  "localization_name": "Modern Skins 0977"
+}

@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Easter 2027",
+    "description": "8 Easter skins! Easter Bunny, Spring Chick, Egg Hunter, Candy Lord, Flower Bunny, etc.",
+    "uuid": "66fd98f6-17a7-4deb-8492-089ba74cf7df",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7add400f-4af0-4c21-980f-0f4ccd93f1ed",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Easter skins! Easter Bunny, Spring Chick, Egg Hunter, Candy Lord, Flower Bunny, etc."
+  }
+}

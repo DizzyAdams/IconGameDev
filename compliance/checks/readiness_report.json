@@ -1,0 +1,7 @@
+{
+  "artifact_readiness_pct": 100.0,
+  "missing_artifacts": [],
+  "ip_blocked_packs": [],
+  "ip_clean": true,
+  "verdict": "READY"
+}

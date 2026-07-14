@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass ToxicWaste #934",
+    "description": "Generated pack: Mass ToxicWaste #934",
+    "uuid": "fa6cdb3a-b732-da2d-2db0-c3b5acd6e49e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c04e2d6a-4cb8-c9d6-77a0-1c74eda467f6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

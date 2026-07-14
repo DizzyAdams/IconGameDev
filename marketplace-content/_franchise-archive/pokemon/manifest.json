@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pokemon",
+    "description": "8 Pokemon trainer skins! Pikachu, Charizard, Mewtwo, Eevee, Lucario, Greninja, Gengar, Gardevoir.",
+    "uuid": "5f239924-41d9-17fc-96e1-0086b5ab2a35",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "00e09240-c6a5-2ef1-ae2c-008e8cc11c7a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

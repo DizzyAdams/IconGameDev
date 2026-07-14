@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "SweatLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatLord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatKing.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatQueen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatQueen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatAce",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatAce.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatPro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatPro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatOG",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatOG.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatOG2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatOG2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatGod",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatGod.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Sweat PVP",
+  "localization_name": "Sweat PVP"
+}

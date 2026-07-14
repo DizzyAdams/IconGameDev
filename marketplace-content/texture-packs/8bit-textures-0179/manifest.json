@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "8Bit Textures 0179",
+    "description": "8Bit Textures 0179",
+    "uuid": "89ff5db1-0b5e-4110-bf99-567353d3cea6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bf2a7d91-f5fd-4b22-8470-591200ea44b9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

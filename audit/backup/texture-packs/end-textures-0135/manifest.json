@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "End Textures 0135",
+    "description": "End Textures 0135",
+    "uuid": "9f60539e-75b4-4ef0-9bf5-f0871063a6db",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a2559bea-a9b6-45cf-88f0-385c803c48db",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

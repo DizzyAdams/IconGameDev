@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Fantasy1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fantasy8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fantasy8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Fantasy Skins 0453",
+  "localization_name": "Fantasy Skins 0453"
+}

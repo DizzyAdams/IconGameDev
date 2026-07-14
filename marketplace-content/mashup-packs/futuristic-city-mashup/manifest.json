@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic City Mashup",
+    "description": "✓ Complete world + texture transformation",
+    "uuid": "ceea2d85-2658-471c-9cb4-4f38fe1e5f5c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e9176b22-da9a-4ded-9cca-cf5e26dbfad2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "price": "$6.99 (1120 MC)",
+    "price_usd": 6.99,
+    "price_mc": 1120,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "✓ Complete world + texture transformation"
+  }
+}

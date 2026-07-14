@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tech Wear",
+    "description": "8 tech-wear skins! Cyber Jacket, Neo Runner, Digital Ghost, Synth Wave, Pixel Blade, etc.",
+    "uuid": "0fe3291e-e82e-43fe-8500-121026d8f598",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "aaaca648-306d-49c6-a959-bed3c3924720",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 tech-wear skins! Cyber Jacket, Neo Runner, Digital Ghost, Synth Wave, Pixel Blade, etc."
+  }
+}

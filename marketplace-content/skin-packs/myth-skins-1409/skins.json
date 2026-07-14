@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Myth1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Myth8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Myth8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Myth Skins 1409",
+  "localization_name": "Myth Skins 1409"
+}

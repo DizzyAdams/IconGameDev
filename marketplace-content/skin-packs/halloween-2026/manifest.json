@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Halloween 2026",
+    "description": "12 spooky Halloween skins! Zombies, Vampires, Werewolves, and more!",
+    "uuid": "c3bf444f-1c3e-460b-9d11-443bc2352f47",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c63f51e1-2f69-4adb-9a8d-1ce8cdff254b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

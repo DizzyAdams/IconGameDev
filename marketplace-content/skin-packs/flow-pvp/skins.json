@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "FlowRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowPurple",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowPurple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowGold",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowGold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowCrystal",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowCrystal.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowVoid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowVoid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowWhite",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowWhite.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Flow PVP",
+  "localization_name": "Flow PVP"
+}

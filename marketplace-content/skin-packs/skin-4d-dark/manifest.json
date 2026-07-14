@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "4D Dark",
+    "description": "8 dark 4D skins! Shadow, Phantom, Wraith, Reaper, Demon, Mage, Knight, Angel.",
+    "uuid": "cd02471c-fb5c-4f75-b2fe-48247cd9cae1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c5378720-5781-4049-8c84-c7cbc1728e00",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 dark 4D skins! Shadow, Phantom, Wraith, Reaper, Demon, Mage, Knight, Angel."
+  }
+}

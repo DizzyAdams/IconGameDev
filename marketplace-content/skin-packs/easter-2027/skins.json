@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "EasterBunny",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EasterBunny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SpringChick",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SpringChick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EggHunter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EggHunter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CandyLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CandyLord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowerBunny",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowerBunny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ChocolateKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ChocolateKing.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PastelParadise",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PastelParadise.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sunrise",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sunrise.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Easter 2027",
+  "localization_name": "Easter 2027"
+}

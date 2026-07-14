@@ -1,0 +1,30 @@
+=== ONEBLOCK ===
+
+Price: $3.99
+
+LORE:
+A single floating block. That's all you have. Break it, and it respawns — but the block changes. Each phase brings new resources, new mobs, and new challenges. From a humble grass block to end-game riches, your entire world comes from one block.
+
+=== FEATURES ===
+
+PHASE PROGRESSION (10 phases):
+  Phase 1  Grass:      Trees, animals, basic tools
+  Phase 2  Stone:      Ores, furnaces, weapons
+  Phase 3  Iron:       Iron gear, redstone, rails
+  Phase 4  Gold:       Golden apples, powered rails, piglins
+  Phase 5  Lapis:      Enchanting, potions, XP farms
+  Phase 6  Redstone:   Complex machines, pistons, observers
+  Phase 7  Nether:     Netherrack, quartz, soul sand, ghasts
+  Phase 8  End:        End stone, chorus fruit, shulkers
+  Phase 9  Magic:      Books, crystals, beacons, totems
+  Phase 10 Creative:   Commands, special blocks, flying
+
+REWARDS PER PHASE:
+  Each phase unlocks a loot chest containing exclusive items
+  Progress resets on death (optional hardcore mode)
+  Milestone rewards: Cosmetics, spawn eggs, rare blocks
+
+BLOCK EVOLUTION TREE:
+  Grass -> Dirt -> Stone -> Iron -> Gold -> Lapis -> Redstone ->
+  Netherrack -> End Stone -> Purpur -> Obsidian -> Bedrock (final)
+  Each break has weighted RNG for ores and bonus drops

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "DarkShadow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkShadow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Phantom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Phantom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkWraith",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkWraith.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkReaper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkReaper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkDemon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkDemon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkMage",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkMage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkKnight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkKnight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkAngel.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "4D Dark",
+  "localization_name": "4D Dark"
+}

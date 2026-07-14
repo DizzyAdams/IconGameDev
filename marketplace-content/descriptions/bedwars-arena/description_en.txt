@@ -1,0 +1,14 @@
+§nBed Wars Arena§r
+
+4-team Bed Wars map with islands, generators, and arenas.
+
+§nFeatures:§r
+✓ Ready-to-play world
+✓ Custom-built terrain and structures
+✓ Game rules pre-configured
+✓ Great for multiplayer servers
+✓ Fully survival-compatible
+
+§nTags:§r world, minecraft world, bedrock edition, bed wars arena
+
+© Bedrock Minemods — All rights reserved

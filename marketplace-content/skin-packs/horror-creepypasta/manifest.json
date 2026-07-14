@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Creepypasta",
+    "description": "8 creepy horror skins! Nightmare, Endoskeleton, Slenderman, JeffK, Ben Drowned, Ticci Toby, Eyeless Jack, Laughing Jill.",
+    "uuid": "b105884c-8247-4662-b73e-db8f01f56325",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5f23fa16-c634-4fca-9b40-6d2d2afadc84",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

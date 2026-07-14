@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futebol Clubs",
+    "description": "8 national football team skins! Brazil, Argentina, Portugal, England, France, Germany, Netherlands, Spain.",
+    "uuid": "dbf9c4e4-8905-4b68-9150-7fdde7c4892b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "92fdc9a3-a595-4cf4-a2b8-6ffdd1e3767d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 national football team skins! Brazil, Argentina, Portugal, England, France, Germany, Netherlands, Spain."
+  }
+}

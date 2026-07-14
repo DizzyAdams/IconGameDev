@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Warriors Vol.2",
+    "description": "10 epic anime-inspired skins! Includes Sakura, Naruto, Dragon, and more!",
+    "uuid": "5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

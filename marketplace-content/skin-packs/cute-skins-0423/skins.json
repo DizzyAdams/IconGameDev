@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Cute1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cute8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cute8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Cute Skins 0423",
+  "localization_name": "Cute Skins 0423"
+}

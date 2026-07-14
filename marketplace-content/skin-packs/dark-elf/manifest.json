@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark Elf",
+    "description": "8 dark elf fantasy skins! Drow Warrior, Night Elf, Shadow Elf, Blood Elf, Void Elf, High Elf, Wood Elf, Moon Elf.",
+    "uuid": "d96f9b74-a965-4265-a17c-7b20e9d18121",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fe0051e8-0c1a-4e88-bcc3-24491682c8a9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 dark elf fantasy skins! Drow Warrior, Night Elf, Shadow Elf, Blood Elf, Void Elf, High Elf, Wood Elf, Moon Elf."
+  }
+}

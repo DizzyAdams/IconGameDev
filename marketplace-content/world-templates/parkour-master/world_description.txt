@@ -1,0 +1,33 @@
+=== PARKOUR MASTER ===
+
+Price: $3.99
+
+LORE:
+The city rooftops are yours to conquer. A mysterious architect has built 50 courses across the skyline — each one harder than the last. Only the swift and precise will reach the top.
+
+=== FEATURES ===
+
+5 DIFFICULTY TIERS (10 levels each):
+  Novice:     2-block gaps, slow pistons, basic jumping
+  Skilled:    3-block gaps, moving platforms, ladder climbs
+  Advanced:   Ice paths, timed jumps, trap avoidance
+  Expert:     Neo jumps (4+ blocks), 180s, wall runs
+  Master:     Elytra courses, slime launchers, zero-error gauntlets
+
+CHECKPOINT SYSTEM:
+  - Auto-checkpoints every 3-5 levels
+  - Manual checkpoint reset with /checkpoint set
+  - Glass checkpoint pillars glow when activated
+  - /checkpoint list shows all earned checkpoints
+
+TIME TRIALS:
+  - Each level tracks personal best
+  - /pb shows your 10 fastest completions
+  - Gold (top 10%), Silver (top 30%), Bronze (top 60%) medals
+  - Global leaderboard for each difficulty tier
+
+UNLOCKABLE COSMETICS:
+  - Trail particles: Flame, Soul Speed, Sparkle, Dragon Breath
+  - Jump Effects: Double Jump, Spring Boots, Aura Jump
+  - Title colors: Gold, Aqua, Red, Rainbow
+  - Victory dances: Fireworks, Lightning, Explosion

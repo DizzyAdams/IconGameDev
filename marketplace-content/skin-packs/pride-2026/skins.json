@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Rainbow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rainbow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Trans",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Trans.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nonbinary",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nonbinary.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ace",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ace.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Genderfluid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Genderfluid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lesbian",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lesbian.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Pride 2026",
+  "localization_name": "Pride 2026"
+}

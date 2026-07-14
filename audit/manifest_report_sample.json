@@ -1,0 +1,1202 @@
+{
+  "total_checked": 200,
+  "issues": [
+    {
+      "file": "marketplace-content\\behavior-packs\\lucky_blocks\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\behavior-packs\\more_tnt\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\behavior-packs\\mutant_mobs\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\behavior-packs\\op_swords\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\behavior-packs\\pet_dragons\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\inspected\\nature-skins-0028\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0002\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0008\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0011\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0014\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0016\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0026\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0034\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0036\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0045\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0053\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0059\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0062\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0065\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0069\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0073\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0075\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0080\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0084\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0088\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0091\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0093\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0094\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0100\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0109\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0113\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0118\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0124\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0127\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0131\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0133\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0136\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0143\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0145\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0162\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0165\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0168\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0186\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0200\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0214\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\anime-world-mashup-0227\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\candyland-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-city-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0006\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0007\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0009\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0010\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0021\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0025\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0030\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0036\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0042\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0043\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0047\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0054\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0057\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0060\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0066\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0072\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0076\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0078\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0080\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0081\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0082\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0086\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0090\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0096\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0102\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0105\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0106\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0108\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0109\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0111\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0119\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0125\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0134\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0137\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0140\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0141\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0150\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0154\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0160\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0164\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0167\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0178\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0191\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0198\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0207\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\cyberpunk-mashup-0222\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\dragon-world-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\egyptian-sands-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0003\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0007\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0010\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0014\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0017\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0019\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0022\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0028\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0030\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0038\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0041\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0044\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0047\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0051\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0053\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0058\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0061\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0068\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0069\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0070\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0077\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0079\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0084\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0087\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0094\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0096\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0098\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0117\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0120\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0122\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0138\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0143\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0154\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0162\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0175\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0182\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0187\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0193\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0194\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0217\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\fantasy-rpg-mashup-0220\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\futuristic-city-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0001\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0004\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0005\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0008\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0012\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0013\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0015\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0018\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0026\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0032\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0035\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0038\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0051\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0054\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0055\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0057\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0058\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0064\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0067\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0068\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0073\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0074\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0075\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0082\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0085\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0088\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0089\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0090\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0091\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0093\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0106\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0112\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0113\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0118\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0127\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0135\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0139\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0146\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0147\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0153\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0166\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0169\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0170\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0172\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0174\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\horror-mashup-0228\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\ice-arctic-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\japanese-anime-mashup\\manifest.json",
+      "issues": [
+        "header.uuid is not a valid UUID",
+        "modules[0].uuid is not a valid UUID"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0005\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0016\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0019\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0020\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0024\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0025\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0027\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0028\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    },
+    {
+      "file": "marketplace-content\\mashup-packs\\medieval-mashup-0029\\manifest.json",
+      "issues": [
+        "Missing metadata.authors"
+      ]
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass RetroArcade #1106",
+    "description": "Generated pack: Mass RetroArcade #1106",
+    "uuid": "b99484f1-74a9-d30d-9fc4-812c1e50cda2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e9889d95-728f-9386-927f-072905e07171",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

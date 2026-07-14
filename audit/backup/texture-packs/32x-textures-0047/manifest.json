@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "32X Textures 0047",
+    "description": "32X Textures 0047",
+    "uuid": "ee057434-100b-4b04-be71-6830cfdaeba1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a786caf3-a134-4647-8ed9-415844ccbb88",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "localization_name": "Dragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Phoenix",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Phoenix.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Griffin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Griffin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mermaid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mermaid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Centaur",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Centaur.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fairy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fairy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Golem",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Golem.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hydra",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hydra.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chimera",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Chimera.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pegasus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pegasus.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Fantasy Creatures",
+  "localization_name": "Fantasy Creatures"
+}

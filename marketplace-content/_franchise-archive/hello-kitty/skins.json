@@ -1,0 +1,42 @@
+{
+  "skins": [
+    {
+      "localization_name": "HelloKitty",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HelloKitty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MyMelody",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MyMelody.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kuromi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kuromi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cinnamoroll",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cinnamoroll.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pompompurin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pompompurin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BadtzMaru",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BadtzMaru.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Hello Kitty",
+  "localization_name": "Hello Kitty"
+}

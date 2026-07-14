@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "TADC Pack",
+    "description": "8 The Amazing Digital Circus skins! Caine, Pomni, Jax, Ragatha, Gangle, Kinger, Zooble, Bubble.",
+    "uuid": "f9ba1bdd-0f26-4913-12d4-00c975c3ec61",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9dfb141f-97de-79b2-79fe-00f693449e0b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

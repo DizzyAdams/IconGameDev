@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Build Battle",
+    "description": "✓ Ready-to-play world",
+    "uuid": "b519f020f-d67f-3354-d013-0043d8ef2e3f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "bf3c618e2-083a-2b64-abff-00ebffc57dc0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "✓ Ready-to-play world"
+  }
+}

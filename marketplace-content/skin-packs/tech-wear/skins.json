@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "CyberJacket",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberJacket.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeoRunner",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeoRunner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DigitalGhost",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DigitalGhost.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SynthWave",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SynthWave.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PixelBlade",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PixelBlade.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DataFlow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DataFlow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CircuitLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CircuitLord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TechSamurai",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TechSamurai.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Tech Wear",
+  "localization_name": "Tech Wear"
+}

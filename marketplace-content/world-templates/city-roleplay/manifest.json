@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "City Roleplay",
+    "description": "Live in a modern city!",
+    "uuid": "6169ec50-dbe6-4a03-8c3f-319b9458d9dd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "d8c1d89f-5fb6-44b3-8124-a8ff732ce55d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Live in a modern city!"
+  }
+}

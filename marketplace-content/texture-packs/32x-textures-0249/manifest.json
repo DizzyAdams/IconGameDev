@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "32X Textures 0249",
+    "description": "32X Textures 0249",
+    "uuid": "d4ca7026-448d-4957-98d1-9102622c93de",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0dd0b0c3-b30d-46b3-a6e3-8f0fdf536a03",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

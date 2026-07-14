@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "localization_name": "StarKnight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StarKnight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlameHero",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlameHero.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "IceGuardian",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IceGuardian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderStrike",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderStrike.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowViper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowViper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "IronShield",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronShield.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalWing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalWing.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "StormBreaker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StormBreaker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NightBlade",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NightBlade.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SunBringer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SunBringer.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Superheroes",
+  "localization_name": "Superheroes"
+}

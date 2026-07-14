@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "HarajukuGirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HarajukuGirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LolitaDream",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LolitaDream.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DecoraStar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DecoraStar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VisualKei",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VisualKei.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKei",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKei.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PunkLolita",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PunkLolita.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweetLolita",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweetLolita.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GothicLolita",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GothicLolita.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Harajuku Fashion",
+  "localization_name": "Harajuku Fashion"
+}

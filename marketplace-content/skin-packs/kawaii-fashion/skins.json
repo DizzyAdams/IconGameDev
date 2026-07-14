@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "PastelGirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PastelGirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SoftGirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SoftGirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HelloKitty",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HelloKitty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Strawberry",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Strawberry.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bunny",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bunny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bear.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Angel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fairy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fairy.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Kawaii Fashion",
+  "localization_name": "Kawaii Fashion"
+}

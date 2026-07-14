@@ -1,0 +1,14 @@
+§nSkyGrid§r
+
+Every single block is floating in a grid. Survive the chaos!
+
+§nRecursos:§r
+✓ Mundo pronto para jogar
+✓ Terreno e estruturas personalizados
+✓ Regras de jogo pré-configuradas
+✓ Ótimo para servidores multiplayer
+✓ Totalmente compatível com survival
+
+§nTags:§r mundo, minecraft bedrock, skygrid
+
+© Bedrock Minemods — Todos os direitos reservados

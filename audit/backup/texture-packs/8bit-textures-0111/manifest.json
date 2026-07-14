@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "8Bit Textures 0111",
+    "description": "8Bit Textures 0111",
+    "uuid": "24b36a07-ab81-46f6-a49a-b31c6df93007",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "cef18438-3ab1-4aa4-a2c9-81a709bcfaf5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

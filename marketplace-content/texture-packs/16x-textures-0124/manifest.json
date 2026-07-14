@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "16X Textures 0124",
+    "description": "16X Textures 0124",
+    "uuid": "31eb8d31-2f94-47c9-a875-dfbd0cfeb9e1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2346f717-0faf-4eb0-ba80-cfe01aeedc9a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

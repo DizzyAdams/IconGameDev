@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon Cyber",
+    "description": "8 neon cyberpunk skins! Neon gamer, cyber hacker, glitch, volt, pulse, matrix, byte, pixel.",
+    "uuid": "9faea507-ff57-4d9f-b94c-5c5ffabb8f1a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fbbdf5e4-8e67-4d14-ab07-1ade80d45ef3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "GlitchRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlitchRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlitchGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlitchGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MatrixNeo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MatrixNeo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MatrixTrinity",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MatrixTrinity.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BinaryCode",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BinaryCode.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DigitalStorm",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DigitalStorm.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VirusX",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VirusX.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SystemError",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SystemError.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Glitch Matrix",
+  "localization_name": "Glitch Matrix"
+}

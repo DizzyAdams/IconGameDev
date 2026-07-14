@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "32x Natural",
+    "description": "Enhanced 32x32 textures that make your world look stunning while keeping the vanilla feel.",
+    "uuid": "73c4fe93-a8a2-4fa2-9239-d5b5fde223bb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f7dc2a51-e2ad-4fe6-8292-d0190aafcf9e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

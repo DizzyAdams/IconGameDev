@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass RetroArcade #821",
+    "description": "Generated pack: Mass RetroArcade #821",
+    "uuid": "3b0f9b77-5991-a2ca--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5850c354-915d-0e37--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

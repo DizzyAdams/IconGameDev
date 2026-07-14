@@ -1,0 +1,2 @@
+Bed Wars Arena
+4-team Bed Wars map with islands, generators, and arenas.

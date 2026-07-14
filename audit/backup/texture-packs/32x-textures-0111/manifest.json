@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "32X Textures 0111",
+    "description": "32X Textures 0111",
+    "uuid": "09d3be05-8a4c-4e54-97e7-a9cfd220ea43",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "32accaf4-0851-4d82-b5de-a9e34ebc83af",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

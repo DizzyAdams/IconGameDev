@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "KpopStar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "KpopStar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Streetwear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Streetwear.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Idol",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Idol.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dancer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dancer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Chic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Trendy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Trendy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Casual",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Casual.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Model",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Model.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Korean Fashion",
+  "localization_name": "Korean Fashion"
+}

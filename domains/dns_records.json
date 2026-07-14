@@ -1,0 +1,11 @@
+{
+  "domain": "iconminemods.dpdns.org",
+  "fallback": "iconminemods.us.kg",
+  "provider_target": "Vercel",
+  "records": [
+    { "type": "A",     "name": "@",   "value": "76.76.21.21",        "ttl": 3600 },
+    { "type": "CNAME", "name": "www", "value": "cname.vercel-dns.com", "ttl": 3600 },
+    { "type": "TXT",   "name": "@",   "value": "iconminemods-verify=<set-in-dashboard>", "ttl": 3600 }
+  ],
+  "notes": "Set these in the DigitalPlat FreeDomain dashboard (DNS section). A @ points the apex to Vercel; CNAME www enables the www canonical host; TXT is for domain ownership verification (use the value shown in the dashboard). Mirror of DNS in domains.config.json (dns_provider)."
+}

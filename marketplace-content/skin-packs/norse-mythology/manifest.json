@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Norse Mythology",
+    "description": "8 Norse god skins! Odin, Thor, Loki, Freyja, Baldr, Heimdall, Tyr, Hel.",
+    "uuid": "8f920876-d938-4a0e-9a2b-c3a669c99bab",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "235ff81b-bee7-404c-b52c-475a5551cd2e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

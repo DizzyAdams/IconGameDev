@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "32X Textures 0308",
+    "description": "32X Textures 0308",
+    "uuid": "fb98b2d8-a884-4955-a5db-f9b3df1d1c21",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a6e8812f-6afa-412d-8949-075c21d2b4da",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

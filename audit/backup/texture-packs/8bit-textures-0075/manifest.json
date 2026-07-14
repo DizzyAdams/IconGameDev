@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "8Bit Textures 0075",
+    "description": "8Bit Textures 0075",
+    "uuid": "46a1c466-1838-4480-86ad-da19e1b5912d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7fea53e7-182f-42a0-b9f6-cbcebd3bd135",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

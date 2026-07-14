@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "4D Glow",
+    "description": "8 glowing 4D skins! Glow Wolf, Fox, Cat, Panda, Rabbit, Dragon, Phoenix, Demon.",
+    "uuid": "c68a1f1a-9d0c-411a-bfd4-b75dec85a8dc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ba398431-27c3-43ad-8d7b-27098ce8d918",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 glowing 4D skins! Glow Wolf, Fox, Cat, Panda, Rabbit, Dragon, Phoenix, Demon."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Hoodie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hoodie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bomber",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bomber.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sneakerhead",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sneakerhead.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Graffiti",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Graffiti.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beatbox",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beatbox.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bboy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bboy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hypebeast",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hypebeast.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Streetwear Urban",
+  "localization_name": "Streetwear Urban"
+}

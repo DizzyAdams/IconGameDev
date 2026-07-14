@@ -1,0 +1,42 @@
+{
+  "skins": [
+    {
+      "localization_name": "Sonic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sonic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tails",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tails.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Knuckles",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Knuckles.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shadow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shadow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Amy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Amy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eggman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eggman.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Sonic Pack",
+  "localization_name": "Sonic Pack"
+}

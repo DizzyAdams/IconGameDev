@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Bee",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axolotl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Axolotl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Plush",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Plush.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Marshmallow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Marshmallow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dino",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dino.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flower",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Flower.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mail",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mail.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flame",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Flame.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Hive Style",
+  "localization_name": "Hive Style"
+}

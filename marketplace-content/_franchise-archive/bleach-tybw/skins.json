@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Ichigo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ichigo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rukia",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rukia.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Renji",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Renji.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Byakuya",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Byakuya.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Toshiro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Toshiro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kenpachi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kenpachi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yoruichi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Yoruichi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Aizen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Aizen.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Bleach TYBW",
+  "localization_name": "Bleach TYBW"
+}

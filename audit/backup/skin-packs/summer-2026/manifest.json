@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Summer 2026",
+    "description": "10 sunny summer skins! Beach Bums, Surfers, Divers, and more!",
+    "uuid": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

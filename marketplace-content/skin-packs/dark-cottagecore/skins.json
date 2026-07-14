@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "DarkForest",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkForest.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MoonlitMeadow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MoonlitMeadow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WitchGarden",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WitchGarden.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RavenNest",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RavenNest.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowFlower",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowFlower.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NightBloom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NightBloom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FogValley",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FogValley.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TwilightGrove",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TwilightGrove.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Dark Cottagecore",
+  "localization_name": "Dark Cottagecore"
+}

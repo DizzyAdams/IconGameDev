@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Soft Girl",
+    "description": "8 soft girl skins! Pink Dream, Cloud Nine, Bubble Gum, Cotton Candy, Vanilla Sky, Sugar Plum, etc.",
+    "uuid": "316e972e-8f82-4126-a46a-86684880ff73",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c92b5500-07af-423f-97a4-c2816ab15622",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 soft girl skins! Pink Dream, Cloud Nine, Bubble Gum, Cotton Candy, Vanilla Sky, Sugar Plum, etc."
+  }
+}

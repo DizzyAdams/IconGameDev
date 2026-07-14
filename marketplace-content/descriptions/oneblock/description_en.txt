@@ -1,0 +1,14 @@
+§nOneBlock§r
+
+Survive on a single magic block! 10 phases of evolution with unique rewards.
+
+§nFeatures:§r
+✓ Ready-to-play world
+✓ Custom-built terrain and structures
+✓ Game rules pre-configured
+✓ Great for multiplayer servers
+✓ Fully survival-compatible
+
+§nTags:§r world, minecraft world, bedrock edition, oneblock
+
+© Bedrock Minemods — All rights reserved

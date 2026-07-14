@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Christmas 2026",
+    "description": "12 festive Christmas skins! Santa, Elves, Reindeer, and more!",
+    "uuid": "63922ede-549b-467c-85c6-1e6aa5497828",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "02a33763-1529-4499-a54d-526c918764fe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "EGirlPink",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EGirlPink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EGirlPurple",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EGirlPurple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EBoyBlack",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EBoyBlack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EBoyBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EBoyBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SoftBoy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SoftBoy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PastelGoth",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PastelGoth.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberEGirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberEGirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RainbowEBoy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RainbowEBoy.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "E-Girl E-Boy",
+  "localization_name": "E-Girl E-Boy"
+}

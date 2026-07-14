@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass SlimeCaves #913",
+    "description": "Generated pack: Mass SlimeCaves #913",
+    "uuid": "65e1dfe2-33d2-33fc-837a-3c8ed62f86c5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f100def2-e202-88dc-6d57-21755e169240",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

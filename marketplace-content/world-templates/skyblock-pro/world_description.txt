@@ -1,0 +1,30 @@
+=== SKYBLOCK PRO ===
+
+Price: $3.99
+
+LORE:
+You awaken on a tiny floating island above the void. Resources are scarce — just a tree, some dirt, and a hunger for greatness. Use your wits to expand, trade, and conquer the sky.
+
+=== FEATURES ===
+
+STARTING ISLAND LAYOUT:
+  - 7x7 grass block platform with a single oak tree
+  - Chest containing: 1 lava bucket, 1 ice block, 2 bone meal, 10 planks
+  - Cobblestone generator below the island
+  - Spawn platform with safety barrier
+
+CHALLENGE TIERS (25 total):
+  Easy (1-5):   Build a nether portal, craft 16 iron ingots, breed 2 cows
+  Medium (6-12): Reach height Y=200, build a mob farm, collect 16 gold
+  Hard (13-19): Defeat the Wither, collect 32 diamonds, build an automatic farm
+  Expert (20-25): Reach the End, craft a beacon, collect 64 netherite blocks
+
+UPGRADE SHOP (use in-game currency):
+  - Island Size: 11x11 -> 21x21 -> 31x31 ($500 / $1500 / $5000)
+  - Spawner Upgrades, Cobblestone Generator Speed, Bonus Chests
+  - Lucky Blocks, Resource Minions, Auto-Sell NPC
+
+ISLAND RANKINGS:
+  - Points earned per challenge completed
+  - Leaderboard syncs with all players on the realm
+  - Top 10 players get cosmetic island prefixes

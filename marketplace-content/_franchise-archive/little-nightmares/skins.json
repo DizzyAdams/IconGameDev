@@ -1,0 +1,42 @@
+{
+  "skins": [
+    {
+      "localization_name": "Mono",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mono.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Six",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Six.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThinMan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThinMan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TheLady",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TheLady.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RunawayKid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RunawayKid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TheHunter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TheHunter.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Little Nightmares",
+  "localization_name": "Little Nightmares"
+}

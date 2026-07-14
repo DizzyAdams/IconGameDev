@@ -1,0 +1,78 @@
+{
+  "skins": [
+    {
+      "localization_name": "Wolf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wolf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fox",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fox.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Panda",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Panda.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tiger",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tiger.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lion",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lion.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bear.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eagle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eagle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shark",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shark.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Phoenix",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Phoenix.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Unicorn",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Unicorn.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cat.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Animals",
+  "localization_name": "Animals"
+}

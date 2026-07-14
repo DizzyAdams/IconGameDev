@@ -1,0 +1,855 @@
+{
+  "generated": [
+    {
+      "pack": "32x-natural",
+      "en_preview": "\u00a7n32x Natural\u00a7r\n\nEnhanced 32x32 textures that make your world look stunning whil",
+      "pt_preview": "\u00a7n32x Natural\u00a7r\n\nEnhanced 32x32 textures that make your world look stunning whil"
+    },
+    {
+      "pack": "3d-default",
+      "en_preview": "\u00a7n3D Default\u00a7r\n\nDefault textures with 3D depth shadows and highlights.\n\n\u00a7nFeatur",
+      "pt_preview": "\u00a7n3D Default\u00a7r\n\nDefault textures with 3D depth shadows and highlights.\n\n\u00a7nRecurs"
+    },
+    {
+      "pack": "african-tribes",
+      "en_preview": "\u00a7nAfrican Tribes\u00a7r\n\n8 African tribal skins! Zulu Warrior, Masai Elder, Berber Ki",
+      "pt_preview": "\u00a7nAfrican Tribes\u00a7r\n\n8 African tribal skins! Zulu Warrior, Masai Elder, Berber Ki"
+    },
+    {
+      "pack": "anarchy-server",
+      "en_preview": "\u00a7nAnarchy Server\u00a7r\n\nNo rules. Total chaos!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n",
+      "pt_preview": "\u00a7nAnarchy Server\u00a7r\n\nNo rules. Total chaos!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jo"
+    },
+    {
+      "pack": "animals",
+      "en_preview": "\u00a7nAnimals\u00a7r\n\n12 amazing animal skins! Wolves, Foxes, Pandas, Tigers, and more!\n\n",
+      "pt_preview": "\u00a7nAnimals\u00a7r\n\n12 amazing animal skins! Wolves, Foxes, Pandas, Tigers, and more!\n\n"
+    },
+    {
+      "pack": "anime-girls-vol2",
+      "en_preview": "\u00a7nAnime Girls Vol 2\u00a7r\n\n8 more anime girl skins! Marin, Yor, Frieren, Mitsuri, No",
+      "pt_preview": "\u00a7nAnime Girls Vol 2\u00a7r\n\n8 more anime girl skins! Marin, Yor, Frieren, Mitsuri, No"
+    },
+    {
+      "pack": "anime-style",
+      "en_preview": "\u00a7nAnime Style\u00a7r\n\nAnime-inspired textures with bright, vibrant colors and smooth ",
+      "pt_preview": "\u00a7nAnime Style\u00a7r\n\nAnime-inspired textures with bright, vibrant colors and smooth "
+    },
+    {
+      "pack": "anime-villains",
+      "en_preview": "\u00a7nAnime Villains\u00a7r\n\n8 iconic anime villains! Frieza, Hisoka, Muzan, Sukuna, Mada",
+      "pt_preview": "\u00a7nAnime Villains\u00a7r\n\n8 iconic anime villains! Frieza, Hisoka, Muzan, Sukuna, Mada"
+    },
+    {
+      "pack": "anime-waifus",
+      "en_preview": "\u00a7nAnime Waifus\u00a7r\n\n8 cute anime waifu skins! Frieren, Rem, Hu Tao, Megumin, Asuna",
+      "pt_preview": "\u00a7nAnime Waifus\u00a7r\n\n8 cute anime waifu skins! Frieren, Rem, Hu Tao, Megumin, Asuna"
+    },
+    {
+      "pack": "anime-warriors",
+      "en_preview": "\u00a7nAnime Warriors\u00a7r\n\n8 Anime-inspired warrior skins! Includes Samurai, Ninja, Mon",
+      "pt_preview": "\u00a7nAnime Warriors\u00a7r\n\n8 Anime-inspired warrior skins! Includes Samurai, Ninja, Mon"
+    },
+    {
+      "pack": "anime-warriors-vol2",
+      "en_preview": "\u00a7nAnime Warriors Vol.2\u00a7r\n\n10 epic anime-inspired skins! Includes Sakura, Naruto,",
+      "pt_preview": "\u00a7nAnime Warriors Vol.2\u00a7r\n\n10 epic anime-inspired skins! Includes Sakura, Naruto,"
+    },
+    {
+      "pack": "anime-world",
+      "en_preview": "\u00a7nAnime World Mashup\u00a7r\n\nFull anime experience! Anime skins + dark texture + Japa",
+      "pt_preview": "\u00a7nAnime World Mashup\u00a7r\n\nFull anime experience! Anime skins + dark texture + Japa"
+    },
+    {
+      "pack": "attack-on-titan",
+      "en_preview": "\u00a7nTitan Strike Warriors\u00a7r\n\n8 titan strike warrior skins for aerial combat fans. ",
+      "pt_preview": "\u00a7nTitan Strike Warriors\u00a7r\n\n8 titan strike warrior skins for aerial combat fans. "
+    },
+    {
+      "pack": "aztec-mayan",
+      "en_preview": "\u00a7nAztec Mayan\u00a7r\n\n8 Aztec/Mayan skins! Aztec Warrior, Mayan Priest, Quetzalcoatl,",
+      "pt_preview": "\u00a7nAztec Mayan\u00a7r\n\n8 Aztec/Mayan skins! Aztec Warrior, Mayan Priest, Quetzalcoatl,"
+    },
+    {
+      "pack": "back-to-school",
+      "en_preview": "\u00a7nBack to School\u00a7r\n\n8 back to school skins! Bookworm, Class President, Gamer Ner",
+      "pt_preview": "\u00a7nBack to School\u00a7r\n\n8 back to school skins! Bookworm, Class President, Gamer Ner"
+    },
+    {
+      "pack": "bare-bones",
+      "en_preview": "\u00a7nBare Bones\u00a7r\n\nMinimalist bare bones textures with flat colors and clean look.\n",
+      "pt_preview": "\u00a7nBare Bones\u00a7r\n\nMinimalist bare bones textures with flat colors and clean look.\n"
+    },
+    {
+      "pack": "bedwars-arena",
+      "en_preview": "\u00a7nBed Wars Arena\u00a7r\n\n4-team Bed Wars map with islands, generators, and arenas.\n\n\u00a7",
+      "pt_preview": "\u00a7nBed Wars Arena\u00a7r\n\n4-team Bed Wars map with islands, generators, and arenas.\n\n\u00a7"
+    },
+    {
+      "pack": "bedwars-tryhard",
+      "en_preview": "\u00a7nBedWars Tryhard\u00a7r\n\n8 BedWars sweat skins! Rusher, Defender, Bridger, TNT, Diam",
+      "pt_preview": "\u00a7nBedWars Tryhard\u00a7r\n\n8 BedWars sweat skins! Rusher, Defender, Bridger, TNT, Diam"
+    },
+    {
+      "pack": "bleach-tybw",
+      "en_preview": "\u00a7nSoul Reaper War\u00a7r\n\n8 soul reaper war skins with sword spirit aesthetics. (adap",
+      "pt_preview": "\u00a7nSoul Reaper War\u00a7r\n\n8 soul reaper war skins with sword spirit aesthetics. (adap"
+    },
+    {
+      "pack": "build-battle",
+      "en_preview": "\u00a7nBuild Battle\u00a7r\n\nCompete and build!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Cust",
+      "pt_preview": "\u00a7nBuild Battle\u00a7r\n\nCompete and build!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 "
+    },
+    {
+      "pack": "candyland-mashup",
+      "en_preview": "\u00a7nCandyland Mashup\u00a7r\n\nSweet candy-themed fantasy world!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complet",
+      "pt_preview": "\u00a7nCandyland Mashup\u00a7r\n\nSweet candy-themed fantasy world!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transfo"
+    },
+    {
+      "pack": "capture-the-flag",
+      "en_preview": "\u00a7nCapture the Flag\u00a7r\n\nSteal the enemy flag!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world",
+      "pt_preview": "\u00a7nCapture the Flag\u00a7r\n\nSteal the enemy flag!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para j"
+    },
+    {
+      "pack": "cartoon-world",
+      "en_preview": "\u00a7nCartoon World\u00a7r\n\nBold cartoon textures with thick outlines and vibrant colors.",
+      "pt_preview": "\u00a7nCartoon World\u00a7r\n\nBold cartoon textures with thick outlines and vibrant colors."
+    },
+    {
+      "pack": "celestial-angel",
+      "en_preview": "\u00a7nCelestial Angel\u00a7r\n\n8 celestial angel skins! Solar Angel, Moon Angel, Star Ange",
+      "pt_preview": "\u00a7nCelestial Angel\u00a7r\n\n8 celestial angel skins! Solar Angel, Moon Angel, Star Ange"
+    },
+    {
+      "pack": "celtic-nature",
+      "en_preview": "\u00a7nCeltic Nature\u00a7r\n\n8 Celtic nature skins! Celtic Druid, Forest Guardian, Green K",
+      "pt_preview": "\u00a7nCeltic Nature\u00a7r\n\n8 Celtic nature skins! Celtic Druid, Forest Guardian, Green K"
+    },
+    {
+      "pack": "chainsaw-man",
+      "en_preview": "\u00a7nDevil Heart Heroes\u00a7r\n\n8 devil heart hero skins with chaotic battle energy. (ad",
+      "pt_preview": "\u00a7nDevil Heart Heroes\u00a7r\n\n8 devil heart hero skins with chaotic battle energy. (ad"
+    },
+    {
+      "pack": "christmas-2026",
+      "en_preview": "\u00a7nChristmas 2026\u00a7r\n\n12 festive Christmas skins! Santa, Elves, Reindeer, and more",
+      "pt_preview": "\u00a7nChristmas 2026\u00a7r\n\n12 festive Christmas skins! Santa, Elves, Reindeer, and more"
+    },
+    {
+      "pack": "city-build",
+      "en_preview": "\u00a7nCity Build\u00a7r\n\nFlat modern city with roads, plots, and infrastructure.\n\n\u00a7nFeatu",
+      "pt_preview": "\u00a7nCity Build\u00a7r\n\nFlat modern city with roads, plots, and infrastructure.\n\n\u00a7nRecur"
+    },
+    {
+      "pack": "city-roleplay",
+      "en_preview": "\u00a7nCity Roleplay\u00a7r\n\nLive in a modern city!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713",
+      "pt_preview": "\u00a7nCity Roleplay\u00a7r\n\nLive in a modern city!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jog"
+    },
+    {
+      "pack": "clear-ui",
+      "en_preview": "\u00a7nClear UI\u00a7r\n\nTransparent and clean UI textures for a minimalist interface.\n\n\u00a7nF",
+      "pt_preview": "\u00a7nClear UI\u00a7r\n\nTransparent and clean UI textures for a minimalist interface.\n\n\u00a7nR"
+    },
+    {
+      "pack": "comic-book",
+      "en_preview": "\u00a7nComic Book\u00a7r\n\nComic book style textures with halftone patterns and pop art col",
+      "pt_preview": "\u00a7nComic Book\u00a7r\n\nComic book style textures with halftone patterns and pop art col"
+    },
+    {
+      "pack": "compact-ui",
+      "en_preview": "\u00a7nCompact UI\u00a7r\n\nCompact and streamlined UI for more screen space.\n\n\u00a7nFeatures:\u00a7r",
+      "pt_preview": "\u00a7nCompact UI\u00a7r\n\nCompact and streamlined UI for more screen space.\n\n\u00a7nRecursos:\u00a7r"
+    },
+    {
+      "pack": "cottagecore",
+      "en_preview": "\u00a7nCottagecore\u00a7r\n\n8 cottagecore skins! Meadow Girl, Flower Crown, Strawberry Fiel",
+      "pt_preview": "\u00a7nCottagecore\u00a7r\n\n8 cottagecore skins! Meadow Girl, Flower Crown, Strawberry Fiel"
+    },
+    {
+      "pack": "crystal-pvp",
+      "en_preview": "\u00a7nCrystal PVP\u00a7r\n\n8 crystal PVP skins! Crystal Red, Blue, Green, Purple, Gold, Pi",
+      "pt_preview": "\u00a7nCrystal PVP\u00a7r\n\n8 crystal PVP skins! Crystal Red, Blue, Green, Purple, Gold, Pi"
+    },
+    {
+      "pack": "cyberpunk-2077",
+      "en_preview": "\u00a7nCyberpunk 2077\u00a7r\n\n8 Cyberpunk 2077 skins! V Male, V Female, Johnny, Panam, Jud",
+      "pt_preview": "\u00a7nCyberpunk 2077\u00a7r\n\n8 Cyberpunk 2077 skins! V Male, V Female, Johnny, Panam, Jud"
+    },
+    {
+      "pack": "cyberpunk-city-mashup",
+      "en_preview": "\u00a7nCyberpunk City Mashup\u00a7r\n\nCyberpunk bundle! Neon Cyber skins + Neon Glow textur",
+      "pt_preview": "\u00a7nCyberpunk City Mashup\u00a7r\n\nCyberpunk bundle! Neon Cyber skins + Neon Glow textur"
+    },
+    {
+      "pack": "dark-cottagecore",
+      "en_preview": "\u00a7nDark Cottagecore\u00a7r\n\n8 dark cottagecore skins! Dark Forest, Moonlit Meadow, Wit",
+      "pt_preview": "\u00a7nDark Cottagecore\u00a7r\n\n8 dark cottagecore skins! Dark Forest, Moonlit Meadow, Wit"
+    },
+    {
+      "pack": "dark-elf",
+      "en_preview": "\u00a7nDark Elf\u00a7r\n\n8 dark elf fantasy skins! Drow Warrior, Night Elf, Shadow Elf, Blo",
+      "pt_preview": "\u00a7nDark Elf\u00a7r\n\n8 dark elf fantasy skins! Drow Warrior, Night Elf, Shadow Elf, Blo"
+    },
+    {
+      "pack": "dark-mode",
+      "en_preview": "\u00a7nDark Mode\u00a7r\n\nA moody dark texture pack. Everything is darker, edgier, and more",
+      "pt_preview": "\u00a7nDark Mode\u00a7r\n\nA moody dark texture pack. Everything is darker, edgier, and more"
+    },
+    {
+      "pack": "default-plus",
+      "en_preview": "\u00a7nDefault+ Enhanced\u00a7r\n\nEnhanced default textures with slightly more detail and s",
+      "pt_preview": "\u00a7nDefault+ Enhanced\u00a7r\n\nEnhanced default textures with slightly more detail and s"
+    },
+    {
+      "pack": "demon-slayer",
+      "en_preview": "\u00a7nMoon Breathing Slayers\u00a7r\n\n8 moon breathing slayer skins with elemental blade a",
+      "pt_preview": "\u00a7nMoon Breathing Slayers\u00a7r\n\n8 moon breathing slayer skins with elemental blade a"
+    },
+    {
+      "pack": "desert-temple-raid",
+      "en_preview": "\u00a7nDesert Temple Raid\u00a7r\n\nExplore ancient desert temples!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-t",
+      "pt_preview": "\u00a7nDesert Temple Raid\u00a7r\n\nExplore ancient desert temples!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo p"
+    },
+    {
+      "pack": "direction-hints",
+      "en_preview": "\u00a7nDirection Hints\u00a7r\n\nDirectional arrows on hoppers, dispensers and droppers.\n\n\u00a7n",
+      "pt_preview": "\u00a7nDirection Hints\u00a7r\n\nDirectional arrows on hoppers, dispensers and droppers.\n\n\u00a7n"
+    },
+    {
+      "pack": "dragon-ball",
+      "en_preview": "\u00a7nSpirit Energy Warriors\u00a7r\n\n8 spirit energy warrior skins at max power level! (a",
+      "pt_preview": "\u00a7nSpirit Energy Warriors\u00a7r\n\n8 spirit energy warrior skins at max power level! (a"
+    },
+    {
+      "pack": "dragon-lair",
+      "en_preview": "\u00a7nDragon's Lair\u00a7r\n\nEpic adventure map with a dragon boss at the end.\n\n\u00a7nFeatures",
+      "pt_preview": "\u00a7nDragon's Lair\u00a7r\n\nEpic adventure map with a dragon boss at the end.\n\n\u00a7nRecursos"
+    },
+    {
+      "pack": "dragon-world-mashup",
+      "en_preview": "\u00a7nDragon World Mashup\u00a7r\n\nDragon fantasy bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete world ",
+      "pt_preview": "\u00a7nDragon World Mashup\u00a7r\n\nDragon fantasy bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7\u00e3o c"
+    },
+    {
+      "pack": "dragonborn",
+      "en_preview": "\u00a7nDragonborn\u00a7r\n\n8 dragonborn skins! Fire Dragon, Ice Dragon, Storm Dragon, Earth",
+      "pt_preview": "\u00a7nDragonborn\u00a7r\n\n8 dragonborn skins! Fire Dragon, Ice Dragon, Storm Dragon, Earth"
+    },
+    {
+      "pack": "e-girl-eboy",
+      "en_preview": "\u00a7nE-Girl E-Boy\u00a7r\n\n8 e-girl/e-boy skins! E-Girl Pink, Purple, E-Boy Black, Blue, ",
+      "pt_preview": "\u00a7nE-Girl E-Boy\u00a7r\n\n8 e-girl/e-boy skins! E-Girl Pink, Purple, E-Boy Black, Blue, "
+    },
+    {
+      "pack": "easter-2027",
+      "en_preview": "\u00a7nEaster 2027\u00a7r\n\n8 Easter skins! Easter Bunny, Spring Chick, Egg Hunter, Candy L",
+      "pt_preview": "\u00a7nEaster 2027\u00a7r\n\n8 Easter skins! Easter Bunny, Spring Chick, Egg Hunter, Candy L"
+    },
+    {
+      "pack": "egyptian-mythology",
+      "en_preview": "\u00a7nEgyptian Mythology\u00a7r\n\n8 Egyptian god skins! Ra, Anubis, Horus, Bastet, Osiris,",
+      "pt_preview": "\u00a7nEgyptian Mythology\u00a7r\n\n8 Egyptian god skins! Ra, Anubis, Horus, Bastet, Osiris,"
+    },
+    {
+      "pack": "egyptian-sands-mashup",
+      "en_preview": "\u00a7nEgyptian Sands Mashup\u00a7r\n\nAncient Egypt bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete world",
+      "pt_preview": "\u00a7nEgyptian Sands Mashup\u00a7r\n\nAncient Egypt bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7\u00e3o "
+    },
+    {
+      "pack": "emo-pack",
+      "en_preview": "\u00a7nEmo Pack\u00a7r\n\n8 emo skins! Emo Boy, Emo Girl, Scene Queen, Punk Rocker, Grunge L",
+      "pt_preview": "\u00a7nEmo Pack\u00a7r\n\n8 emo skins! Emo Boy, Emo Girl, Scene Queen, Punk Rocker, Grunge L"
+    },
+    {
+      "pack": "end-revamp",
+      "en_preview": "\u00a7nEnd Revamp\u00a7r\n\nEthereal End dimension texture revamp with cosmic vibes.\n\n\u00a7nFeat",
+      "pt_preview": "\u00a7nEnd Revamp\u00a7r\n\nEthereal End dimension texture revamp with cosmic vibes.\n\n\u00a7nRecu"
+    },
+    {
+      "pack": "factions",
+      "en_preview": "\u00a7nFactions\u00a7r\n\nDominate the server!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Custom",
+      "pt_preview": "\u00a7nFactions\u00a7r\n\nDominate the server!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 Te"
+    },
+    {
+      "pack": "faithful-16x",
+      "en_preview": "\u00a7n16x Faithful\u00a7r\n\nA clean 16x16 texture pack that keeps the vanilla feel with en",
+      "pt_preview": "\u00a7n16x Faithful\u00a7r\n\nA clean 16x16 texture pack that keeps the vanilla feel with en"
+    },
+    {
+      "pack": "faithful-32x",
+      "en_preview": "\u00a7nFaithful 32x\u00a7r\n\nFaithful 32x resolution bump keeping the original Minecraft fe",
+      "pt_preview": "\u00a7nFaithful 32x\u00a7r\n\nFaithful 32x resolution bump keeping the original Minecraft fe"
+    },
+    {
+      "pack": "fantasy-creatures",
+      "en_preview": "\u00a7nFantasy Creatures\u00a7r\n\n10 mythical fantasy creature skins! Dragons, Phoenixes, G",
+      "pt_preview": "\u00a7nFantasy Creatures\u00a7r\n\n10 mythical fantasy creature skins! Dragons, Phoenixes, G"
+    },
+    {
+      "pack": "fantasy-rpg",
+      "en_preview": "\u00a7nFantasy RPG\u00a7r\n\nMagical fantasy textures for RPG worlds and adventures.\n\n\u00a7nFeat",
+      "pt_preview": "\u00a7nFantasy RPG\u00a7r\n\nMagical fantasy textures for RPG worlds and adventures.\n\n\u00a7nRecu"
+    },
+    {
+      "pack": "fantasy-rpg-mashup",
+      "en_preview": "\u00a7nFantasy RPG Mashup\u00a7r\n\nEpic RPG bundle! Fantasy RPG skins + Medieval RP texture",
+      "pt_preview": "\u00a7nFantasy RPG Mashup\u00a7r\n\nEpic RPG bundle! Fantasy RPG skins + Medieval RP texture"
+    },
+    {
+      "pack": "flow-pvp",
+      "en_preview": "\u00a7nFlow PVP\u00a7r\n\n8 smooth PVP skins! Flow Red, Blue, Green, Purple, Gold, Crystal, ",
+      "pt_preview": "\u00a7nFlow PVP\u00a7r\n\n8 smooth PVP skins! Flow Red, Blue, Green, Purple, Gold, Crystal, "
+    },
+    {
+      "pack": "fnaf-pack",
+      "en_preview": "\u00a7nMidnight Animatronics\u00a7r\n\n8 midnight animatronic skins from haunted arcades. (a",
+      "pt_preview": "\u00a7nMidnight Animatronics\u00a7r\n\n8 midnight animatronic skins from haunted arcades. (a"
+    },
+    {
+      "pack": "futebol-clubs",
+      "en_preview": "\u00a7nFutebol Clubs\u00a7r\n\n8 national football team skins! Brazil, Argentina, Portugal, ",
+      "pt_preview": "\u00a7nFutebol Clubs\u00a7r\n\n8 national football team skins! Brazil, Argentina, Portugal, "
+    },
+    {
+      "pack": "future-2027",
+      "en_preview": "\u00a7nFuture 2027\u00a7r\n\n8 futuristic 2027 skins! Future Tech, Hologram, Digital Mind, C",
+      "pt_preview": "\u00a7nFuture 2027\u00a7r\n\n8 futuristic 2027 skins! Future Tech, Hologram, Digital Mind, C"
+    },
+    {
+      "pack": "futuristic-city-mashup",
+      "en_preview": "\u00a7nFuturistic City Mashup\u00a7r\n\nFuture city bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete world ",
+      "pt_preview": "\u00a7nFuturistic City Mashup\u00a7r\n\nFuture city bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7\u00e3o c"
+    },
+    {
+      "pack": "genshin-impact",
+      "en_preview": "\u00a7nElemental World Travelers\u00a7r\n\n8 elemental world traveler skins from fantasy rea",
+      "pt_preview": "\u00a7nElemental World Travelers\u00a7r\n\n8 elemental world traveler skins from fantasy rea"
+    },
+    {
+      "pack": "glitch-matrix",
+      "en_preview": "\u00a7nGlitch Matrix\u00a7r\n\n8 glitch/matrix skins! Glitch Red, Green, Matrix Neo, Trinity",
+      "pt_preview": "\u00a7nGlitch Matrix\u00a7r\n\n8 glitch/matrix skins! Glitch Red, Green, Matrix Neo, Trinity"
+    },
+    {
+      "pack": "glowing-ores",
+      "en_preview": "\u00a7nGlowing Ores\u00a7r\n\nOres that glow and shimmer making them easy to spot while mini",
+      "pt_preview": "\u00a7nGlowing Ores\u00a7r\n\nOres that glow and shimmer making them easy to spot while mini"
+    },
+    {
+      "pack": "gothic-kawaii",
+      "en_preview": "\u00a7nGothic Kawaii\u00a7r\n\n8 dark gothic kawaii skins! Gothic lolita, dark angel, vampir",
+      "pt_preview": "\u00a7nGothic Kawaii\u00a7r\n\n8 dark gothic kawaii skins! Gothic lolita, dark angel, vampir"
+    },
+    {
+      "pack": "greek-mythology",
+      "en_preview": "\u00a7nGreek Mythology\u00a7r\n\n8 Greek god skins! Zeus, Poseidon, Hades, Athena, Ares, Apo",
+      "pt_preview": "\u00a7nGreek Mythology\u00a7r\n\n8 Greek god skins! Zeus, Poseidon, Hades, Athena, Ares, Apo"
+    },
+    {
+      "pack": "hacker-neon",
+      "en_preview": "\u00a7nHacker Neon\u00a7r\n\n8 hacker neon skins! Hacker Green, Blue, Red, Purple, Gold, Cya",
+      "pt_preview": "\u00a7nHacker Neon\u00a7r\n\n8 hacker neon skins! Hacker Green, Blue, Red, Purple, Gold, Cya"
+    },
+    {
+      "pack": "halloween-2026",
+      "en_preview": "\u00a7nHalloween 2026\u00a7r\n\n12 spooky Halloween skins! Zombies, Vampires, Werewolves, an",
+      "pt_preview": "\u00a7nHalloween 2026\u00a7r\n\n12 spooky Halloween skins! Zombies, Vampires, Werewolves, an"
+    },
+    {
+      "pack": "halloween-night",
+      "en_preview": "\u00a7nHalloween Night Mashup\u00a7r\n\nSpookiest Halloween bundle! Halloween skins + dark t",
+      "pt_preview": "\u00a7nHalloween Night Mashup\u00a7r\n\nSpookiest Halloween bundle! Halloween skins + dark t"
+    },
+    {
+      "pack": "harajuku-fashion",
+      "en_preview": "\u00a7nHarajuku Fashion\u00a7r\n\n8 Harajuku street fashion skins! Harajuku Girl, Lolita Dre",
+      "pt_preview": "\u00a7nHarajuku Fashion\u00a7r\n\n8 Harajuku street fashion skins! Harajuku Girl, Lolita Dre"
+    },
+    {
+      "pack": "hardcore-survival",
+      "en_preview": "\u00a7nHardcore Survival\u00a7r\n\nOne life only!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Cus",
+      "pt_preview": "\u00a7nHardcore Survival\u00a7r\n\nOne life only!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713"
+    },
+    {
+      "pack": "hello-kitty",
+      "en_preview": "\u00a7nCute Bow Friends\u00a7r\n\n8 cute bow friend skins with kawaii fashion style. (adapte",
+      "pt_preview": "\u00a7nCute Bow Friends\u00a7r\n\n8 cute bow friend skins with kawaii fashion style. (adapte"
+    },
+    {
+      "pack": "hive-style",
+      "en_preview": "\u00a7nHive Style\u00a7r\n\n8 Hive-style skins! Bee, axolotl, plush, marshmallow, dino, flow",
+      "pt_preview": "\u00a7nHive Style\u00a7r\n\n8 Hive-style skins! Bee, axolotl, plush, marshmallow, dino, flow"
+    },
+    {
+      "pack": "horror-creepypasta",
+      "en_preview": "\u00a7nHorror Creepypasta\u00a7r\n\n8 creepy horror skins! Nightmare, Endoskeleton, Slenderm",
+      "pt_preview": "\u00a7nHorror Creepypasta\u00a7r\n\n8 creepy horror skins! Nightmare, Endoskeleton, Slenderm"
+    },
+    {
+      "pack": "horror-gothic",
+      "en_preview": "\u00a7nHorror Gothic\u00a7r\n\nDark gothic textures for horror and spooky Minecraft builds.\n",
+      "pt_preview": "\u00a7nHorror Gothic\u00a7r\n\nDark gothic textures for horror and spooky Minecraft builds.\n"
+    },
+    {
+      "pack": "horror-mashup",
+      "en_preview": "\u00a7nHorror Mashup\u00a7r\n\nSpooky horror bundle! Horror Creepypasta skins + Horror Gothi",
+      "pt_preview": "\u00a7nHorror Mashup\u00a7r\n\nSpooky horror bundle! Horror Creepypasta skins + Horror Gothi"
+    },
+    {
+      "pack": "hunger-games",
+      "en_preview": "\u00a7nHunger Games\u00a7r\n\nBattle in the arena!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Cu",
+      "pt_preview": "\u00a7nHunger Games\u00a7r\n\nBattle in the arena!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n"
+    },
+    {
+      "pack": "ice-arctic-mashup",
+      "en_preview": "\u00a7nIce Arctic Mashup\u00a7r\n\nFrozen arctic wilderness!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete world",
+      "pt_preview": "\u00a7nIce Arctic Mashup\u00a7r\n\nFrozen arctic wilderness!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7\u00e3o "
+    },
+    {
+      "pack": "ice-spikes-survival",
+      "en_preview": "\u00a7nIce Spikes Survival\u00a7r\n\nSurvive frozen wastelands!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-pl",
+      "pt_preview": "\u00a7nIce Spikes Survival\u00a7r\n\nSurvive frozen wastelands!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pront"
+    },
+    {
+      "pack": "japanese-anime-mashup",
+      "en_preview": "\u00a7nJapanese Anime Mashup\u00a7r\n\nFull Japanese anime experience! Japanese Fashion skin",
+      "pt_preview": "\u00a7nJapanese Anime Mashup\u00a7r\n\nFull Japanese anime experience! Japanese Fashion skin"
+    },
+    {
+      "pack": "japanese-fashion",
+      "en_preview": "\u00a7nJapanese Fashion\u00a7r\n\n8 traditional Japanese fashion skins! Kimono, schoolgirl, ",
+      "pt_preview": "\u00a7nJapanese Fashion\u00a7r\n\n8 traditional Japanese fashion skins! Kimono, schoolgirl, "
+    },
+    {
+      "pack": "jujutsu-kaisen",
+      "en_preview": "\u00a7nCurse Spirit Warriors\u00a7r\n\n8 cursed spirit warrior skins! Inspired by anime batt",
+      "pt_preview": "\u00a7nCurse Spirit Warriors\u00a7r\n\n8 cursed spirit warrior skins! Inspired by anime batt"
+    },
+    {
+      "pack": "kawaii-fashion",
+      "en_preview": "\u00a7nKawaii Fashion\u00a7r\n\n8 pastel kawaii fashion skins! Pastel girl, soft girl, hello",
+      "pt_preview": "\u00a7nKawaii Fashion\u00a7r\n\n8 pastel kawaii fashion skins! Pastel girl, soft girl, hello"
+    },
+    {
+      "pack": "kitpvp-arena",
+      "en_preview": "\u00a7nKitPVP Arena\u00a7r\n\nChoose your class and fight!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play wo",
+      "pt_preview": "\u00a7nKitPVP Arena\u00a7r\n\nChoose your class and fight!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto par"
+    },
+    {
+      "pack": "kitpvp-gods",
+      "en_preview": "\u00a7nKitPVP Gods\u00a7r\n\n8 KitPVP class skins! Archer, Tank, Berserker, Mage, Assassin, ",
+      "pt_preview": "\u00a7nKitPVP Gods\u00a7r\n\n8 KitPVP class skins! Archer, Tank, Berserker, Mage, Assassin, "
+    },
+    {
+      "pack": "korean-fashion",
+      "en_preview": "\u00a7nKorean Fashion\u00a7r\n\n8 K-pop inspired fashion skins! K-pop star, streetwear, idol",
+      "pt_preview": "\u00a7nKorean Fashion\u00a7r\n\n8 K-pop inspired fashion skins! K-pop star, streetwear, idol"
+    },
+    {
+      "pack": "lifesteal-smp",
+      "en_preview": "\u00a7nLifesteal SMP\u00a7r\n\nSurvive and steal hearts!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play worl",
+      "pt_preview": "\u00a7nLifesteal SMP\u00a7r\n\nSurvive and steal hearts!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para "
+    },
+    {
+      "pack": "little-nightmares",
+      "en_preview": "\u00a7nDark Little Dreams\u00a7r\n\n8 dark little dream skins from shadowy childhood tales. ",
+      "pt_preview": "\u00a7nDark Little Dreams\u00a7r\n\n8 dark little dream skins from shadowy childhood tales. "
+    },
+    {
+      "pack": "low-fire",
+      "en_preview": "\u00a7nLow Fire\u00a7r\n\nReduced fire obstruction textures for better visibility during com",
+      "pt_preview": "\u00a7nLow Fire\u00a7r\n\nReduced fire obstruction textures for better visibility during com"
+    },
+    {
+      "pack": "maze-runner",
+      "en_preview": "\u00a7nMaze Runner\u00a7r\n\nFind your way out!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Custo",
+      "pt_preview": "\u00a7nMaze Runner\u00a7r\n\nFind your way out!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 T"
+    },
+    {
+      "pack": "mecha-anime",
+      "en_preview": "\u00a7nMecha Anime\u00a7r\n\n8 mecha anime skins! Gundam, Eva, Gurren Lagann, Code Geass, Al",
+      "pt_preview": "\u00a7nMecha Anime\u00a7r\n\n8 mecha anime skins! Gundam, Eva, Gurren Lagann, Code Geass, Al"
+    },
+    {
+      "pack": "medieval-kingdom",
+      "en_preview": "\u00a7nMedieval Kingdom\u00a7r\n\nBuild your kingdom! Quest system, NPC traders, dungeon rai",
+      "pt_preview": "\u00a7nMedieval Kingdom\u00a7r\n\nBuild your kingdom! Quest system, NPC traders, dungeon rai"
+    },
+    {
+      "pack": "medieval-kingdoms",
+      "en_preview": "\u00a7nMedieval Kingdoms Mashup\u00a7r\n\nEverything medieval! Medieval Knights skins + matc",
+      "pt_preview": "\u00a7nMedieval Kingdoms Mashup\u00a7r\n\nEverything medieval! Medieval Knights skins + matc"
+    },
+    {
+      "pack": "medieval-knights",
+      "en_preview": "\u00a7nMedieval Knights\u00a7r\n\n8 epic Medieval Knight skins! Armor up with Knights, Arche",
+      "pt_preview": "\u00a7nMedieval Knights\u00a7r\n\n8 epic Medieval Knight skins! Armor up with Knights, Arche"
+    },
+    {
+      "pack": "medieval-rp",
+      "en_preview": "\u00a7nMedieval RP\u00a7r\n\nMedieval roleplay textures with warm, rustic colors for fantasy",
+      "pt_preview": "\u00a7nMedieval RP\u00a7r\n\nMedieval roleplay textures with warm, rustic colors for fantasy"
+    },
+    {
+      "pack": "medieval-siege-mashup",
+      "en_preview": "\u00a7nMedieval Siege Mashup\u00a7r\n\nMedieval warfare bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete wo",
+      "pt_preview": "\u00a7nMedieval Siege Mashup\u00a7r\n\nMedieval warfare bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7"
+    },
+    {
+      "pack": "medieval-smp",
+      "en_preview": "\u00a7nMedieval SMP\u00a7r\n\nBuild in medieval times!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n",
+      "pt_preview": "\u00a7nMedieval SMP\u00a7r\n\nBuild in medieval times!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jo"
+    },
+    {
+      "pack": "military-ops",
+      "en_preview": "\u00a7nMilitary Ops\u00a7r\n\n8 military ops skins! Navy SEAL, Army Soldier, Air Force Pilot",
+      "pt_preview": "\u00a7nMilitary Ops\u00a7r\n\n8 military ops skins! Navy SEAL, Army Soldier, Air Force Pilot"
+    },
+    {
+      "pack": "minigames-hub",
+      "en_preview": "\u00a7nMinigames Hub\u00a7r\n\n5 fun minigames!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Custo",
+      "pt_preview": "\u00a7nMinigames Hub\u00a7r\n\n5 fun minigames!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 T"
+    },
+    {
+      "pack": "minimalist-mono",
+      "en_preview": "\u00a7nMinimalist Mono\u00a7r\n\n8 minimalist monochrome skins! Whiteout, Blackout, Gray Sca",
+      "pt_preview": "\u00a7nMinimalist Mono\u00a7r\n\n8 minimalist monochrome skins! Whiteout, Blackout, Gray Sca"
+    },
+    {
+      "pack": "naruto-shippuden",
+      "en_preview": "\u00a7nNinja Storm Legends\u00a7r\n\n8 ninja storm legend skins! Master of elemental chakra.",
+      "pt_preview": "\u00a7nNinja Storm Legends\u00a7r\n\n8 ninja storm legend skins! Master of elemental chakra."
+    },
+    {
+      "pack": "natural-256x",
+      "en_preview": "\u00a7nNatural 256x HD\u00a7r\n\nUltra high definition 256x natural textures for maximum det",
+      "pt_preview": "\u00a7nNatural 256x HD\u00a7r\n\nUltra high definition 256x natural textures for maximum det"
+    },
+    {
+      "pack": "neon-cyber",
+      "en_preview": "\u00a7nNeon Cyber\u00a7r\n\n8 neon cyberpunk skins! Neon gamer, cyber hacker, glitch, volt, ",
+      "pt_preview": "\u00a7nNeon Cyber\u00a7r\n\n8 neon cyberpunk skins! Neon gamer, cyber hacker, glitch, volt, "
+    },
+    {
+      "pack": "neon-glow",
+      "en_preview": "\u00a7nNeon Glow\u00a7r\n\nBright neon-colored textures that glow and pop with vibrant energ",
+      "pt_preview": "\u00a7nNeon Glow\u00a7r\n\nBright neon-colored textures that glow and pop with vibrant energ"
+    },
+    {
+      "pack": "nether-overhaul",
+      "en_preview": "\u00a7nNether Overhaul\u00a7r\n\nComplete Nether dimension texture overhaul with dark tones.",
+      "pt_preview": "\u00a7nNether Overhaul\u00a7r\n\nComplete Nether dimension texture overhaul with dark tones."
+    },
+    {
+      "pack": "ninja-samurai-mashup",
+      "en_preview": "\u00a7nNinja Samurai Mashup\u00a7r\n\nFeudal Japan ninja & samurai!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complet",
+      "pt_preview": "\u00a7nNinja Samurai Mashup\u00a7r\n\nFeudal Japan ninja & samurai!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transfo"
+    },
+    {
+      "pack": "norse-mythology",
+      "en_preview": "\u00a7nNorse Mythology\u00a7r\n\n8 Norse god skins! Odin, Thor, Loki, Freyja, Baldr, Heimdal",
+      "pt_preview": "\u00a7nNorse Mythology\u00a7r\n\n8 Norse god skins! Odin, Thor, Loki, Freyja, Baldr, Heimdal"
+    },
+    {
+      "pack": "number-hotbar",
+      "en_preview": "\u00a7nNumbered Hotbar\u00a7r\n\nSlot numbers on hotbar items for quick inventory reference.",
+      "pt_preview": "\u00a7nNumbered Hotbar\u00a7r\n\nSlot numbers on hotbar items for quick inventory reference."
+    },
+    {
+      "pack": "ocean-exploration",
+      "en_preview": "\u00a7nOcean Exploration\u00a7r\n\nDive into ocean adventures!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-pla",
+      "pt_preview": "\u00a7nOcean Exploration\u00a7r\n\nDive into ocean adventures!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto"
+    },
+    {
+      "pack": "one-piece-wano",
+      "en_preview": "\u00a7nPirate King Crew\u00a7r\n\n8 pirate king crew skins with ocean adventure vibes. (adap",
+      "pt_preview": "\u00a7nPirate King Crew\u00a7r\n\n8 pirate king crew skins with ocean adventure vibes. (adap"
+    },
+    {
+      "pack": "oneblock",
+      "en_preview": "\u00a7nOneBlock\u00a7r\n\nSurvive on a single magic block! 10 phases of evolution with uniqu",
+      "pt_preview": "\u00a7nOneBlock\u00a7r\n\nSurvive on a single magic block! 10 phases of evolution with uniqu"
+    },
+    {
+      "pack": "parkour-kingdom",
+      "en_preview": "\u00a7nParkour Kingdom\u00a7r\n\n100+ parkour jumps!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 ",
+      "pt_preview": "\u00a7nParkour Kingdom\u00a7r\n\n100+ parkour jumps!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para joga"
+    },
+    {
+      "pack": "parkour-master",
+      "en_preview": "\u00a7nParkour Master\u00a7r\n\n50 levels of parkour! Checkpoints, leaderboard, cosmetics, a",
+      "pt_preview": "\u00a7nParkour Master\u00a7r\n\n50 levels of parkour! Checkpoints, leaderboard, cosmetics, a"
+    },
+    {
+      "pack": "pastel-cute",
+      "en_preview": "\u00a7nPastel Cute\u00a7r\n\nSoft pastel-colored textures for a cute and cozy Minecraft worl",
+      "pt_preview": "\u00a7nPastel Cute\u00a7r\n\nSoft pastel-colored textures for a cute and cozy Minecraft worl"
+    },
+    {
+      "pack": "pixel-art",
+      "en_preview": "\u00a7nPixel Art\u00a7r\n\n8 retro 8-bit pixel art skins! Heroes, Mages, Knights, and more!\n",
+      "pt_preview": "\u00a7nPixel Art\u00a7r\n\n8 retro 8-bit pixel art skins! Heroes, Mages, Knights, and more!\n"
+    },
+    {
+      "pack": "pokemon",
+      "en_preview": "\u00a7nPocket Monster Trainers\u00a7r\n\n8 pocket monster trainer skins for creature collect",
+      "pt_preview": "\u00a7nPocket Monster Trainers\u00a7r\n\n8 pocket monster trainer skins for creature collect"
+    },
+    {
+      "pack": "potpvp",
+      "en_preview": "\u00a7nPotPVP\u00a7r\n\n8 PotPVP skins! NoDebuff Red, Blue, Green, Debuff God, Refill, Pearl",
+      "pt_preview": "\u00a7nPotPVP\u00a7r\n\n8 PotPVP skins! NoDebuff Red, Blue, Green, Debuff God, Refill, Pearl"
+    },
+    {
+      "pack": "pride-2026",
+      "en_preview": "\u00a7nPride 2026\u00a7r\n\n8 colorful pride-themed skins! Rainbow, trans, bi, pan, nonbinar",
+      "pt_preview": "\u00a7nPride 2026\u00a7r\n\n8 colorful pride-themed skins! Rainbow, trans, bi, pan, nonbinar"
+    },
+    {
+      "pack": "prison-server",
+      "en_preview": "\u00a7nPrison Server\u00a7r\n\nMine to freedom!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Custo",
+      "pt_preview": "\u00a7nPrison Server\u00a7r\n\nMine to freedom!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 T"
+    },
+    {
+      "pack": "pvp-optimized",
+      "en_preview": "\u00a7nPVP Optimized\u00a7r\n\nPVP-optimized textures with high visibility for competitive p",
+      "pt_preview": "\u00a7nPVP Optimized\u00a7r\n\nPVP-optimized textures with high visibility for competitive p"
+    },
+    {
+      "pack": "raid-boss-arena",
+      "en_preview": "\u00a7nRaid Boss Arena\u00a7r\n\nFight epic boss battles!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play wor",
+      "pt_preview": "\u00a7nRaid Boss Arena\u00a7r\n\nFight epic boss battles!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para"
+    },
+    {
+      "pack": "realistic-rtx",
+      "en_preview": "\u00a7nRealistic RTX\u00a7r\n\nRealistic PBR-ready textures optimized for RTX ray tracing.\n\n",
+      "pt_preview": "\u00a7nRealistic RTX\u00a7r\n\nRealistic PBR-ready textures optimized for RTX ray tracing.\n\n"
+    },
+    {
+      "pack": "redstone-tech",
+      "en_preview": "\u00a7nRedstone Tech\u00a7r\n\n8 redstone & tech skins! Redstone bot, engineer, mechanic, ha",
+      "pt_preview": "\u00a7nRedstone Tech\u00a7r\n\n8 redstone & tech skins! Redstone bot, engineer, mechanic, ha"
+    },
+    {
+      "pack": "retro-8bit",
+      "en_preview": "\u00a7n8-Bit Retro\u00a7r\n\nRetro 8-bit pixel textures reminiscent of classic games. Nostal",
+      "pt_preview": "\u00a7n8-Bit Retro\u00a7r\n\nRetro 8-bit pixel textures reminiscent of classic games. Nostal"
+    },
+    {
+      "pack": "rustic-farm",
+      "en_preview": "\u00a7nRustic Farm\u00a7r\n\nCozy rustic countryside textures for farming builds.\n\n\u00a7nFeature",
+      "pt_preview": "\u00a7nRustic Farm\u00a7r\n\nCozy rustic countryside textures for farming builds.\n\n\u00a7nRecurso"
+    },
+    {
+      "pack": "skin-4d-anime",
+      "en_preview": "\u00a7n4D Anime\u00a7r\n\n8 anime 4D skins! Anime Glow, Sparkle, Star, Rainbow, Neon, Crysta",
+      "pt_preview": "\u00a7n4D Anime\u00a7r\n\n8 anime 4D skins! Anime Glow, Sparkle, Star, Rainbow, Neon, Crysta"
+    },
+    {
+      "pack": "skin-4d-dark",
+      "en_preview": "\u00a7n4D Dark\u00a7r\n\n8 dark 4D skins! Shadow, Phantom, Wraith, Reaper, Demon, Mage, Knig",
+      "pt_preview": "\u00a7n4D Dark\u00a7r\n\n8 dark 4D skins! Shadow, Phantom, Wraith, Reaper, Demon, Mage, Knig"
+    },
+    {
+      "pack": "skin-4d-glow",
+      "en_preview": "\u00a7n4D Glow\u00a7r\n\n8 glowing 4D skins! Glow Wolf, Fox, Cat, Panda, Rabbit, Dragon, Pho",
+      "pt_preview": "\u00a7n4D Glow\u00a7r\n\n8 glowing 4D skins! Glow Wolf, Fox, Cat, Panda, Rabbit, Dragon, Pho"
+    },
+    {
+      "pack": "skin-4d-neon",
+      "en_preview": "\u00a7n4D Neon\u00a7r\n\n8 neon 4D-effect skins! Neon Red, Blue, Green, Purple, Gold, Pink, ",
+      "pt_preview": "\u00a7n4D Neon\u00a7r\n\n8 neon 4D-effect skins! Neon Red, Blue, Green, Purple, Gold, Pink, "
+    },
+    {
+      "pack": "sky-clouds",
+      "en_preview": "\u00a7nSky & Clouds\u00a7r\n\nBeautiful custom sky and cloud textures for scenic builds.\n\n\u00a7n",
+      "pt_preview": "\u00a7nSky & Clouds\u00a7r\n\nBeautiful custom sky and cloud textures for scenic builds.\n\n\u00a7n"
+    },
+    {
+      "pack": "skyblock-pro",
+      "en_preview": "\u00a7nSkyblock Pro\u00a7r\n\nClassic skyblock with 25 challenges, upgrades, and competitive",
+      "pt_preview": "\u00a7nSkyblock Pro\u00a7r\n\nClassic skyblock with 25 challenges, upgrades, and competitive"
+    },
+    {
+      "pack": "skygrid",
+      "en_preview": "\u00a7nSkyGrid\u00a7r\n\nEvery single block is floating in a grid. Survive the chaos!\n\n\u00a7nFea",
+      "pt_preview": "\u00a7nSkyGrid\u00a7r\n\nEvery single block is floating in a grid. Survive the chaos!\n\n\u00a7nRec"
+    },
+    {
+      "pack": "smooth-glass",
+      "en_preview": "\u00a7nSmooth Glass\u00a7r\n\nClear smooth glass textures with connected borders.\n\n\u00a7nFeature",
+      "pt_preview": "\u00a7nSmooth Glass\u00a7r\n\nClear smooth glass textures with connected borders.\n\n\u00a7nRecurso"
+    },
+    {
+      "pack": "soft-girl",
+      "en_preview": "\u00a7nSoft Girl\u00a7r\n\n8 soft girl skins! Pink Dream, Cloud Nine, Bubble Gum, Cotton Can",
+      "pt_preview": "\u00a7nSoft Girl\u00a7r\n\n8 soft girl skins! Pink Dream, Cloud Nine, Bubble Gum, Cotton Can"
+    },
+    {
+      "pack": "sonic-pack",
+      "en_preview": "\u00a7nSpeed Runner Pack\u00a7r\n\n8 speed runner skins for high-velocity players! (adapted ",
+      "pt_preview": "\u00a7nSpeed Runner Pack\u00a7r\n\n8 speed runner skins for high-velocity players! (adapted "
+    },
+    {
+      "pack": "space-astronaut",
+      "en_preview": "\u00a7nSpace Astronaut\u00a7r\n\n8 space-themed skins! Astronaut, alien, rover, star, comet,",
+      "pt_preview": "\u00a7nSpace Astronaut\u00a7r\n\n8 space-themed skins! Astronaut, alien, rover, star, comet,"
+    },
+    {
+      "pack": "space-odyssey-mashup",
+      "en_preview": "\u00a7nSpace Odyssey Mashup\u00a7r\n\nSpace exploration bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete wo",
+      "pt_preview": "\u00a7nSpace Odyssey Mashup\u00a7r\n\nSpace exploration bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7"
+    },
+    {
+      "pack": "spawn-hub",
+      "en_preview": "\u00a7nSpawn Hub\u00a7r\n\nPortal to all worlds!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Cust",
+      "pt_preview": "\u00a7nSpawn Hub\u00a7r\n\nPortal to all worlds!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 "
+    },
+    {
+      "pack": "spleef-arena",
+      "en_preview": "\u00a7nSpleef Arena\u00a7r\n\nDestroy the floor!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 Cust",
+      "pt_preview": "\u00a7nSpleef Arena\u00a7r\n\nDestroy the floor!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para jogar\n\u2713 "
+    },
+    {
+      "pack": "steampunk",
+      "en_preview": "\u00a7nSteampunk\u00a7r\n\n8 steampunk skins! Engineer, airship captain, inventor, clockmake",
+      "pt_preview": "\u00a7nSteampunk\u00a7r\n\n8 steampunk skins! Engineer, airship captain, inventor, clockmake"
+    },
+    {
+      "pack": "steampunk-world-mashup",
+      "en_preview": "\u00a7nSteampunk World Mashup\u00a7r\n\nSteampunk invention bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complet",
+      "pt_preview": "\u00a7nSteampunk World Mashup\u00a7r\n\nSteampunk invention bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transfo"
+    },
+    {
+      "pack": "streetwear-urban",
+      "en_preview": "\u00a7nStreetwear Urban\u00a7r\n\n8 urban streetwear skins! Hoodie, bomber, sneakerhead, ska",
+      "pt_preview": "\u00a7nStreetwear Urban\u00a7r\n\n8 urban streetwear skins! Hoodie, bomber, sneakerhead, ska"
+    },
+    {
+      "pack": "summer-2026",
+      "en_preview": "\u00a7nSummer 2026\u00a7r\n\n10 sunny summer skins! Beach Bums, Surfers, Divers, and more!\n\n",
+      "pt_preview": "\u00a7nSummer 2026\u00a7r\n\n10 sunny summer skins! Beach Bums, Surfers, Divers, and more!\n\n"
+    },
+    {
+      "pack": "superheroes",
+      "en_preview": "\u00a7nSuperheroes\u00a7r\n\n10 original superhero skins! StarKnight, FlameHero, IceGuardian",
+      "pt_preview": "\u00a7nSuperheroes\u00a7r\n\n10 original superhero skins! StarKnight, FlameHero, IceGuardian"
+    },
+    {
+      "pack": "survival-island-advanced",
+      "en_preview": "\u00a7nSurvival Island Advanced\u00a7r\n\nAdvanced survival island with multiple biomes, cav",
+      "pt_preview": "\u00a7nSurvival Island Advanced\u00a7r\n\nAdvanced survival island with multiple biomes, cav"
+    },
+    {
+      "pack": "sweat-pvp",
+      "en_preview": "\u00a7nSweat PVP\u00a7r\n\n8 tryhard PVP skins! Sweat Lord, King, Queen, Ace, Pro, OG, OG2, ",
+      "pt_preview": "\u00a7nSweat PVP\u00a7r\n\n8 tryhard PVP skins! Sweat Lord, King, Queen, Ace, Pro, OG, OG2, "
+    },
+    {
+      "pack": "tadc-pack",
+      "en_preview": "\u00a7nDigital Circus Crew\u00a7r\n\n8 digital circus crew skins with virtual world flair. (",
+      "pt_preview": "\u00a7nDigital Circus Crew\u00a7r\n\n8 digital circus crew skins with virtual world flair. ("
+    },
+    {
+      "pack": "tech-wear",
+      "en_preview": "\u00a7nTech Wear\u00a7r\n\n8 tech-wear skins! Cyber Jacket, Neo Runner, Digital Ghost, Synth",
+      "pt_preview": "\u00a7nTech Wear\u00a7r\n\n8 tech-wear skins! Cyber Jacket, Neo Runner, Digital Ghost, Synth"
+    },
+    {
+      "pack": "the-void-challenge",
+      "en_preview": "\u00a7nThe Void Challenge\u00a7r\n\nMaster the void!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 ",
+      "pt_preview": "\u00a7nThe Void Challenge\u00a7r\n\nMaster the void!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para joga"
+    },
+    {
+      "pack": "tower-defense",
+      "en_preview": "\u00a7nTower Defense\u00a7r\n\nDefend against waves!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play world\n\u2713 ",
+      "pt_preview": "\u00a7nTower Defense\u00a7r\n\nDefend against waves!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto para joga"
+    },
+    {
+      "pack": "tropical-paradise-mashup",
+      "en_preview": "\u00a7nTropical Paradise Mashup\u00a7r\n\nTropical island bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete ",
+      "pt_preview": "\u00a7nTropical Paradise Mashup\u00a7r\n\nTropical island bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transform"
+    },
+    {
+      "pack": "underwater-realm-mashup",
+      "en_preview": "\u00a7nUnderwater Realm Mashup\u00a7r\n\nOcean adventure bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete w",
+      "pt_preview": "\u00a7nUnderwater Realm Mashup\u00a7r\n\nOcean adventure bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma"
+    },
+    {
+      "pack": "urban-city",
+      "en_preview": "\u00a7nUrban City\u00a7r\n\nModern urban textures with concrete, asphalt and city vibes.\n\n\u00a7n",
+      "pt_preview": "\u00a7nUrban City\u00a7r\n\nModern urban textures with concrete, asphalt and city vibes.\n\n\u00a7n"
+    },
+    {
+      "pack": "valentines-2027",
+      "en_preview": "\u00a7nValentine's 2027\u00a7r\n\n8 Valentine's Day skins! Cupid, Love Angel, Heart Queen, R",
+      "pt_preview": "\u00a7nValentine's 2027\u00a7r\n\n8 Valentine's Day skins! Cupid, Love Angel, Heart Queen, R"
+    },
+    {
+      "pack": "vampire-royal",
+      "en_preview": "\u00a7nVampire Royal\u00a7r\n\n8 vampire royal skins! Dracula, Vampire Lord, Blood Queen, Ni",
+      "pt_preview": "\u00a7nVampire Royal\u00a7r\n\n8 vampire royal skins! Dracula, Vampire Lord, Blood Queen, Ni"
+    },
+    {
+      "pack": "vibrant-colors",
+      "en_preview": "\u00a7nVibrant Colors\u00a7r\n\nEnhanced vibrant and saturated textures for colorful builds.",
+      "pt_preview": "\u00a7nVibrant Colors\u00a7r\n\nEnhanced vibrant and saturated textures for colorful builds."
+    },
+    {
+      "pack": "viking-age-mashup",
+      "en_preview": "\u00a7nViking Age Mashup\u00a7r\n\nViking raiders bundle!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete world + ",
+      "pt_preview": "\u00a7nViking Age Mashup\u00a7r\n\nViking raiders bundle!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transforma\u00e7\u00e3o com"
+    },
+    {
+      "pack": "warm-tones",
+      "en_preview": "\u00a7nWarm Tones\u00a7r\n\nWarm and cozy textures with golden hour color palette.\n\n\u00a7nFeatur",
+      "pt_preview": "\u00a7nWarm Tones\u00a7r\n\nWarm and cozy textures with golden hour color palette.\n\n\u00a7nRecurs"
+    },
+    {
+      "pack": "watercolor",
+      "en_preview": "\u00a7nWatercolor\u00a7r\n\nSoft watercolor painted textures for an artistic Minecraft exper",
+      "pt_preview": "\u00a7nWatercolor\u00a7r\n\nSoft watercolor painted textures for an artistic Minecraft exper"
+    },
+    {
+      "pack": "western-cowboy-mashup",
+      "en_preview": "\u00a7nWestern Cowboy Mashup\u00a7r\n\nWild west cowboy adventure!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Complete",
+      "pt_preview": "\u00a7nWestern Cowboy Mashup\u00a7r\n\nWild west cowboy adventure!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Transfor"
+    },
+    {
+      "pack": "winter-frost",
+      "en_preview": "\u00a7nWinter Frost\u00a7r\n\nIce-cold winter frost textures for frozen biomes.\n\n\u00a7nFeatures:",
+      "pt_preview": "\u00a7nWinter Frost\u00a7r\n\nIce-cold winter frost textures for frozen biomes.\n\n\u00a7nRecursos:"
+    },
+    {
+      "pack": "x128-ultra",
+      "en_preview": "\u00a7n128x Ultra HD\u00a7r\n\nUltra HD 128x128 textures for maximum visual fidelity.\n\n\u00a7nFea",
+      "pt_preview": "\u00a7n128x Ultra HD\u00a7r\n\nUltra HD 128x128 textures for maximum visual fidelity.\n\n\u00a7nRec"
+    },
+    {
+      "pack": "x64-faithful",
+      "en_preview": "\u00a7n64x Faithful\u00a7r\n\nFaithful 64x64 textures that stay true to vanilla Minecraft.\n\n",
+      "pt_preview": "\u00a7n64x Faithful\u00a7r\n\nFaithful 64x64 textures that stay true to vanilla Minecraft.\n\n"
+    },
+    {
+      "pack": "x64-natural",
+      "en_preview": "\u00a7n64x Natural\u00a7r\n\nEnhanced 64x64 textures that make your world look stunning whil",
+      "pt_preview": "\u00a7n64x Natural\u00a7r\n\nEnhanced 64x64 textures that make your world look stunning whil"
+    },
+    {
+      "pack": "youtubers-br",
+      "en_preview": "\u00a7nYouTubers BR\u00a7r\n\n8 Brazilian YouTuber skins! Cellbit, Alanzoka, TazerCraft, BA,",
+      "pt_preview": "\u00a7nYouTubers BR\u00a7r\n\n8 Brazilian YouTuber skins! Cellbit, Alanzoka, TazerCraft, BA,"
+    },
+    {
+      "pack": "zombie-apocalypse",
+      "en_preview": "\u00a7nZombie Apocalypse\u00a7r\n\nSurvive the undead horde!\n\n\u00a7nFeatures:\u00a7r\n\u2713 Ready-to-play ",
+      "pt_preview": "\u00a7nZombie Apocalypse\u00a7r\n\nSurvive the undead horde!\n\n\u00a7nRecursos:\u00a7r\n\u2713 Mundo pronto p"
+    },
+    {
+      "pack": "zombie-survival-mashup",
+      "en_preview": "\u00a7nZombie Survival Mashup\u00a7r\n\nPost-apocalyptic zombie survival!\n\n\u00a7nFeatures:\u00a7r\n\u2713 C",
+      "pt_preview": "\u00a7nZombie Survival Mashup\u00a7r\n\nPost-apocalyptic zombie survival!\n\n\u00a7nRecursos:\u00a7r\n\u2713 T"
+    }
+  ],
+  "count": 170
+}

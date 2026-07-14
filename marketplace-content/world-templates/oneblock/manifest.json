@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "OneBlock",
+    "description": "Survive on a single magic block! 10 phases of evolution with unique rewards.",
+    "uuid": "1e2582a8-b4ce-4967-bd2b-90afa4d4759e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "bc1ff059-79f4-4ee9-8137-7f344a40c997",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "price": "$4.99 (800 MC)",
+    "product_type": "world_template",
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Survive on a single magic block! 10 phases of evolution with unique rewards."
+  }
+}

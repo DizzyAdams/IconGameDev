@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy RPG",
+    "description": "8 fantasy RPG class skins! Warrior, Mage, Rogue, Cleric, Paladin, Druid, Bard, Warlock.",
+    "uuid": "151136af-44ea-4d55-b558-860a6045fccd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5524df2a-b3d6-486c-932f-f385ad5cf6ce",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

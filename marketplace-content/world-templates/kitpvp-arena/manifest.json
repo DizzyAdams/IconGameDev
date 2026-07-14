@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "KitPVP Arena",
+    "description": "Choose your class and fight!",
+    "uuid": "19c028d7-16b0-45de-9d2c-e4099dedfe75",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "68633966-8d74-446e-b6a0-7f2abc27bfd9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Choose your class and fight!"
+  }
+}

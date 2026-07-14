@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Storm Legends",
+    "description": "8 ninja storm legend skins! Master of elemental chakra. (adapted from: 8 Naruto Shippuden skins! Naruto, Sasuke, Sakura, Kakashi, Itachi, M…",
+    "uuid": "ac9824c7-0f64-4a93-b197-f79f8e80fc6f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "67dc31af-4d55-488a-8423-defcaf8aaadd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 ninja storm legend skins! Master of elemental chakra. (adapted from: 8 Naruto Shippuden skins! Naruto, Sasuke, Sakura, Kakashi, Itachi, M…"
+  }
+}

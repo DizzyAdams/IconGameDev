@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Void Challenge",
+    "description": "✓ Ready-to-play world",
+    "uuid": "0ce68750-5f15-4b56-8616-8f6265cbe061",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "662cc0c3-6804-4bf3-b4b7-33ec0ddef8b0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "world_template",
+    "price": "$4.99 (800 MC)",
+    "price_usd": 4.99,
+    "price_mc": 800,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "✓ Ready-to-play world"
+  }
+}

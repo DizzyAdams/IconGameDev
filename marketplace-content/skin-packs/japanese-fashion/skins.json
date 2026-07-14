@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Kimono",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kimono.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Schoolgirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Schoolgirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Samurai",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Samurai.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Geisha",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Geisha.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShrineMaiden",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShrineMaiden.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yokai",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Yokai.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ronin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ronin.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Japanese Fashion",
+  "localization_name": "Japanese Fashion"
+}

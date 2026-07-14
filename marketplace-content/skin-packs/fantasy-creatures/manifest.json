@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Creatures",
+    "description": "10 mythical fantasy creature skins! Dragons, Phoenixes, Griffins, and more!",
+    "uuid": "e2ab1261-8dcd-40bd-83f8-d36ef7be9272",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "600d3cc7-aeaa-4fae-8c15-c381656573cc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

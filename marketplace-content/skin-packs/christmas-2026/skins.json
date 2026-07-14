@@ -1,0 +1,78 @@
+{
+  "skins": [
+    {
+      "localization_name": "Santa",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Santa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Elf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Reindeer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Reindeer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Snowman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Snowman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gingerbread",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gingerbread.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nutcracker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nutcracker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Angel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Grinch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Grinch.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Penguin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Penguin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PolarBear",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PolarBear.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Caroler",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Caroler.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Star",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Star.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Christmas 2026",
+  "localization_name": "Christmas 2026"
+}

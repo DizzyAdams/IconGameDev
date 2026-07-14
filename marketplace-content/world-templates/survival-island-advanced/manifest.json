@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Survival Island Advanced",
+    "description": "Advanced survival island with multiple biomes, caves, and challenges.",
+    "uuid": "72e0d82d-2e15-4ccc-88fc-3adc15807248",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "ed63494d-2a6c-4131-aa1f-393913f5c354",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass EmberAsh #967",
+    "description": "Generated pack: Mass EmberAsh #967",
+    "uuid": "97769fd0-e926-4879-f92c-34ef615dfcf3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f8b225b5-9c44-b362-db82-e59ca51cc683",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

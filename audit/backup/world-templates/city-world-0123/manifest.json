@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "City World 0123",
+    "description": "City World 0123",
+    "uuid": "4e387642-1c9d-4aff-9607-ff0e21f9d347",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "32fe1bb5-e3aa-4f48-8c71-d490f72b3df2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "world_template",
+    "price": "$3.99 (640 MC)",
+    "price_usd": 3.99,
+    "price_mc": 640,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

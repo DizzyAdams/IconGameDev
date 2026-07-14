@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "End Revamp",
+    "description": "Ethereal End dimension texture revamp with cosmic vibes.",
+    "uuid": "da412483-c8b8-4da4-be89-017c8b4abfa5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "6927eb24-4553-42f3-93d1-323702a9e53d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "resources",
+    "price": "$4.49 (720 MC)",
+    "price_usd": 4.49,
+    "price_mc": 720,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Ethereal End dimension texture revamp with cosmic vibes."
+  }
+}

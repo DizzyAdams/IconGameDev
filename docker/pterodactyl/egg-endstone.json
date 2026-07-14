@@ -1,0 +1,114 @@
+{
+  "_comment": "Pterodactyl Egg - Minecraft Bedrock: Endstone",
+  "meta": {
+    "version": "PTDL_v2",
+    "update_url": null
+  },
+  "exported_at": "2026-06-27T00:00:00+00:00",
+  "name": "Minecraft Bedrock - Endstone",
+  "author": "Bedrock Minemods",
+  "uuid": "d9a4c7ef-3adc-4b8c-8a3d-5e2f6b1c9a7d",
+  "description": "High-performance Minecraft Bedrock server with Python plugin API",
+  "features": [
+    "eula",
+    "file_manager",
+    "console"
+  ],
+  "docker_images": {
+    "ghcr.io/endstone/endstone:latest": "ghcr.io/endstone/endstone:latest"
+  },
+  "startup": "endstone",
+  "config": {
+    "files": "{}",
+    "startup": {
+      "done": "Done",
+      "userInteraction": []
+    },
+    "logs": {
+      "custom": false,
+      "location": "logs/latest.log"
+    },
+    "stop": "stop"
+  },
+  "scripts": {
+    "installation": {
+      "script": "",
+      "container": "ghcr.io/endstone/endstone:latest",
+      "entrypoint": "bash"
+    }
+  },
+  "variables": [
+    {
+      "name": "Server Name",
+      "description": "The display name of the server",
+      "env_variable": "SERVER_NAME",
+      "default_value": "Bedrock Minemods",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|string|max:64"
+    },
+    {
+      "name": "Server Port",
+      "description": "The IPv4 port the server runs on",
+      "env_variable": "SERVER_PORT",
+      "default_value": "19132",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|integer|between:1024,65535"
+    },
+    {
+      "name": "Max Players",
+      "description": "Maximum number of concurrent players",
+      "env_variable": "MAX_PLAYERS",
+      "default_value": "50",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|integer|between:1,200"
+    },
+    {
+      "name": "Gamemode",
+      "description": "Default game mode for new players",
+      "env_variable": "GAMEMODE",
+      "default_value": "survival",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|string|in:survival,creative,adventure,spectator"
+    },
+    {
+      "name": "Difficulty",
+      "description": "World difficulty setting",
+      "env_variable": "DIFFICULTY",
+      "default_value": "normal",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|string|in:peaceful,easy,normal,hard"
+    },
+    {
+      "name": "Database URL",
+      "description": "PostgreSQL connection string for economy data",
+      "env_variable": "DATABASE_URL",
+      "default_value": "postgresql://mcuser:mcpass@localhost:5432/minecraft",
+      "user_viewable": false,
+      "user_editable": true,
+      "rules": "required|string|max:255"
+    },
+    {
+      "name": "Redis Host",
+      "description": "Redis server hostname for caching and session management",
+      "env_variable": "REDIS_HOST",
+      "default_value": "localhost",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|string|max:255"
+    },
+    {
+      "name": "Redis Port",
+      "description": "Redis server port",
+      "env_variable": "REDIS_PORT",
+      "default_value": "6379",
+      "user_viewable": true,
+      "user_editable": true,
+      "rules": "required|integer|between:1,65535"
+    }
+  ]
+}

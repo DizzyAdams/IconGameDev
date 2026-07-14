@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Nightmare",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nightmare.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Endoskeleton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Endoskeleton.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Slenderman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Slenderman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JeffK",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JeffK.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BenDrowned",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BenDrowned.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TicciToby",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TicciToby.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EyelessJack",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EyelessJack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LaughingJill",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LaughingJill.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Horror Creepypasta",
+  "localization_name": "Horror Creepypasta"
+}

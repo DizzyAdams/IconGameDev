@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Streetwear Urban",
+    "description": "8 urban streetwear skins! Hoodie, bomber, sneakerhead, skater, graffiti, beatbox, bboy, hypebeast.",
+    "uuid": "7f0a933c-38cf-4490-b500-c33af6990ec2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "167cd5a5-b15c-4d27-b380-a1060fa05066",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

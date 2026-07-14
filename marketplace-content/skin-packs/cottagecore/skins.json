@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "MeadowGirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MeadowGirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FlowerCrown",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FlowerCrown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Strawberry",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Strawberry.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LavenderDream",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LavenderDream.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "HoneyBee",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HoneyBee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ButterflyWings",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ButterflyWings.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GardenFairy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GardenFairy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CountryRose",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CountryRose.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Cottagecore",
+  "localization_name": "Cottagecore"
+}

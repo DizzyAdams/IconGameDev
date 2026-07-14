@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass NeonStreets #811",
+    "description": "Generated pack: Mass NeonStreets #811",
+    "uuid": "e384bfbb-141a-a7ab-da78-7901a3c0b48f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a6d7dd1d-99f0-a9e5-768c-3e63f9ca313c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

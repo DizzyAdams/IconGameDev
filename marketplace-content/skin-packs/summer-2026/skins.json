@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "localization_name": "BeachBum",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BeachBum.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Surfer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Surfer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Diver",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Diver.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lifeguard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lifeguard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tourist",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tourist.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sailor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sailor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fisher",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fisher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Swimmer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Swimmer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Islander",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Islander.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sunset",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sunset.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Summer 2026",
+  "localization_name": "Summer 2026"
+}

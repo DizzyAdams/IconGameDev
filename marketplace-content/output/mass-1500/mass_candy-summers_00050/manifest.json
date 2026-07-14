@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass CandySummers #50",
+    "description": "Generated pack: Mass CandySummers #50",
+    "uuid": "2fb75388-ffa0-93b2--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "255f1a50-5704-2273--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

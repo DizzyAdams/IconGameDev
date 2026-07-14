@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pride 2026",
+    "description": "8 colorful pride-themed skins! Rainbow, trans, bi, pan, nonbinary, ace, genderfluid, lesbian.",
+    "uuid": "981e3b1f-4dc0-4983-b12c-813dcd07509c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7a6fae11-5786-4ffe-971b-5442d8757548",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

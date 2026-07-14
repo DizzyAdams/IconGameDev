@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "VMale",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VMale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VFemale",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VFemale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Johnny",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Johnny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Panam",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Panam.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Judy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Judy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Takemura",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Takemura.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AdamSmasher",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AdamSmasher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alt.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Cyberpunk 2077",
+  "localization_name": "Cyberpunk 2077"
+}

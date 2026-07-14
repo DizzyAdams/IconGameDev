@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass SafariDust #180",
+    "description": "Generated pack: Mass SafariDust #180",
+    "uuid": "8dfcd5a5-daba-b4b7-0dac-6a37f503079f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0ca2ac8a-9124-b02d-a2ed-6d423a6cbf1c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

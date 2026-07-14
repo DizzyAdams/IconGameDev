@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pet Dragons Add-On",
+    "description": "Tame and ride 4 different elemental baby dragons!",
+    "uuid": "3c02a177-a9af-41af-bb89-4a67a55cc2f2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "545f8073-822f-477d-834f-e82f1a73a93c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Mass Automation"
+    ],
+    "product_type": "behavior_pack",
+    "price": "$2.99",
+    "price_usd": {
+      "currency": "USD",
+      "amount": 2.99
+    },
+    "price_mc": {
+      "currency": "MXN",
+      "amount": 478
+    }
+  }
+}

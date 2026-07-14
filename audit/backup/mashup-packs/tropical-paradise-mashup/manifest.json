@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tropical Paradise Mashup",
+    "description": "Tropical island bundle!",
+    "uuid": "b38504a90-c8e9-86f6-09f2-00bb58a78191",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b63a87c75-38d9-b084-1de0-00679433a30e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "price": "$6.99 (1120 MC)",
+    "price_usd": 6.99,
+    "price_mc": 1120,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Tropical island bundle!"
+  }
+}

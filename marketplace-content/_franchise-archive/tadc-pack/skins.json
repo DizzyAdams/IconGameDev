@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Caine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Caine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pomni",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pomni.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jax",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jax.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ragatha",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ragatha.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gangle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gangle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kinger",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kinger.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zooble",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zooble.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bubble",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bubble.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "TADC Pack",
+  "localization_name": "TADC Pack"
+}

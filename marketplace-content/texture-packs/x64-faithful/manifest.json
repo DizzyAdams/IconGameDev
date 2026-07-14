@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "64x Faithful",
+    "description": "Faithful 64x64 textures that stay true to vanilla Minecraft.",
+    "uuid": "ee11f607-7261-44d7-a1b4-1987722f71aa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "02f2a6a6-22ab-4533-a6a0-7b10f2b1271d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

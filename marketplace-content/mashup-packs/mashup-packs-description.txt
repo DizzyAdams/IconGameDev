@@ -1,0 +1,30 @@
+Minecraft Bedrock Mashup Packs
+==================================================
+
+Medieval Kingdoms Mashup ($5.99)
+  Everything medieval! Medieval Knights skins + matching texture pack + kingdom world.
+  Header UUID: 9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f
+  Module UUID: 0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a
+  Dependencies:
+    - 7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d v1.0.0
+    - 3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f v1.0.0
+    - b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e v1.0.0
+
+Anime World Mashup ($5.99)
+  Full anime experience! Anime skins + dark texture + Japanese-style world.
+  Header UUID: 0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5b
+  Module UUID: 1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b
+  Dependencies:
+    - 1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d v1.0.0
+    - 3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f v1.0.0
+    - c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f v1.0.0
+
+Halloween Night Mashup ($6.99)
+  Spookiest Halloween bundle! Halloween skins + dark texture + haunted world.
+  Header UUID: 1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6c
+  Module UUID: 2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c
+  Dependencies:
+    - 6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e v1.0.0
+    - 3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f v1.0.0
+    - d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a v1.0.0
+

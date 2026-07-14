@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass SakuraGarden #327",
+    "description": "Generated pack: Mass SakuraGarden #327",
+    "uuid": "995f07ff-9f3e-574f-5676-8a391f835a50",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fe582e34-27ed-b568-33b0-7f1104092edd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

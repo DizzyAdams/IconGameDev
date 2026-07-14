@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Valentine's 2027",
+    "description": "8 Valentine's Day skins! Cupid, Love Angel, Heart Queen, Rose Knight, Sweetheart, etc.",
+    "uuid": "b91dd1c5a-190d-15ce-ec43-00a8f4458c3e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b4c19f8e7-03c5-3f5f-d2c7-00a7acba2cc3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Valentine's Day skins! Cupid, Love Angel, Heart Queen, Rose Knight, Sweetheart, etc."
+  }
+}

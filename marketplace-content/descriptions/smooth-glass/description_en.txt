@@ -1,0 +1,14 @@
+§nSmooth Glass§r
+
+Clear smooth glass textures with connected borders.
+
+§nFeatures:§r
+✓ Custom block textures
+✓ Optimized for performance
+✓ Works on mobile, console & PC
+✓ Easy installation
+✓ Compatible with latest Minecraft version
+
+§nTags:§r texture pack, minecraft texture pack, bedrock edition, smooth glass
+
+© Bedrock Minemods — All rights reserved

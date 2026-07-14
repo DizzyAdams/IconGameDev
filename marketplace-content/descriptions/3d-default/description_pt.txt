@@ -1,0 +1,14 @@
+§n3D Default§r
+
+Default textures with 3D depth shadows and highlights.
+
+§nRecursos:§r
+✓ Texturas de blocos personalizadas
+✓ Otimizado para performance
+✓ Funciona em celular, console e PC
+✓ Instalação fácil
+✓ Compatível com a versão mais recente
+
+§nTags:§r pacote de texturas, minecraft bedrock, 3d default
+
+© Bedrock Minemods — Todos os direitos reservados

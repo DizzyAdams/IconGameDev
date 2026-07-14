@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "FireDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FireDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "IceDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IceDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "StormDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StormDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EarthDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EarthDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FrostDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FrostDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VoidDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VoidDragon.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Dragonborn",
+  "localization_name": "Dragonborn"
+}

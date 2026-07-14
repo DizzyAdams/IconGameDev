@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Pikachu",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pikachu.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Charizard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Charizard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mewtwo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mewtwo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eevee",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eevee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lucario",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lucario.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Greninja",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Greninja.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gengar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gengar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gardevoir",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gardevoir.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Pokemon",
+  "localization_name": "Pokemon"
+}

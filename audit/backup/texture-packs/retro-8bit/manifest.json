@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "8-Bit Retro",
+    "description": "Retro 8-bit pixel textures reminiscent of classic games. Nostalgic charm!",
+    "uuid": "bf18b73dd-0834-d2b7-a917-00b3fe2b5fd0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "be645d826-febd-c26f-697a-0014d93bb56f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "resources",
+    "price": "$4.49 (720 MC)",
+    "price_usd": 4.49,
+    "price_mc": 720,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Retro 8-bit pixel textures reminiscent of classic games. Nostalgic charm!"
+  }
+}

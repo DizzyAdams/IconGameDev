@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Robot1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robot8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Robot8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Robot Skins 0055",
+  "localization_name": "Robot Skins 0055"
+}

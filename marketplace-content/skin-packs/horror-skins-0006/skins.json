@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Horror1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horror8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Horror8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Horror Skins 0006",
+  "localization_name": "Horror Skins 0006"
+}

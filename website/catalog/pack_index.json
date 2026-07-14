@@ -1,0 +1,92 @@
+﻿[
+    {
+        "dir":  "16x-textures-0001",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0001\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0005",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0005\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0006",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0006\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0007",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0007\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0014",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0014\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0020",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0020\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0021",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0021\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0024",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0024\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0029",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0029\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    },
+    {
+        "dir":  "16x-textures-0030",
+        "path":  "C:\\Users\\forrydev\\Desktop\\bedrock_minemods\\marketplace-content\\texture-packs\\16x-textures-0030\\manifest.json",
+        "product_type":  "resources",
+        "price_usd":  1.99,
+        "price":  "$1.99",
+        "tier":  "standard",
+        "store_description":  "16X Texture Pack â€” premium content for Minecraft Bedrock."
+    }
+]

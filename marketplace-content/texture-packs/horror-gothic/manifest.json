@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Gothic",
+    "description": "Dark gothic textures for horror and spooky Minecraft builds.",
+    "uuid": "e4c8799d-855f-4f6c-a359-0e5eb8215696",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0a4b4861-5bef-43d2-a24a-78b5380a4eed",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Astronaut",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Astronaut.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alien",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alien.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rover",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rover.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Star",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Star.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Comet",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Comet.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nebula",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nebula.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Galaxy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Galaxy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cosmonaut",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cosmonaut.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Space Astronaut",
+  "localization_name": "Space Astronaut"
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "MassSkin_00726_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MassSkin_00726_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MassSkin_00726_08.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Mass OceanDepths #726",
+  "localization_name": "Mass OceanDepths #726"
+}

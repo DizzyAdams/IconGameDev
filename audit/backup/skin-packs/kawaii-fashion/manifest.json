@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Fashion",
+    "description": "8 pastel kawaii fashion skins! Pastel girl, soft girl, hello kitty, strawberry, bunny, bear, angel, fairy.",
+    "uuid": "f73ea2efe-7c5c-7794-cb9e-009c49b3ab83",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fb09a72be-d6c5-a7a4-6df7-007b648ff5f3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 pastel kawaii fashion skins! Pastel girl, soft girl, hello kitty, strawberry, bunny, bear, angel, fairy."
+  }
+}

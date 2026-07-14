@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Dracula",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dracula.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BloodQueen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BloodQueen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NightWalker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NightWalker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrimsonPrince",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrimsonPrince.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowCountess",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowCountess.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkHeir",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkHeir.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MoonlightBlood",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MoonlightBlood.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Vampire Royal",
+  "localization_name": "Vampire Royal"
+}

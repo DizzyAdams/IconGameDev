@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "4D Neon",
+    "description": "8 neon 4D-effect skins! Neon Red, Blue, Green, Purple, Gold, Pink, White, Black.",
+    "uuid": "efc8c9c3-40d3-4150-8921-4cd0e52badc3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a85f0d0e-5f03-4bca-a8c9-f26408bec0e4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 neon 4D-effect skins! Neon Red, Blue, Green, Purple, Gold, Pink, White, Black."
+  }
+}

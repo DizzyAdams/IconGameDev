@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass DeepSpace #1203",
+    "description": "Generated pack: Mass DeepSpace #1203",
+    "uuid": "dd704562-6a73-1597--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c1887d1f-361d-e824--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

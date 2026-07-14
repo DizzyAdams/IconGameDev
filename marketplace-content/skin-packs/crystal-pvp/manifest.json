@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Crystal PVP",
+    "description": "8 crystal PVP skins! Crystal Red, Blue, Green, Purple, Gold, Pink, White, Black.",
+    "uuid": "4c5c58b5-4651-472a-8592-e00567b2a910",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "63eba9f7-b288-4a50-a211-e52b0679676a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 crystal PVP skins! Crystal Red, Blue, Green, Purple, Gold, Pink, White, Black."
+  }
+}

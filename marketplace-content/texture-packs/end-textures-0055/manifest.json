@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "End Textures 0055",
+    "description": "End Textures 0055",
+    "uuid": "2a940668-8d40-48da-9c9e-5da6608bfeea",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a98f0eb7-ce7c-46d7-b1c8-1d3a747e921c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "authors": [
+      "Bedrock Minemods"
+    ]
+  }
+}

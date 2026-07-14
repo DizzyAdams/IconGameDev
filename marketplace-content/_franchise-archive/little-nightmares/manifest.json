@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Little Nightmares",
+    "description": "6 Little Nightmares inspired skins! Mono, Six, Thin Man, Lady, Runaway Kid, The Hunter.",
+    "uuid": "7f066839-9443-ae8d-c2a4-003a79d4d1f8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fd399571-4f51-879b-3e06-001563583042",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

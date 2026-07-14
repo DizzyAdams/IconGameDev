@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "CelticDruid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelticDruid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ForestGuardian",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ForestGuardian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GreenKnight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GreenKnight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildHunter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildHunter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EarthMother",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EarthMother.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OakKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OakKing.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "StoneCircle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StoneCircle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MistWalker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MistWalker.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Celtic Nature",
+  "localization_name": "Celtic Nature"
+}

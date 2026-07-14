@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass ClayBakery #1030",
+    "description": "Generated pack: Mass ClayBakery #1030",
+    "uuid": "b6635893-cee9-a0a9-4075-25e8d5299c39",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b958dfc9-a3c7-f235-a6c0-2a8e6dd34307",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

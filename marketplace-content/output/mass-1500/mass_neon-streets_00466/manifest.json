@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass NeonStreets #466",
+    "description": "Generated pack: Mass NeonStreets #466",
+    "uuid": "2d38f952-c1de-9213--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "39cb611f-5460-f2b6--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

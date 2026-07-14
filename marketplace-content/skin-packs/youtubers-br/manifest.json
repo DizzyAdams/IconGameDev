@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "YouTubers BR",
+    "description": "8 Brazilian YouTuber skins! Cellbit, Alanzoka, TazerCraft, BA, Bianca, Luba, Venom, Orochi.",
+    "uuid": "97618693-53e2-4441-aea2-4766b26618ba",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "45cc842d-bcda-4815-847d-9145baf43b8c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Brazilian YouTuber skins! Cellbit, Alanzoka, TazerCraft, BA, Bianca, Luba, Venom, Orochi."
+  }
+}

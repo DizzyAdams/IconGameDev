@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate King Crew",
+    "description": "8 pirate king crew skins with ocean adventure vibes. (adapted from: 8 One Piece Wano skins! Luffy, Zoro, Sanji, Yamato, Kaido, Big Mom, Law…",
+    "uuid": "73fede23-7fc8-447b-9496-902f02a30baf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a319735d-0517-44ca-a8a3-00fb79bd7cce",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 pirate king crew skins with ocean adventure vibes. (adapted from: 8 One Piece Wano skins! Luffy, Zoro, Sanji, Yamato, Kaido, Big Mom, Law…"
+  }
+}

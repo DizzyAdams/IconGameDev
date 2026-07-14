@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "4DNeonRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonPurple",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonPurple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonGold",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonGold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonPink",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonPink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonWhite",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonWhite.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DNeonBlack",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "4DNeonBlack.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "4D Neon",
+  "localization_name": "4D Neon"
+}

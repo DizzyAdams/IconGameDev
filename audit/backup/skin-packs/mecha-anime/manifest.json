@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mecha Anime",
+    "description": "8 mecha anime skins! Gundam, Eva, Gurren Lagann, Code Geass, Aldnoah, Full Metal, Macross, Patlabor.",
+    "uuid": "b07805843-17fd-c50e-732a-00f513b41375",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b22e6a2b3-b1d0-c46e-3c63-00ee0ec60d0e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 mecha anime skins! Gundam, Eva, Gurren Lagann, Code Geass, Aldnoah, Full Metal, Macross, Patlabor."
+  }
+}

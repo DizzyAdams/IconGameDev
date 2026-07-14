@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hive Style",
+    "description": "8 Hive-style skins! Bee, axolotl, plush, marshmallow, dino, flower, mail, flame.",
+    "uuid": "f4687226-7a69-4a7d-95d9-dc140427fbf6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "081a7020-4ee9-4fa1-8a89-20004a673e31",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

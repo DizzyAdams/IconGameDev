@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dragon Ball",
+    "description": "8 Dragon Ball skins! Goku, Vegeta, Gohan, Piccolo, Frieza, Cell, MajinBuu, Trunks.",
+    "uuid": "ca2c63b3-71b0-1432-f6d6-00abe428a154",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ad667029-0ffa-7a11-a50e-0007edd87ded",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

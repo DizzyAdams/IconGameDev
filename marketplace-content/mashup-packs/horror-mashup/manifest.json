@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Mashup",
+    "description": "Spooky horror bundle! Horror Creepypasta skins + Horror Gothic textures + Haunted world.",
+    "uuid": "b10f5c97-e4d4-4081-bb47-6dbc27efd753",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bab65b16-edd5-4583-95e3-d1b1ea0d5b71",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [],
+  "metadata": {
+    "product_type": "mashup",
+    "prices": [
+      "$5.99"
+    ]
+  }
+}

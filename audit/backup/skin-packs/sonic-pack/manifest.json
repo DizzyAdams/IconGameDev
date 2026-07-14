@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Speed Runner Pack",
+    "description": "8 speed runner skins for high-velocity players! (adapted from: 6 Sonic-inspired skins! Sonic, Tails, Knuckles, Shadow, Amy, Dr. Eggman.)",
+    "uuid": "f95c43325-dd3f-02eb-6b28-0072da8cce67",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f46e992ae-4838-65c4-7b82-00cbe8d3588e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 speed runner skins for high-velocity players! (adapted from: 6 Sonic-inspired skins! Sonic, Tails, Knuckles, Shadow, Amy, Dr. Eggman.)"
+  }
+}

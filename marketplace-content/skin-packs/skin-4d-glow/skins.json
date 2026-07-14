@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "GlowWolf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowWolf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowFox",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowFox.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowCat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowCat.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowPanda",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowPanda.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowRabbit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowRabbit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowDragon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowDragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowPhoenix",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowPhoenix.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GlowDemon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GlowDemon.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "4D Glow",
+  "localization_name": "4D Glow"
+}

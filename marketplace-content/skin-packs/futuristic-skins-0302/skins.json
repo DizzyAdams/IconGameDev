@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Futuristic1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Futuristic8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Futuristic8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Futuristic Skins 0302",
+  "localization_name": "Futuristic Skins 0302"
+}

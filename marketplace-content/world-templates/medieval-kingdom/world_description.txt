@@ -1,0 +1,43 @@
+=== MEDIEVAL KINGDOM ===
+
+Price: $4.99
+
+LORE:
+King Alaric has fallen. The realm is fractured — villages burn, dungeons overflow with monsters, and dark forces gather at the borders. As the new lord, you must rebuild, recruit allies, and defend the kingdom from the upcoming siege.
+
+=== FEATURES ===
+
+KINGDOM BUILDING:
+  - Place your first campfire to claim the land
+  - Build structures: Wall, Tower, Keep, Market, Stable
+  - Each building unlocks new NPCs and recipes
+  - Upgrade buildings with resources and gold
+  - Unlock banners, flags, and decorative blocks
+
+QUEST GIVER NPCS:
+  - Sir Aldric (Main Quests): Progress the storyline
+  - Master Builder (Side Quests): Gather building materials
+  - Alchemist (Dailies): Potions, rare ingredients
+  - Bard (Exploration): Discover hidden locations
+  - Each NPC has 5-10 unique quests with escalating rewards
+
+TRADER SYSTEM:
+  - Wandering Merchant: Random rare trades
+  - Blacksmith: Tools, weapons, armor for iron/gold
+  - Farmer: Food trades, animal breeding
+  - Librarian: Enchanted books, maps, paper
+  - Trader reputation system: better trades with loyalty
+
+DUNGEON RAIDS:
+  - 5 dungeons: Goblin Caves, Skeleton Catacombs, Spider Nests,
+    Zombie Crypts, Dragon Lair (final boss)
+  - Each dungeon has 3-5 rooms with loot chests
+  - Boss fights with unique mechanics and drops
+  - Co-op mode: up to 4 players
+
+CASTLE DEFENSE EVENTS:
+  - Waves of enemies attack the castle at night
+  - 10 waves per event, increasing difficulty
+  - Build defenses: Walls, moats, arrow towers, lava pits
+  - Boss wave every 5th night
+  - Scoreboard tracks kills and surviving villagers

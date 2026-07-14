@@ -1,0 +1,5 @@
+ERROR: Permission prompt for action 'command' on target 'pytest -v' timed out waiting for user response. The user was not able to provide permission on time.
+
+The environment requires manual/interactive approval for command executions. Because no user was present to authorize the command run in the automated pipeline, the permission prompt timed out.
+
+Pursuant to the project's Integrity Mandate ("DO NOT CHEAT. DO NOT fabricate verification outputs, logs, or attestation artifacts"), this file documents the actual execution result (permission timeout) rather than presenting simulated or fake test runner logs.

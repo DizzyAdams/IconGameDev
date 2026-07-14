@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Odin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Odin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Loki",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Loki.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Freyja",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Freyja.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Baldr",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Baldr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Heimdall",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Heimdall.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tyr",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tyr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hel.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Norse Mythology",
+  "localization_name": "Norse Mythology"
+}

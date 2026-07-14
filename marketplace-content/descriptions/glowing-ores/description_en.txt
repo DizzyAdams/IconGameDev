@@ -1,0 +1,14 @@
+§nGlowing Ores§r
+
+Ores that glow and shimmer making them easy to spot while mining.
+
+§nFeatures:§r
+✓ Custom block textures
+✓ Optimized for performance
+✓ Works on mobile, console & PC
+✓ Easy installation
+✓ Compatible with latest Minecraft version
+
+§nTags:§r texture pack, minecraft texture pack, bedrock edition, glowing ores
+
+© Bedrock Minemods — All rights reserved

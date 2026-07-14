@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Genshin Impact",
+    "description": "8 Genshin Impact skins! Hu Tao, Ganyu, Zhongli, Raiden, Xiao, Kazuha, Ayaka, Nahida.",
+    "uuid": "bcdd9679-4cb9-64ea-4a6d-00d4ee667b79",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2c7ca0e5-b922-c7cb-0091-004940332c47",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

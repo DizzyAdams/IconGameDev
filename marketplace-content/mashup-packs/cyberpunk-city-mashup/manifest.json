@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyberpunk City Mashup",
+    "description": "Cyberpunk bundle! Neon Cyber skins + Neon Glow textures + City world.",
+    "uuid": "fb528cc4-6027-4462-82a3-1ed1f56c78ac",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3ad52088-cfb5-4adc-9501-2ddc1288fdc3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [],
+  "metadata": {
+    "product_type": "mashup",
+    "prices": [
+      "$5.99"
+    ]
+  }
+}

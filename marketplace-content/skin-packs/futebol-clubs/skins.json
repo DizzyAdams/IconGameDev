@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Brazil",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Brazil.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Argentina",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Argentina.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Portugal",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Portugal.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "England",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "England.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "France",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "France.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Germany",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Germany.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Netherlands",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Netherlands.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spain",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spain.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Futebol Clubs",
+  "localization_name": "Futebol Clubs"
+}

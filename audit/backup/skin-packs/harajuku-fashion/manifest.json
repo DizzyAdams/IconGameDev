@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Harajuku Fashion",
+    "description": "8 Harajuku street fashion skins! Harajuku Girl, Lolita Dream, Decora Star, Visual Kei, etc.",
+    "uuid": "b665d1b7e-14af-070e-8d5f-009facb0dce9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b005ac717-83fe-844c-8701-000135d5fce0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Harajuku street fashion skins! Harajuku Girl, Lolita Dream, Decora Star, Visual Kei, etc."
+  }
+}

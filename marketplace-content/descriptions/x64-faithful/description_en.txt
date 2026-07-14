@@ -1,0 +1,14 @@
+§n64x Faithful§r
+
+Faithful 64x64 textures that stay true to vanilla Minecraft.
+
+§nFeatures:§r
+✓ Custom block textures
+✓ Optimized for performance
+✓ Works on mobile, console & PC
+✓ Easy installation
+✓ Compatible with latest Minecraft version
+
+§nTags:§r texture pack, minecraft texture pack, bedrock edition, 64x faithful
+
+© Bedrock Minemods — All rights reserved

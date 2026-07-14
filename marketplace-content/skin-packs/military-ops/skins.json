@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "NavySEAL",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NavySEAL.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArmySoldier",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArmySoldier.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AirForce",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AirForce.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Marine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Marine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sniper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sniper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Commander",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Commander.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberOps",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberOps.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Military Ops",
+  "localization_name": "Military Ops"
+}

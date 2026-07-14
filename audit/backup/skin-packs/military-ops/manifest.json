@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Military Ops",
+    "description": "8 military ops skins! Navy SEAL, Army Soldier, Air Force Pilot, Marine, Sniper, Medic, Commander, Cyber Ops.",
+    "uuid": "bb7d5a9f6-625d-fd08-4082-00ff6c2e8adb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bed81a911-d0a0-395d-6c79-000508aa08c2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 military ops skins! Navy SEAL, Army Soldier, Air Force Pilot, Marine, Sniper, Medic, Commander, Cyber Ops."
+  }
+}

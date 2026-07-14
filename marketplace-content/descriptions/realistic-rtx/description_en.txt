@@ -1,0 +1,14 @@
+§nRealistic RTX§r
+
+Realistic PBR-ready textures optimized for RTX ray tracing.
+
+§nFeatures:§r
+✓ Custom block textures
+✓ Optimized for performance
+✓ Works on mobile, console & PC
+✓ Easy installation
+✓ Compatible with latest Minecraft version
+
+§nTags:§r texture pack, minecraft texture pack, bedrock edition, realistic rtx
+
+© Bedrock Minemods — All rights reserved

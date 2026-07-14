@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Medieval1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Medieval8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Medieval8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Medieval Skins 0428",
+  "localization_name": "Medieval Skins 0428"
+}

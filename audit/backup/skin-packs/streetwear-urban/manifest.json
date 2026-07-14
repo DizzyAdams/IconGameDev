@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Streetwear Urban",
+    "description": "8 urban streetwear skins! Hoodie, bomber, sneakerhead, skater, graffiti, beatbox, bboy, hypebeast.",
+    "uuid": "f4317480d-6878-3f69-91fc-0099f9f8fb5c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ff0b8f210-e432-a7af-5a50-00f6462e9124",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 urban streetwear skins! Hoodie, bomber, sneakerhead, skater, graffiti, beatbox, bboy, hypebeast."
+  }
+}

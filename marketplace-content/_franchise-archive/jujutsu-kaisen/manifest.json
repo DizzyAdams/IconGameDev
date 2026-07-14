@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Curse Spirit Warriors",
+    "description": "8 cursed spirit warrior skins! Inspired by anime battle aesthetics. (adapted from: 8 Jujutsu Kaisen inspired skins! Gojo, Yuji, Megumi, Nob…",
+    "uuid": "c919a4e5-f2a1-4734-ba79-f5fbbebee953",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c0f5a005-955d-4967-82ce-d54d9c4a4bfb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 cursed spirit warrior skins! Inspired by anime battle aesthetics. (adapted from: 8 Jujutsu Kaisen inspired skins! Gojo, Yuji, Megumi, Nob…"
+  }
+}

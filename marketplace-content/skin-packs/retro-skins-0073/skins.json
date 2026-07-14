@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Retro1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Retro8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Retro8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Retro Skins 0073",
+  "localization_name": "Retro Skins 0073"
+}

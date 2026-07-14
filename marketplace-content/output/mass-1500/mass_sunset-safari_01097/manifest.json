@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass SunsetSafari #1097",
+    "description": "Generated pack: Mass SunsetSafari #1097",
+    "uuid": "e637157f-852c-28f1--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f4a7df2c-1195-45f0--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

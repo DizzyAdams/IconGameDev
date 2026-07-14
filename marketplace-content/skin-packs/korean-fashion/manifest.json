@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Korean Fashion",
+    "description": "8 K-pop inspired fashion skins! K-pop star, streetwear, idol, dancer, chic, trendy, casual, model.",
+    "uuid": "a6bd9688-396d-497b-b12c-f93acfe56689",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "48fe744c-9651-43db-93b8-5fe28bef3312",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

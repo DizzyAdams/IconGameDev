@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Bookworm",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bookworm.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClassPresident",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClassPresident.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GamerNerd",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GamerNerd.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SportStar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SportStar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArtGenius",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArtGenius.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LabRat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LabRat.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MusicPro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MusicPro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LibraryKing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LibraryKing.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Back to School",
+  "localization_name": "Back to School"
+}

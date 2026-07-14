@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Cyber1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyber8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Cyber Skins 0478",
+  "localization_name": "Cyber Skins 0478"
+}

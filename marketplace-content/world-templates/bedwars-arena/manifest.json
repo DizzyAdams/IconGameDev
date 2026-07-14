@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bed Wars Arena",
+    "description": "4-team Bed Wars map with islands, generators, and arenas.",
+    "uuid": "1270b397-5703-414f-bfff-b11ddf21cbeb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "699e1bed-47f8-48d6-9261-76458279da8e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

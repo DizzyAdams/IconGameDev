@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Nature1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nature8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nature8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Nature Skins 0065",
+  "localization_name": "Nature Skins 0065"
+}

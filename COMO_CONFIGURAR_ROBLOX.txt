@@ -1,0 +1,26 @@
+﻿COMO CONFIGURAR OS IDS DA ROBUX (Roblox) - IconGameDev
+=========================================================
+Arquivo a editar: ROBLOX_CONFIG.env  (pasta raiz do projeto, nome visivel)
+
+1) Abra ROBLOX_CONFIG.env e preencha os 3 valores (sem espacos, sem aspas):
+
+   ROBLOX_API_KEY=sua_open_cloud_api_key
+   ROBLOX_GROUP_ID=numero_do_grupo
+   ROBLOX_EXPERIENCE_ID=numero_do_universe
+
+2) De onde vem cada valor:
+   - API key: Creator Hub -> Develop -> API keys -> criar
+              (precisa de permissao de upload para o grupo)
+   - group_id: o numero na URL do grupo  roblox.com/groups/1234567/Nome
+   - experience_id: o numero na URL da experience  roblox.com/games/87654321/Nome
+
+3) Salve o arquivo.
+
+4) Solte as 80 imagens em  roblox-ugc/assets/  com os nomes do arquivo
+   EXPECTED_IMAGES.txt  (ex.: Crimson Shirt.png, Frost Pants.png, ...).
+   (Game passes nao precisam de imagem na criacao.)
+
+5) Avise "vai" no chat. O assistente roda 1 item de teste e, se ok, envia os 100.
+
+IMPORTANTE: NAO use o token que foi colado no chat (e um JWT exposto,
+nao e uma API key da Roblox). Gere uma chave nova no Creator Hub.

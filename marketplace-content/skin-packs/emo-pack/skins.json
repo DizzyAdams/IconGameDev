@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "EmoBoy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EmoBoy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EmoGirl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EmoGirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SceneQueen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SceneQueen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PunkRocker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PunkRocker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrungeLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrungeLord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkStar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkStar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BrokenHeart",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BrokenHeart.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DarkAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DarkAngel.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Emo Pack",
+  "localization_name": "Emo Pack"
+}

@@ -1,0 +1,14 @@
+§nLow Fire§r
+
+Reduced fire obstruction textures for better visibility during combat.
+
+§nFeatures:§r
+✓ Custom block textures
+✓ Optimized for performance
+✓ Works on mobile, console & PC
+✓ Easy installation
+✓ Compatible with latest Minecraft version
+
+§nTags:§r texture pack, minecraft texture pack, bedrock edition, low fire
+
+© Bedrock Minemods — All rights reserved

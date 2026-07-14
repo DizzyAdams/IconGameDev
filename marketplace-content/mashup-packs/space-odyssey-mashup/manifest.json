@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Odyssey Mashup",
+    "description": "Space exploration bundle!",
+    "uuid": "356975b1-cfb4-43bd-834e-f41d06986d93",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a483bf1b-e78d-42ff-a272-00357db35534",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "mashup",
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "price": "$6.99 (1120 MC)",
+    "price_usd": 6.99,
+    "price_mc": 1120,
+    "tier": "premium",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "Space exploration bundle!"
+  }
+}

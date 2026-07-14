@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark Mode",
+    "description": "A moody dark texture pack. Everything is darker, edgier, and more atmospheric.",
+    "uuid": "f1a8767f-391f-47e0-b540-f37072f701fc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "70b22b3a-b076-4165-9184-b4045c14763e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

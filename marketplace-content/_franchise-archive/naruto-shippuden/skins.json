@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Naruto",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Naruto.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sasuke",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sasuke.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sakura",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sakura.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kakashi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kakashi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Itachi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Itachi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Madara",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Madara.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hinata",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hinata.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gaara",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gaara.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Naruto Shippuden",
+  "localization_name": "Naruto Shippuden"
+}

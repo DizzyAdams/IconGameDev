@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "NeonGamer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonGamer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberHacker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberHacker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Glitch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Glitch.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Volt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Volt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pulse",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pulse.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Matrix",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Matrix.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Byte",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Byte.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pixel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pixel.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Neon Cyber",
+  "localization_name": "Neon Cyber"
+}

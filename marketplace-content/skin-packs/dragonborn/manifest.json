@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dragonborn",
+    "description": "8 dragonborn skins! Fire Dragon, Ice Dragon, Storm Dragon, Earth Dragon, Shadow Dragon, Frost, Thunder, Void.",
+    "uuid": "86cbeebe-1360-4810-9894-984174675f6a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9b2c20fc-7188-4279-97c1-d858532debfa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 dragonborn skins! Fire Dragon, Ice Dragon, Storm Dragon, Earth Dragon, Shadow Dragon, Frost, Thunder, Void."
+  }
+}

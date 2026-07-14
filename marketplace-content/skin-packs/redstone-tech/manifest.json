@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Redstone Tech",
+    "description": "8 redstone & tech skins! Redstone bot, engineer, mechanic, hacker, robot, cyborg, drone, AI.",
+    "uuid": "effc210a-e17a-4dd8-9a15-5e75dc69ac1b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ba6bfd50-800f-4de6-bc22-71b4ea0c0ae2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

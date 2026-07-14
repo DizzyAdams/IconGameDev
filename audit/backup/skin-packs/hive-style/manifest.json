@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hive Style",
+    "description": "8 Hive-style skins! Bee, axolotl, plush, marshmallow, dino, flower, mail, flame.",
+    "uuid": "f90a507a3-ebce-ed94-ba84-0040538a37c9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f7857aa6f-306c-3d12-2b7e-00bb10ed9f4a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Hive-style skins! Bee, axolotl, plush, marshmallow, dino, flower, mail, flame."
+  }
+}

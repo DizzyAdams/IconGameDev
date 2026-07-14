@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Rusher",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rusher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Defender",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Defender.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bridger",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bridger.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TNTPlayer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TNTPlayer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DiamondRush",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DiamondRush.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FinalKilla",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FinalKilla.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClutchMaster",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClutchMaster.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SweatLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SweatLord.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "BedWars Tryhard",
+  "localization_name": "BedWars Tryhard"
+}

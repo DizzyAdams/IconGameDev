@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Soul Reaper War",
+    "description": "8 soul reaper war skins with sword spirit aesthetics. (adapted from: 8 Bleach TYBW skins! Ichigo, Rukia, Renji, Byakuya, Toshiro, Kenpachi,…",
+    "uuid": "7f2fe62a-0283-44e0-b1f1-006080f287bb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e6aeab4e-51e4-4454-9616-98cb7f1f072f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 soul reaper war skins with sword spirit aesthetics. (adapted from: 8 Bleach TYBW skins! Ichigo, Rukia, Renji, Byakuya, Toshiro, Kenpachi,…"
+  }
+}

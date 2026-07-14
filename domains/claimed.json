@@ -1,0 +1,18 @@
+{
+  "domain": "iconminemods.dpdns.org",
+  "status": "planned",
+  "dns": {
+    "provider": "Vercel",
+    "a": {
+      "name": "@",
+      "value": "76.76.21.21"
+    },
+    "cname": {
+      "name": "www",
+      "value": "cname.vercel-dns.com"
+    },
+    "txt": "verification TXT (set in dashboard)"
+  },
+  "claimed_at": "2026-07-09T17:00:01Z",
+  "manual": true
+}

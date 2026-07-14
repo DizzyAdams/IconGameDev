@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "64x Natural",
+    "description": "Enhanced 64x64 textures that make your world look stunning while keeping the vanilla feel.",
+    "uuid": "7caf1b23-4224-43b6-a79f-0959897919c9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9dfb138c-bfa7-4ebe-af2b-5df6ed47402f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Glitch Matrix",
+    "description": "8 glitch/matrix skins! Glitch Red, Green, Matrix Neo, Trinity, Binary, Digital Storm, Virus X, System Error.",
+    "uuid": "be0ecf569-8e48-078f-9c37-00d3c63d7b84",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b115ea1fd-7b6d-64ef-9c2f-008271625179",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 glitch/matrix skins! Glitch Red, Green, Matrix Neo, Trinity, Binary, Digital Storm, Virus X, System Error."
+  }
+}

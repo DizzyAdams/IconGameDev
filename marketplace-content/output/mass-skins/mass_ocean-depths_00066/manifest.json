@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass OceanDepths #66",
+    "description": "Generated pack: Mass OceanDepths #66",
+    "uuid": "e952cbc2-2857-22bf-ff99-1721e6087aab",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9176155f-2fd4-2217-7662-75d5a3ce7b86",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

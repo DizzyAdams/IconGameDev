@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Devil Heart Heroes",
+    "description": "8 devil heart hero skins with chaotic battle energy. (adapted from: 8 Chainsaw Man skins! Denji, Power, Makima, Aki, Kobeni, Himeno, Beam,…",
+    "uuid": "b13abf17-d1e7-40f6-921f-56a0f55814aa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f50fb493-86ab-45a7-a989-fb59174dff82",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 devil heart hero skins with chaotic battle energy. (adapted from: 8 Chainsaw Man skins! Denji, Power, Makima, Aki, Kobeni, Himeno, Beam,…"
+  }
+}

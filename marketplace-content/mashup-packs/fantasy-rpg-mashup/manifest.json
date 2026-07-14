@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy RPG Mashup",
+    "description": "Epic RPG bundle! Fantasy RPG skins + Medieval RP textures + Dragon's Lair world.",
+    "uuid": "6c74aea0-2115-46fd-9732-d673887e9150",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c9f00e43-b364-4722-8a31-a27c80cb569d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [],
+  "metadata": {
+    "product_type": "mashup",
+    "prices": [
+      "$5.99"
+    ]
+  }
+}

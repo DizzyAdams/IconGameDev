@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Beach1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beach8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beach8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Beach Skins 1374",
+  "localization_name": "Beach Skins 1374"
+}

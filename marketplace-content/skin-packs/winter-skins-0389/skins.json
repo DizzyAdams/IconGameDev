@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Winter1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Winter Skins 0389",
+  "localization_name": "Winter Skins 0389"
+}

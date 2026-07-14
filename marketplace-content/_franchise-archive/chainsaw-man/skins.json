@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Denji",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Denji.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Power",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Power.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Makima",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Makima.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Aki",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Aki.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kobeni",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kobeni.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Himeno",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Himeno.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beam",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Beam.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Angel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Angel.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Chainsaw Man",
+  "localization_name": "Chainsaw Man"
+}

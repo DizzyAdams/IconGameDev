@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "African Tribes",
+    "description": "8 African tribal skins! Zulu Warrior, Masai Elder, Berber King, Nubian Queen, Tuareg Nomad, etc.",
+    "uuid": "b84894c6f-66fc-3fac-19c4-00a0d32a932d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bd7f7be55-68b8-c6ff-6dd6-005a39372abd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 African tribal skins! Zulu Warrior, Masai Elder, Berber King, Nubian Queen, Tuareg Nomad, etc."
+  }
+}

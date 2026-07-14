@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "128x Ultra HD",
+    "description": "Ultra HD 128x128 textures for maximum visual fidelity.",
+    "uuid": "5199f834-be19-4292-b39f-13b68fe7c761",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c9f3ec8f-2aa6-47b2-a18e-dd8078374aef",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

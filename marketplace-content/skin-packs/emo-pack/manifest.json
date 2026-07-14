@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Emo Pack",
+    "description": "8 emo skins! Emo Boy, Emo Girl, Scene Queen, Punk Rocker, Grunge Lord, Dark Star, Broken Heart, Dark Angel.",
+    "uuid": "c4b941dd-322e-4bc5-8f53-2ddf67c0fcc2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c3fc6df7-1033-4b0f-bc82-9e2e96d7203f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 emo skins! Emo Boy, Emo Girl, Scene Queen, Punk Rocker, Grunge Lord, Dark Star, Broken Heart, Dark Angel."
+  }
+}

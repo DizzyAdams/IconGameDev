@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "PinkDream",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PinkDream.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CloudNine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CloudNine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BubbleGum",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BubbleGum.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CottonCandy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CottonCandy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VanillaSky",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VanillaSky.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SugarPlum",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SugarPlum.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PeachBlossom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PeachBlossom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BabyBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BabyBlue.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Soft Girl",
+  "localization_name": "Soft Girl"
+}

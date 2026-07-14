@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Norse Mythology",
+    "description": "8 Norse god skins! Odin, Thor, Loki, Freyja, Baldr, Heimdall, Tyr, Hel.",
+    "uuid": "f7e1c48b3-abd2-0782-1d53-0016d16e590f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f489a3b94-4d96-e9b7-ddec-00bdb59c0eb4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Norse god skins! Odin, Thor, Loki, Freyja, Baldr, Heimdall, Tyr, Hel."
+  }
+}

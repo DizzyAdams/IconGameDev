@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Aztec Mayan",
+    "description": "8 Aztec/Mayan skins! Aztec Warrior, Mayan Priest, Quetzalcoatl, Jaguar, Eagle, Sun, Moon, Serpent King.",
+    "uuid": "5d5cc379-1254-4c19-bc87-719d6e7a4a56",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "43d4d228-cf15-4443-a1b8-6e3ea54026ca",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 Aztec/Mayan skins! Aztec Warrior, Mayan Priest, Quetzalcoatl, Jaguar, Eagle, Sun, Moon, Serpent King."
+  }
+}

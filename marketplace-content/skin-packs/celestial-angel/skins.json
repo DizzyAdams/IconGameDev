@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "SolarAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SolarAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MoonAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MoonAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "StarAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StarAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LightAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LightAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DawnAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DawnAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TwilightAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TwilightAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SkyAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SkyAngel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DivineAngel",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DivineAngel.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Celestial Angel",
+  "localization_name": "Celestial Angel"
+}

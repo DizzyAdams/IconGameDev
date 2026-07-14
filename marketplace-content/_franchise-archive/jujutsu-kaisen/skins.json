@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Gojo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gojo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yuji",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Yuji.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Megumi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Megumi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nobara",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nobara.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sukuna",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sukuna.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Geto",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Geto.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Maki",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Maki.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Toge",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Toge.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Jujutsu Kaisen",
+  "localization_name": "Jujutsu Kaisen"
+}

@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark Cottagecore",
+    "description": "8 dark cottagecore skins! Dark Forest, Moonlit Meadow, Witch Garden, Raven's Nest, etc.",
+    "uuid": "b0d6c511-4a90-4050-8410-6af74cfa339b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9cbc15fe-21f8-4998-be5b-679df1cb4aad",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 dark cottagecore skins! Dark Forest, Moonlit Meadow, Witch Garden, Raven's Nest, etc."
+  }
+}

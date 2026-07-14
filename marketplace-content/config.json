@@ -1,0 +1,13 @@
+{
+  "name": "marketplace-content",
+  "author": "",
+  "pipeline": [],
+  "regolith": {
+    "filterDefinitions": {},
+    "profiles": {
+      "default": {
+        "filters": []
+      }
+    }
+  }
+}

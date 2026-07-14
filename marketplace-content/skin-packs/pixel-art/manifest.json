@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pixel Art",
+    "description": "8 retro 8-bit pixel art skins! Heroes, Mages, Knights, and more!",
+    "uuid": "c14a0e47-946a-42f8-be65-5d4d94f69e7e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e9d42a12-f496-4c13-91dd-7ecb4132ae59",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

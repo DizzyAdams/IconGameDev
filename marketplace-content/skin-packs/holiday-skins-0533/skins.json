@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Holiday1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Holiday8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Holiday8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Holiday Skins 0533",
+  "localization_name": "Holiday Skins 0533"
+}

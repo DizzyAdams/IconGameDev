@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "16X Textures 0278",
+    "description": "16X Textures 0278",
+    "uuid": "490bef86-c5e2-4234-92ac-352ceca835f2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "705ab380-7f0b-457c-81dc-cf23333a5b1a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "resources",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    }
+  }
+}

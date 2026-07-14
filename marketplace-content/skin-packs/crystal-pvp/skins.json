@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "CrystalRed",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalRed.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalBlue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalBlue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalGreen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalGreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalPurple",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalPurple.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalGold",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalGold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalPink",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalPink.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalWhite",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalWhite.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalBlack",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalBlack.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Crystal PVP",
+  "localization_name": "Crystal PVP"
+}

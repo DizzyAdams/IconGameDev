@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass MidnightJazz #494",
+    "description": "Generated pack: Mass MidnightJazz #494",
+    "uuid": "24006470-e6cc-babe--",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "495f7300-495d-3a83--",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

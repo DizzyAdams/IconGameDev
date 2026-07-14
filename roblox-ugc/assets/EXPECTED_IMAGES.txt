@@ -1,0 +1,721 @@
+ESPERADOS (720 wearables):
+Crimson Shirt
+Frost Shirt
+Ember Shirt
+Void Shirt
+Solar Shirt
+Tidal Shirt
+Moss Shirt
+Neon Shirt
+Amber Shirt
+Cobalt Shirt
+Rose Shirt
+Onyx Shirt
+Pearl Shirt
+Jade Shirt
+Ash Shirt
+Lumen Shirt
+Quartz Shirt
+Hazel Shirt
+Vivid Shirt
+Prism Shirt
+Echo Shirt
+Nova Shirt
+Dusk Shirt
+Pixel Shirt
+Storm Shirt
+Briar Shirt
+Glint Shirt
+Zephyr Shirt
+Cinder Shirt
+Aether Shirt
+Crimson Shirt Neon
+Frost Shirt Neon
+Ember Shirt Neon
+Void Shirt Neon
+Solar Shirt Neon
+Tidal Shirt Neon
+Moss Shirt Neon
+Neon Shirt Neon
+Amber Shirt Neon
+Cobalt Shirt Neon
+Rose Shirt Neon
+Onyx Shirt Neon
+Pearl Shirt Neon
+Jade Shirt Neon
+Ash Shirt Neon
+Lumen Shirt Neon
+Quartz Shirt Neon
+Hazel Shirt Neon
+Vivid Shirt Neon
+Prism Shirt Neon
+Echo Shirt Neon
+Nova Shirt Neon
+Dusk Shirt Neon
+Pixel Shirt Neon
+Storm Shirt Neon
+Briar Shirt Neon
+Glint Shirt Neon
+Zephyr Shirt Neon
+Cinder Shirt Neon
+Aether Shirt Neon
+Crimson Shirt Glitch
+Frost Shirt Glitch
+Ember Shirt Glitch
+Void Shirt Glitch
+Solar Shirt Glitch
+Tidal Shirt Glitch
+Moss Shirt Glitch
+Neon Shirt Glitch
+Amber Shirt Glitch
+Cobalt Shirt Glitch
+Rose Shirt Glitch
+Onyx Shirt Glitch
+Pearl Shirt Glitch
+Jade Shirt Glitch
+Ash Shirt Glitch
+Lumen Shirt Glitch
+Quartz Shirt Glitch
+Hazel Shirt Glitch
+Vivid Shirt Glitch
+Prism Shirt Glitch
+Echo Shirt Glitch
+Nova Shirt Glitch
+Dusk Shirt Glitch
+Pixel Shirt Glitch
+Storm Shirt Glitch
+Briar Shirt Glitch
+Glint Shirt Glitch
+Zephyr Shirt Glitch
+Cinder Shirt Glitch
+Aether Shirt Glitch
+Crimson Shirt Retro
+Frost Shirt Retro
+Ember Shirt Retro
+Void Shirt Retro
+Solar Shirt Retro
+Tidal Shirt Retro
+Moss Shirt Retro
+Neon Shirt Retro
+Amber Shirt Retro
+Cobalt Shirt Retro
+Rose Shirt Retro
+Onyx Shirt Retro
+Pearl Shirt Retro
+Jade Shirt Retro
+Ash Shirt Retro
+Lumen Shirt Retro
+Quartz Shirt Retro
+Hazel Shirt Retro
+Vivid Shirt Retro
+Prism Shirt Retro
+Echo Shirt Retro
+Nova Shirt Retro
+Dusk Shirt Retro
+Pixel Shirt Retro
+Storm Shirt Retro
+Briar Shirt Retro
+Glint Shirt Retro
+Zephyr Shirt Retro
+Cinder Shirt Retro
+Aether Shirt Retro
+Crimson Shirt Royal
+Frost Shirt Royal
+Ember Shirt Royal
+Void Shirt Royal
+Solar Shirt Royal
+Tidal Shirt Royal
+Moss Shirt Royal
+Neon Shirt Royal
+Amber Shirt Royal
+Cobalt Shirt Royal
+Rose Shirt Royal
+Onyx Shirt Royal
+Pearl Shirt Royal
+Jade Shirt Royal
+Ash Shirt Royal
+Lumen Shirt Royal
+Quartz Shirt Royal
+Hazel Shirt Royal
+Vivid Shirt Royal
+Prism Shirt Royal
+Echo Shirt Royal
+Nova Shirt Royal
+Dusk Shirt Royal
+Pixel Shirt Royal
+Storm Shirt Royal
+Briar Shirt Royal
+Glint Shirt Royal
+Zephyr Shirt Royal
+Cinder Shirt Royal
+Aether Shirt Royal
+Crimson Shirt Shadow
+Frost Shirt Shadow
+Ember Shirt Shadow
+Void Shirt Shadow
+Solar Shirt Shadow
+Tidal Shirt Shadow
+Moss Shirt Shadow
+Neon Shirt Shadow
+Amber Shirt Shadow
+Cobalt Shirt Shadow
+Rose Shirt Shadow
+Onyx Shirt Shadow
+Pearl Shirt Shadow
+Jade Shirt Shadow
+Ash Shirt Shadow
+Lumen Shirt Shadow
+Quartz Shirt Shadow
+Hazel Shirt Shadow
+Vivid Shirt Shadow
+Prism Shirt Shadow
+Echo Shirt Shadow
+Nova Shirt Shadow
+Dusk Shirt Shadow
+Pixel Shirt Shadow
+Storm Shirt Shadow
+Briar Shirt Shadow
+Glint Shirt Shadow
+Zephyr Shirt Shadow
+Cinder Shirt Shadow
+Aether Shirt Shadow
+Crimson Shirt Prism
+Frost Shirt Prism
+Ember Shirt Prism
+Void Shirt Prism
+Solar Shirt Prism
+Tidal Shirt Prism
+Moss Shirt Prism
+Neon Shirt Prism
+Amber Shirt Prism
+Cobalt Shirt Prism
+Rose Shirt Prism
+Onyx Shirt Prism
+Pearl Shirt Prism
+Jade Shirt Prism
+Ash Shirt Prism
+Lumen Shirt Prism
+Quartz Shirt Prism
+Hazel Shirt Prism
+Vivid Shirt Prism
+Prism Shirt Prism
+Echo Shirt Prism
+Nova Shirt Prism
+Dusk Shirt Prism
+Pixel Shirt Prism
+Storm Shirt Prism
+Briar Shirt Prism
+Glint Shirt Prism
+Zephyr Shirt Prism
+Cinder Shirt Prism
+Aether Shirt Prism
+Crimson Shirt Ember
+Frost Shirt Ember
+Ember Shirt Ember
+Void Shirt Ember
+Solar Shirt Ember
+Tidal Shirt Ember
+Moss Shirt Ember
+Neon Shirt Ember
+Amber Shirt Ember
+Cobalt Shirt Ember
+Rose Shirt Ember
+Onyx Shirt Ember
+Pearl Shirt Ember
+Jade Shirt Ember
+Ash Shirt Ember
+Lumen Shirt Ember
+Quartz Shirt Ember
+Hazel Shirt Ember
+Vivid Shirt Ember
+Prism Shirt Ember
+Echo Shirt Ember
+Nova Shirt Ember
+Dusk Shirt Ember
+Pixel Shirt Ember
+Storm Shirt Ember
+Briar Shirt Ember
+Glint Shirt Ember
+Zephyr Shirt Ember
+Cinder Shirt Ember
+Aether Shirt Ember
+Crimson Shirt Frost
+Frost Shirt Frost
+Ember Shirt Frost
+Void Shirt Frost
+Solar Shirt Frost
+Tidal Shirt Frost
+Moss Shirt Frost
+Neon Shirt Frost
+Amber Shirt Frost
+Cobalt Shirt Frost
+Rose Shirt Frost
+Onyx Shirt Frost
+Pearl Shirt Frost
+Jade Shirt Frost
+Ash Shirt Frost
+Lumen Shirt Frost
+Quartz Shirt Frost
+Hazel Shirt Frost
+Vivid Shirt Frost
+Prism Shirt Frost
+Echo Shirt Frost
+Nova Shirt Frost
+Dusk Shirt Frost
+Pixel Shirt Frost
+Storm Shirt Frost
+Briar Shirt Frost
+Glint Shirt Frost
+Zephyr Shirt Frost
+Cinder Shirt Frost
+Aether Shirt Frost
+Crimson Pants
+Frost Pants
+Ember Pants
+Void Pants
+Solar Pants
+Tidal Pants
+Moss Pants
+Neon Pants
+Amber Pants
+Cobalt Pants
+Rose Pants
+Onyx Pants
+Pearl Pants
+Jade Pants
+Ash Pants
+Lumen Pants
+Quartz Pants
+Hazel Pants
+Vivid Pants
+Prism Pants
+Crimson Pants Neon
+Frost Pants Neon
+Ember Pants Neon
+Void Pants Neon
+Solar Pants Neon
+Tidal Pants Neon
+Moss Pants Neon
+Neon Pants Neon
+Amber Pants Neon
+Cobalt Pants Neon
+Rose Pants Neon
+Onyx Pants Neon
+Pearl Pants Neon
+Jade Pants Neon
+Ash Pants Neon
+Lumen Pants Neon
+Quartz Pants Neon
+Hazel Pants Neon
+Vivid Pants Neon
+Prism Pants Neon
+Crimson Pants Glitch
+Frost Pants Glitch
+Ember Pants Glitch
+Void Pants Glitch
+Solar Pants Glitch
+Tidal Pants Glitch
+Moss Pants Glitch
+Neon Pants Glitch
+Amber Pants Glitch
+Cobalt Pants Glitch
+Rose Pants Glitch
+Onyx Pants Glitch
+Pearl Pants Glitch
+Jade Pants Glitch
+Ash Pants Glitch
+Lumen Pants Glitch
+Quartz Pants Glitch
+Hazel Pants Glitch
+Vivid Pants Glitch
+Prism Pants Glitch
+Crimson Pants Retro
+Frost Pants Retro
+Ember Pants Retro
+Void Pants Retro
+Solar Pants Retro
+Tidal Pants Retro
+Moss Pants Retro
+Neon Pants Retro
+Amber Pants Retro
+Cobalt Pants Retro
+Rose Pants Retro
+Onyx Pants Retro
+Pearl Pants Retro
+Jade Pants Retro
+Ash Pants Retro
+Lumen Pants Retro
+Quartz Pants Retro
+Hazel Pants Retro
+Vivid Pants Retro
+Prism Pants Retro
+Crimson Pants Royal
+Frost Pants Royal
+Ember Pants Royal
+Void Pants Royal
+Solar Pants Royal
+Tidal Pants Royal
+Moss Pants Royal
+Neon Pants Royal
+Amber Pants Royal
+Cobalt Pants Royal
+Rose Pants Royal
+Onyx Pants Royal
+Pearl Pants Royal
+Jade Pants Royal
+Ash Pants Royal
+Lumen Pants Royal
+Quartz Pants Royal
+Hazel Pants Royal
+Vivid Pants Royal
+Prism Pants Royal
+Crimson Pants Shadow
+Frost Pants Shadow
+Ember Pants Shadow
+Void Pants Shadow
+Solar Pants Shadow
+Tidal Pants Shadow
+Moss Pants Shadow
+Neon Pants Shadow
+Amber Pants Shadow
+Cobalt Pants Shadow
+Rose Pants Shadow
+Onyx Pants Shadow
+Pearl Pants Shadow
+Jade Pants Shadow
+Ash Pants Shadow
+Lumen Pants Shadow
+Quartz Pants Shadow
+Hazel Pants Shadow
+Vivid Pants Shadow
+Prism Pants Shadow
+Crimson Pants Prism
+Frost Pants Prism
+Ember Pants Prism
+Void Pants Prism
+Solar Pants Prism
+Tidal Pants Prism
+Moss Pants Prism
+Neon Pants Prism
+Amber Pants Prism
+Cobalt Pants Prism
+Rose Pants Prism
+Onyx Pants Prism
+Pearl Pants Prism
+Jade Pants Prism
+Ash Pants Prism
+Lumen Pants Prism
+Quartz Pants Prism
+Hazel Pants Prism
+Vivid Pants Prism
+Prism Pants Prism
+Crimson Pants Ember
+Frost Pants Ember
+Ember Pants Ember
+Void Pants Ember
+Solar Pants Ember
+Tidal Pants Ember
+Moss Pants Ember
+Neon Pants Ember
+Amber Pants Ember
+Cobalt Pants Ember
+Rose Pants Ember
+Onyx Pants Ember
+Pearl Pants Ember
+Jade Pants Ember
+Ash Pants Ember
+Lumen Pants Ember
+Quartz Pants Ember
+Hazel Pants Ember
+Vivid Pants Ember
+Prism Pants Ember
+Crimson Pants Frost
+Frost Pants Frost
+Ember Pants Frost
+Void Pants Frost
+Solar Pants Frost
+Tidal Pants Frost
+Moss Pants Frost
+Neon Pants Frost
+Amber Pants Frost
+Cobalt Pants Frost
+Rose Pants Frost
+Onyx Pants Frost
+Pearl Pants Frost
+Jade Pants Frost
+Ash Pants Frost
+Lumen Pants Frost
+Quartz Pants Frost
+Hazel Pants Frost
+Vivid Pants Frost
+Prism Pants Frost
+Crimson Wings Accessory
+Frost Crown Accessory
+Ember Halo Accessory
+Void Mask Accessory
+Solar Aura Accessory
+Tidal Cape Accessory
+Moss Band Accessory
+Neon Visor Accessory
+Amber Charm Accessory
+Cobalt Horns Accessory
+Rose Tiara Accessory
+Onyx Cloak Accessory
+Pearl Earring Accessory
+Jade Pendant Accessory
+Ash Scarf Accessory
+Lumen Orb Accessory
+Quartz Shard Accessory
+Hazel Leaf Accessory
+Vivid Bow Accessory
+Prism Lens Accessory
+Echo Bell Accessory
+Nova Star Accessory
+Dusk Veil Accessory
+Pixel Badge Accessory
+Storm Bolt Accessory
+Briar Ring Accessory
+Glint Gem Accessory
+Zephyr Fan Accessory
+Cinder Torch Accessory
+Aether Wing Accessory
+Crimson Wings Accessory Neon
+Frost Crown Accessory Neon
+Ember Halo Accessory Neon
+Void Mask Accessory Neon
+Solar Aura Accessory Neon
+Tidal Cape Accessory Neon
+Moss Band Accessory Neon
+Neon Visor Accessory Neon
+Amber Charm Accessory Neon
+Cobalt Horns Accessory Neon
+Rose Tiara Accessory Neon
+Onyx Cloak Accessory Neon
+Pearl Earring Accessory Neon
+Jade Pendant Accessory Neon
+Ash Scarf Accessory Neon
+Lumen Orb Accessory Neon
+Quartz Shard Accessory Neon
+Hazel Leaf Accessory Neon
+Vivid Bow Accessory Neon
+Prism Lens Accessory Neon
+Echo Bell Accessory Neon
+Nova Star Accessory Neon
+Dusk Veil Accessory Neon
+Pixel Badge Accessory Neon
+Storm Bolt Accessory Neon
+Briar Ring Accessory Neon
+Glint Gem Accessory Neon
+Zephyr Fan Accessory Neon
+Cinder Torch Accessory Neon
+Aether Wing Accessory Neon
+Crimson Wings Accessory Glitch
+Frost Crown Accessory Glitch
+Ember Halo Accessory Glitch
+Void Mask Accessory Glitch
+Solar Aura Accessory Glitch
+Tidal Cape Accessory Glitch
+Moss Band Accessory Glitch
+Neon Visor Accessory Glitch
+Amber Charm Accessory Glitch
+Cobalt Horns Accessory Glitch
+Rose Tiara Accessory Glitch
+Onyx Cloak Accessory Glitch
+Pearl Earring Accessory Glitch
+Jade Pendant Accessory Glitch
+Ash Scarf Accessory Glitch
+Lumen Orb Accessory Glitch
+Quartz Shard Accessory Glitch
+Hazel Leaf Accessory Glitch
+Vivid Bow Accessory Glitch
+Prism Lens Accessory Glitch
+Echo Bell Accessory Glitch
+Nova Star Accessory Glitch
+Dusk Veil Accessory Glitch
+Pixel Badge Accessory Glitch
+Storm Bolt Accessory Glitch
+Briar Ring Accessory Glitch
+Glint Gem Accessory Glitch
+Zephyr Fan Accessory Glitch
+Cinder Torch Accessory Glitch
+Aether Wing Accessory Glitch
+Crimson Wings Accessory Retro
+Frost Crown Accessory Retro
+Ember Halo Accessory Retro
+Void Mask Accessory Retro
+Solar Aura Accessory Retro
+Tidal Cape Accessory Retro
+Moss Band Accessory Retro
+Neon Visor Accessory Retro
+Amber Charm Accessory Retro
+Cobalt Horns Accessory Retro
+Rose Tiara Accessory Retro
+Onyx Cloak Accessory Retro
+Pearl Earring Accessory Retro
+Jade Pendant Accessory Retro
+Ash Scarf Accessory Retro
+Lumen Orb Accessory Retro
+Quartz Shard Accessory Retro
+Hazel Leaf Accessory Retro
+Vivid Bow Accessory Retro
+Prism Lens Accessory Retro
+Echo Bell Accessory Retro
+Nova Star Accessory Retro
+Dusk Veil Accessory Retro
+Pixel Badge Accessory Retro
+Storm Bolt Accessory Retro
+Briar Ring Accessory Retro
+Glint Gem Accessory Retro
+Zephyr Fan Accessory Retro
+Cinder Torch Accessory Retro
+Aether Wing Accessory Retro
+Crimson Wings Accessory Royal
+Frost Crown Accessory Royal
+Ember Halo Accessory Royal
+Void Mask Accessory Royal
+Solar Aura Accessory Royal
+Tidal Cape Accessory Royal
+Moss Band Accessory Royal
+Neon Visor Accessory Royal
+Amber Charm Accessory Royal
+Cobalt Horns Accessory Royal
+Rose Tiara Accessory Royal
+Onyx Cloak Accessory Royal
+Pearl Earring Accessory Royal
+Jade Pendant Accessory Royal
+Ash Scarf Accessory Royal
+Lumen Orb Accessory Royal
+Quartz Shard Accessory Royal
+Hazel Leaf Accessory Royal
+Vivid Bow Accessory Royal
+Prism Lens Accessory Royal
+Echo Bell Accessory Royal
+Nova Star Accessory Royal
+Dusk Veil Accessory Royal
+Pixel Badge Accessory Royal
+Storm Bolt Accessory Royal
+Briar Ring Accessory Royal
+Glint Gem Accessory Royal
+Zephyr Fan Accessory Royal
+Cinder Torch Accessory Royal
+Aether Wing Accessory Royal
+Crimson Wings Accessory Shadow
+Frost Crown Accessory Shadow
+Ember Halo Accessory Shadow
+Void Mask Accessory Shadow
+Solar Aura Accessory Shadow
+Tidal Cape Accessory Shadow
+Moss Band Accessory Shadow
+Neon Visor Accessory Shadow
+Amber Charm Accessory Shadow
+Cobalt Horns Accessory Shadow
+Rose Tiara Accessory Shadow
+Onyx Cloak Accessory Shadow
+Pearl Earring Accessory Shadow
+Jade Pendant Accessory Shadow
+Ash Scarf Accessory Shadow
+Lumen Orb Accessory Shadow
+Quartz Shard Accessory Shadow
+Hazel Leaf Accessory Shadow
+Vivid Bow Accessory Shadow
+Prism Lens Accessory Shadow
+Echo Bell Accessory Shadow
+Nova Star Accessory Shadow
+Dusk Veil Accessory Shadow
+Pixel Badge Accessory Shadow
+Storm Bolt Accessory Shadow
+Briar Ring Accessory Shadow
+Glint Gem Accessory Shadow
+Zephyr Fan Accessory Shadow
+Cinder Torch Accessory Shadow
+Aether Wing Accessory Shadow
+Crimson Wings Accessory Prism
+Frost Crown Accessory Prism
+Ember Halo Accessory Prism
+Void Mask Accessory Prism
+Solar Aura Accessory Prism
+Tidal Cape Accessory Prism
+Moss Band Accessory Prism
+Neon Visor Accessory Prism
+Amber Charm Accessory Prism
+Cobalt Horns Accessory Prism
+Rose Tiara Accessory Prism
+Onyx Cloak Accessory Prism
+Pearl Earring Accessory Prism
+Jade Pendant Accessory Prism
+Ash Scarf Accessory Prism
+Lumen Orb Accessory Prism
+Quartz Shard Accessory Prism
+Hazel Leaf Accessory Prism
+Vivid Bow Accessory Prism
+Prism Lens Accessory Prism
+Echo Bell Accessory Prism
+Nova Star Accessory Prism
+Dusk Veil Accessory Prism
+Pixel Badge Accessory Prism
+Storm Bolt Accessory Prism
+Briar Ring Accessory Prism
+Glint Gem Accessory Prism
+Zephyr Fan Accessory Prism
+Cinder Torch Accessory Prism
+Aether Wing Accessory Prism
+Crimson Wings Accessory Ember
+Frost Crown Accessory Ember
+Ember Halo Accessory Ember
+Void Mask Accessory Ember
+Solar Aura Accessory Ember
+Tidal Cape Accessory Ember
+Moss Band Accessory Ember
+Neon Visor Accessory Ember
+Amber Charm Accessory Ember
+Cobalt Horns Accessory Ember
+Rose Tiara Accessory Ember
+Onyx Cloak Accessory Ember
+Pearl Earring Accessory Ember
+Jade Pendant Accessory Ember
+Ash Scarf Accessory Ember
+Lumen Orb Accessory Ember
+Quartz Shard Accessory Ember
+Hazel Leaf Accessory Ember
+Vivid Bow Accessory Ember
+Prism Lens Accessory Ember
+Echo Bell Accessory Ember
+Nova Star Accessory Ember
+Dusk Veil Accessory Ember
+Pixel Badge Accessory Ember
+Storm Bolt Accessory Ember
+Briar Ring Accessory Ember
+Glint Gem Accessory Ember
+Zephyr Fan Accessory Ember
+Cinder Torch Accessory Ember
+Aether Wing Accessory Ember
+Crimson Wings Accessory Frost
+Frost Crown Accessory Frost
+Ember Halo Accessory Frost
+Void Mask Accessory Frost
+Solar Aura Accessory Frost
+Tidal Cape Accessory Frost
+Moss Band Accessory Frost
+Neon Visor Accessory Frost
+Amber Charm Accessory Frost
+Cobalt Horns Accessory Frost
+Rose Tiara Accessory Frost
+Onyx Cloak Accessory Frost
+Pearl Earring Accessory Frost
+Jade Pendant Accessory Frost
+Ash Scarf Accessory Frost
+Lumen Orb Accessory Frost
+Quartz Shard Accessory Frost
+Hazel Leaf Accessory Frost
+Vivid Bow Accessory Frost
+Prism Lens Accessory Frost
+Echo Bell Accessory Frost
+Nova Star Accessory Frost
+Dusk Veil Accessory Frost
+Pixel Badge Accessory Frost
+Storm Bolt Accessory Frost
+Briar Ring Accessory Frost
+Glint Gem Accessory Frost
+Zephyr Fan Accessory Frost
+Cinder Torch Accessory Frost
+Aether Wing Accessory Frost

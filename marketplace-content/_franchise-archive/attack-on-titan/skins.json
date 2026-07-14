@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Eren",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eren.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mikasa",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mikasa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Levi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Levi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Armin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Armin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hange",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hange.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Erwin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Erwin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Reiner",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Reiner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Annie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Annie.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Attack on Titan",
+  "localization_name": "Attack on Titan"
+}

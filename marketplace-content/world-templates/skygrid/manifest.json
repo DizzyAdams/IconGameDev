@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "SkyGrid",
+    "description": "Every single block is floating in a grid. Survive the chaos!",
+    "uuid": "9b7f5ee5-0d88-4019-a14b-5c225768f108",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "469cbd69-01c3-479a-8c3a-19f236a90515",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

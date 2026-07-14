@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dragon's Lair",
+    "description": "Epic adventure map with a dragon boss at the end.",
+    "uuid": "d7365b4a-2f6f-46df-b253-2f42e095b5ed",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "baa45959-137a-4023-ad99-f7deb2065f03",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

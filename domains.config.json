@@ -1,0 +1,29 @@
+{
+  "brand": "IconMineMods",
+  "legal_name": "<razao_social>",
+  "cnpj": "<SEU_CNPJ>",
+  "registrar_notes": "FreeDomain gratuito = .dpdns.org (ativo ate o deploy). .com/.org pagos via Namecheap/Gandi/Porkbun (~$10/ano) - adiados ate subir o projeto. .com.br exige CNPJ (Registro.br).",
+  "primary": "iconminemods.dpdns.org",
+  "privacy_url": "https://iconminemods.dpdns.org/privacy",
+  "email": "contato@iconminemods.dpdns.org",
+  "dns_provider": "Vercel (A 76.76.21.21 + CNAME www -> cname.vercel-dns.com)",
+  "hosting": "Vercel (Next.js 16)",
+  "trademark_safe": true,
+  "trademark_note": "IconMineMods nao contem 'Minecraft'/'Mojang'/'Microsoft' — conforme compliance/02-content-compliance.md",
+  "domains": [
+    { "name": "iconminemods.com",        "tier": 1, "purpose": "site primario",        "status": "deferred-until-deploy", "note": "FreeDomain does not provide .com; register via Porkbun/Namecheap (~$10/yr) or Registro.br with CNPJ for .com.br" },
+    { "name": "iconminemods.dpdns.org",  "tier": 1, "purpose": "free primary (privacy/contact) - ATIVO", "status": "to-claim" },
+    { "name": "iconminemods.org",        "tier": 1, "purpose": "marca/org (pago)",            "status": "to-register" },
+    { "name": "iconminemods.com.br",     "tier": 1, "purpose": "primario Brasil (CNPJ)","status": "to-register" },
+    { "name": "www.iconminemods.com",    "tier": 1, "purpose": "redirect canonico",     "status": "to-register" },
+    { "name": "www.iconminemods.org",    "tier": 1, "purpose": "redirect canonico",     "status": "to-register" },
+    { "name": "www.iconminemods.com.br", "tier": 1, "purpose": "redirect canonico",     "status": "to-register" },
+    { "name": "iconminemods.net",        "tier": 2, "purpose": "protecao de marca",     "status": "optional" },
+    { "name": "iconminemods.tech",       "tier": 2, "purpose": "combina email iconMine.tech", "status": "optional" }
+  ],
+  "verification": [
+    "Microsoft 365 domain TXT (para email corporativo + contato Partner Center)",
+    "Google Search Console TXT",
+    "Bing Webmaster TXT"
+  ]
+}

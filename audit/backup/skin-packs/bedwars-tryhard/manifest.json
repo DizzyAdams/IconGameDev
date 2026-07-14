@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "BedWars Tryhard",
+    "description": "8 BedWars sweat skins! Rusher, Defender, Bridger, TNT, Diamond, FinalKill, Clutch, Sweat.",
+    "uuid": "b0cb083af-12ae-7318-e0ce-00a660f1c147",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b917d2535-b98f-3a40-18ef-00d03d67dd1e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Bedrock Minemods"
+    ],
+    "product_type": "skin_pack",
+    "price": "$2.99 (480 MC)",
+    "price_usd": 2.99,
+    "price_mc": 480,
+    "tier": "standard",
+    "status": "pending_premium_review",
+    "release_notes": {
+      "1.0.0": "Premium pack prepared for store submission."
+    },
+    "store_description": "8 BedWars sweat skins! Rusher, Defender, Bridger, TNT, Diamond, FinalKill, Clutch, Sweat."
+  }
+}

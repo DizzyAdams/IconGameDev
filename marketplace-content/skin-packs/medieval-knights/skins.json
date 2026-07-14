@@ -1,0 +1,52 @@
+{
+  "skins": [
+    {
+      "localization_name": "Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Archer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "archer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mage",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "mage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Paladin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "paladin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Necromancer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "necromancer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Berserker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "berserker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rogue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "rogue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Druid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "druid.png",
+      "type": "free"
+    }
+  ]
+}

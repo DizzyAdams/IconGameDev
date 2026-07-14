@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hello Kitty",
+    "description": "6 Sanrio-inspired skins! Hello Kitty, My Melody, Kuromi, Cinnamoroll, Pompompurin, Badtz-Maru.",
+    "uuid": "0da65d1a-d229-84b1-b619-007177a15a96",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e98a6767-be6f-3e7e-bd00-003cffd142f9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

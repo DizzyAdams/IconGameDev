@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mass NeonMint #443",
+    "description": "Generated pack: Mass NeonMint #443",
+    "uuid": "94a89ecf-e7d8-7195-b1c0-3ae9b7f83ea3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7fd8c603-5c18-c8d2-a282-1e3edb3bdb33",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

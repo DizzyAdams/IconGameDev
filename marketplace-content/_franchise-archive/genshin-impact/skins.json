@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "HuTao",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HuTao.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ganyu",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ganyu.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zhongli",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zhongli.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Raiden",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Raiden.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Xiao",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xiao.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kazuha",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kazuha.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ayaka",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ayaka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nahida",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nahida.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Genshin Impact",
+  "localization_name": "Genshin Impact"
+}
