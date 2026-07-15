@@ -285,6 +285,10 @@ class Handler(BaseHTTPRequestHandler):
         u = urllib.parse.urlparse(self.path)
         if u.path == "/api/health":
             return self._send(200, {"status": "ok", "ts": datetime.datetime.now().isoformat()})
+        # Console access gate (set CONSOLE_PASSWORD env on Coolify to enable)
+        gate = os.environ.get("CONSOLE_PASSWORD")
+        if gate and self.headers.get("x-console-key") != gate:
+            return self._send(401, {"error": "unauthorized", "hint": "set x-console-key header"})
         if u.path == "/api/catalog":
             data = load_catalog()
             items = data.get("items", [])
@@ -307,6 +311,10 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         u = urllib.parse.urlparse(self.path)
+        # Console access gate (set CONSOLE_PASSWORD env on Coolify to enable)
+        gate = os.environ.get("CONSOLE_PASSWORD")
+        if gate and self.headers.get("x-console-key") != gate:
+            return self._send(401, {"error": "unauthorized", "hint": "set x-console-key header"})
         length = int(self.headers.get("Content-Length", 0))
         raw = self.rfile.read(length) if length else b""
 
