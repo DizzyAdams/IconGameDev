@@ -172,6 +172,7 @@ def add_item(name: str, typ: str, price_robux: int | None) -> dict:
         "ip_clean": True,
         "notes": "Internal console upload (original art)",
         "has_image": find_image(name) is not None,
+        "submitted": False,
     }
     return item
 
@@ -254,12 +255,54 @@ def run_submit(test_one: bool) -> dict:
         cmd.append("--test-one")
     try:
         proc = subprocess.run(cmd, cwd=str(ROOT), capture_output=True, text=True, timeout=600)
-        return {"ok": proc.returncode == 0, "returncode": proc.returncode,
+        ok = proc.returncode == 0
+        if ok and not test_one:
+            # mark eligible items as submitted
+            mark_submitted()
+        return {"ok": ok, "returncode": proc.returncode,
                 "stdout": proc.stdout[-4000:], "stderr": proc.stderr[-2000:]}
     except subprocess.TimeoutExpired:
         return {"ok": False, "error": "timeout (10min)"}
     except Exception as e:
         return {"ok": False, "error": str(e)}
+
+
+def mark_submitted():
+    data = load_catalog()
+    elig = {x.get("name") for x in data.get("items", [])
+            if x.get("type") in TYPE_MAP and (find_image(x.get("name", "")) or x.get("has_image"))}
+    for x in data.get("items", []):
+        if x.get("name") in elig:
+            x["submitted"] = True
+    save_catalog(data)
+
+
+def sales_summary() -> dict:
+    items = [x for x in load_catalog().get("items", []) if x.get("type") in TYPE_MAP]
+    by_type: dict = {}
+    tot_robux = tot_net = tot_usd = 0
+    for x in items:
+        t = x.get("type")
+        net = x.get("net_robux", 0) or 0
+        usd = x.get("devex_usd", 0) or 0
+        b = by_type.setdefault(t, {"count": 0, "net_robux": 0, "devex_usd": 0})
+        b["count"] += 1
+        b["net_robux"] += net
+        b["devex_usd"] += usd
+        tot_net += net
+        tot_usd += usd
+    submitted = sum(1 for x in items if x.get("submitted"))
+    # projected monthly: assume 10% of catalog sells per month (conservative)
+    monthly_factor = 0.10
+    return {
+        "total_items": len(items),
+        "submitted": submitted,
+        "pending_submit": len(items) - submitted,
+        "total_net_robux": tot_net,
+        "total_devex_usd": round(tot_usd, 2),
+        "projected_monthly_usd": round(tot_usd * monthly_factor, 2),
+        "by_type": by_type,
+    }
 
 
 # ── HTTP handler ──────────────────────────────────────────────────────────
@@ -307,6 +350,8 @@ class Handler(BaseHTTPRequestHandler):
                     {"key": "epic", "label": "Fortnite Creative", "status": "planned"},
                 ]
             })
+        if u.path == "/api/sales":
+            return self._send(200, sales_summary())
         return self._send(404, {"error": "not found"})
 
     def do_POST(self):
@@ -329,6 +374,10 @@ class Handler(BaseHTTPRequestHandler):
                 body = {}
             res = run_submit(bool(body.get("test_one")))
             return self._send(200, res)
+        if u.path == "/api/submit/auto":
+            # full batch submit + mark submitted; returns combined summary
+            res = run_submit(False)
+            return self._send(200, {"submit": res, "sales": sales_summary()})
         if u.path == "/api/secrets":
             return self._handle_secrets(raw)
         return self._send(404, {"error": "not found"})
