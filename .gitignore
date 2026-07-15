@@ -1,0 +1,52 @@
+﻿# ── Secrets (NEVER commit) ──
+ops/secrets.json
+*.env
+.env
+.env.*
+keyroblox.env
+ROBLOX_CONFIG.env
+roblox_config.env
+**/secrets.json
+
+# ── Dependencies / build output ──
+node_modules/
+.pnp
+.pnp.js
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.npm
+
+# ── Vercel internal (linked via dashboard, not git) ──
+.vercel/
+
+# ── Binary asset dumps (read from disk by Coolify backend, not git) ──
+roblox-ugc/assets/
+marketplace-content/output/
+submission_mcpacks/
+arq_zip/
+audit/
+.codegraph/
+_ip_quarantine/
+bedrock_master/
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.mcpack
+*.minecraftpack
+
+# ── Scratch / temp ──
+*.log
+_tmp_*
+.tmp_*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Keep these source trees:
+!ops/console/
+!website-next/
