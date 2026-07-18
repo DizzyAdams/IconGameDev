@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 0339",
+    "description": "Space Skins 0339",
+    "uuid": "d49c70d6-0d42-4277-a0c6-b940a8ad0d20",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9a9ec1ab-68e1-4a6d-a6dd-1e519ee469e2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

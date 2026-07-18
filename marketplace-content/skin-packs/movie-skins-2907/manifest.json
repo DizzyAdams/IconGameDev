@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 2907",
+    "description": "Movie Skins 2907",
+    "uuid": "291994dc-9904-452c-9dfe-0eaacf186a08",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d149aab3-e501-4dc0-bb83-765e9e4a0f87",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

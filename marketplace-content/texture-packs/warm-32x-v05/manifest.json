@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Warm 32x Pack v6",
+    "description": "A warm 32x texture pack variant 6. Procedurally generated with unique noise profile.",
+    "uuid": "b3eb0267-f0de-4b6d-8121-7f23dba5463a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8e2a29e4-6ced-4ee0-83a0-4929a244aea0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

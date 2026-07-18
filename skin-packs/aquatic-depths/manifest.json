@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Aquatic Depths",
+    "description": "12 deep ocean skins with coral armor, tridents, and bioluminescent fins.",
+    "uuid": "4e566c31-7e69-e771-20da-6c9fbdeb096c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "891f96eb-53a0-d0a4-6acf-90f72f275b6c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 5.99,
+    "price_mc": 910,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

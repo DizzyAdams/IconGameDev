@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minigame World 0216",
+    "description": "Minigame World 0216",
+    "uuid": "0909e42d-634b-4393-8248-46f0ca068f05",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "e5164d35-ee4a-4fca-9499-88990134ca9a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

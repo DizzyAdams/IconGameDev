@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Monochrome 64x Pack v5",
+    "description": "A monochrome 64x texture pack variant 5. Procedurally generated with unique noise profile.",
+    "uuid": "268c7085-692f-4812-9fb4-7c56c6bffc00",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e885cf45-8f3b-411c-b223-c68c2cb95168",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

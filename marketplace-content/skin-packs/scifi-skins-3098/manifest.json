@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 3098",
+    "description": "Scifi Skins 3098",
+    "uuid": "e35f9289-c311-40a5-a819-c8d32a8f5fc4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c6263b22-aa93-4ab2-96fb-8ead0f1c561f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

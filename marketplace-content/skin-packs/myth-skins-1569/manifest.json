@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1569",
+    "description": "Myth Skins 1569",
+    "uuid": "4d37647c-a909-4d70-bf56-2881f5c6abd6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8c260128-1554-4828-973a-918954bff4da",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1605",
+    "description": "Winter Skins 1605",
+    "uuid": "7a6c8f01-1cc2-49d9-ad85-3e1a8ea6d69b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5ad81e70-ef91-48ee-8c06-50576421c5df",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

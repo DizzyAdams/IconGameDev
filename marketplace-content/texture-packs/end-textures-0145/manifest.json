@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "End Textures 0145",
+    "description": "End Textures 0145",
+    "uuid": "a03da348-5dff-4196-a05f-633954cb199f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2313291b-9f00-4ab0-b598-c3aec9e46f6b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

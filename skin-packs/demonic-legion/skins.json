@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "DemonicLegion_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DemonicLegion_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DemonicLegion_12.png",
+      "type": "free"
+    }
+  ]
+}

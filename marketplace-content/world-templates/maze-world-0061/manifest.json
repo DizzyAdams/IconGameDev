@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Maze World 0061",
+    "description": "Maze World 0061",
+    "uuid": "0af1c3cf-6f58-4e82-8c9c-a49002621384",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "d19b9688-30d9-4a01-881b-133f81aa0df0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

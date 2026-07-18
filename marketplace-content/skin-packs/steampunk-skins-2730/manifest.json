@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2730",
+    "description": "Steampunk Skins 2730",
+    "uuid": "a1957d49-9eeb-44ab-a8fb-6f85cdb72d78",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "251dab67-b7cf-4e7b-b945-005ef6760be4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

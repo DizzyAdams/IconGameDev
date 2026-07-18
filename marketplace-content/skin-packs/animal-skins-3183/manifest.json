@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 3183",
+    "description": "Animal Skins 3183",
+    "uuid": "ebbfa925-2400-4770-ad30-0e02b0ead130",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b30ca443-6457-43da-a307-7d43bf538e8e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

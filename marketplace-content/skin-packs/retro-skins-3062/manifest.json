@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 3062",
+    "description": "Retro Skins 3062",
+    "uuid": "39713356-e74e-437d-8b97-e04644a2b1fd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5dc68ff3-528a-451d-ab71-1eb9820d07fa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

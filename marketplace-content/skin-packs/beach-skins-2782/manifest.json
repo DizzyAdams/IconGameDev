@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 2782",
+    "description": "Beach Skins 2782",
+    "uuid": "4d97f716-f581-4902-8b6e-45f8d444c846",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7865214d-366e-41d1-99d2-2622c9a1e028",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

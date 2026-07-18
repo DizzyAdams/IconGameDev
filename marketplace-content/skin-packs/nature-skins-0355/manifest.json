@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 0355",
+    "description": "Nature Skins 0355",
+    "uuid": "9c8097ff-c54d-4844-a7b0-df43ca793812",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5c884022-ead9-4672-9ee5-b92c947f40bd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

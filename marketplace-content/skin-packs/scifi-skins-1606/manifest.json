@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 1606",
+    "description": "Scifi Skins 1606",
+    "uuid": "578b4b0a-6eec-419d-b864-d6593646bb59",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e33949e0-5bae-4a5a-8ac1-a099743d1749",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

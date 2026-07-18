@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2011",
+    "description": "Steampunk Skins 2011",
+    "uuid": "01391185-22db-4be3-87f2-a057a821522a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "76165577-516d-4d16-8063-aa1dda97b746",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

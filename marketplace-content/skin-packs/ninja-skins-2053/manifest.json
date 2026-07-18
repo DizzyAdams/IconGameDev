@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2053",
+    "description": "Ninja Skins 2053",
+    "uuid": "875d2110-50e4-4017-90dd-ca3c05d2a243",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e6e962d4-dd90-4a68-abe9-26e307a0c508",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

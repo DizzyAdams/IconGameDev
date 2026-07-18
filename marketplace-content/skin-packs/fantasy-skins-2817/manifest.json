@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2817",
+    "description": "Fantasy Skins 2817",
+    "uuid": "5e0d1f2d-69fc-4e61-80a8-77ef6bbf8d97",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a158fd8d-9efe-4f6c-9e84-8ac87897a9a7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

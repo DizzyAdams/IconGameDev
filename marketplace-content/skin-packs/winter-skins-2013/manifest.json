@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2013",
+    "description": "Winter Skins 2013",
+    "uuid": "bdc34f1d-551f-46f5-97a2-eb7f52ae3328",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "51a79efb-b4ee-4fdc-9ce4-c38db4092148",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

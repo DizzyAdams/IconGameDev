@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Void Walkers",
+    "description": "12 void entity skins with cosmic tentacles, purple auras, and reality-warping effects.",
+    "uuid": "1f11b252-9244-52c2-34a3-135d805d73ef",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9861743a-173a-8a14-baa9-08f6a09d7aae",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 9.99,
+    "price_mc": 1520,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

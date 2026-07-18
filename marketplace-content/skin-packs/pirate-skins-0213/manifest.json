@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 0213",
+    "description": "Pirate Skins 0213",
+    "uuid": "21e5e231-3dba-4d9d-a19c-f4eb24719dfd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e11dde62-9ac0-4638-95cb-de4bcd5939a2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

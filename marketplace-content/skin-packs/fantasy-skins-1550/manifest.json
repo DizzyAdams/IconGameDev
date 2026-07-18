@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 1550",
+    "description": "Fantasy Skins 1550",
+    "uuid": "47d89b32-5a14-4134-8b85-b9f355d1c4e9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4c7e2c96-acd0-44ce-96b7-5864b535f0f7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

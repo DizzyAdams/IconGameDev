@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1453",
+    "description": "Anime Skins 1453",
+    "uuid": "0f87f4e9-b902-438e-b2da-5e80ef215a01",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "878b6744-b5fe-4039-ab91-322d6c8fabf1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

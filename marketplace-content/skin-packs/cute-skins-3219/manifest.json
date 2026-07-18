@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 3219",
+    "description": "Cute Skins 3219",
+    "uuid": "9fa98ea6-0247-4771-a2d3-6db5f9adb14c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1cc8d044-422a-4cbd-a066-405e97a1ff63",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

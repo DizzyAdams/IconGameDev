@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1284",
+    "description": "Anime Skins 1284",
+    "uuid": "61081847-ddcb-43f1-8674-6ec8d3e7e649",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "55cf242e-8371-4879-ab87-2cd0e8863d2e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1126",
+    "description": "Anime Skins 1126",
+    "uuid": "760f3ed8-0b47-4fdc-953e-2a7bd7ffc92a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d01f446c-ab5c-4472-835c-9243318283bd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

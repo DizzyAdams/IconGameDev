@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 1604",
+    "description": "Movie Skins 1604",
+    "uuid": "01fe722c-c885-4ebe-8b58-811a9d7aacb0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d64361ff-999a-45a8-a393-e0bb539858f5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

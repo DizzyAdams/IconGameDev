@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1704",
+    "description": "Winter Skins 1704",
+    "uuid": "714566cc-4323-46c7-9fda-299573b18714",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "33014d9a-7022-4be3-88af-86b41f69eac3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

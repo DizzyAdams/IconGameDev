@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1733",
+    "description": "Myth Skins 1733",
+    "uuid": "5da6cad0-7849-4b28-a94a-d28aff997f00",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e2f04113-0ab7-4552-aca4-5962888462f6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

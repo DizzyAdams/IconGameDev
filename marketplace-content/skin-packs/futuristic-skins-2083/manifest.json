@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 2083",
+    "description": "Futuristic Skins 2083",
+    "uuid": "98f2c3a7-34d5-4cc1-88fa-4e1d68323ca2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "64fd750c-cc18-41ea-9fc1-00d3a41fedab",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

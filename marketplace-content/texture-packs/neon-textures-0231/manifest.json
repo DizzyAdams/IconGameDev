@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon Textures 0231",
+    "description": "Neon Textures 0231",
+    "uuid": "1bfa95e1-cfd7-49ae-885f-d2e1d785b8a8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ab1309d6-f5fb-4be7-8231-bfdf31cc8f58",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

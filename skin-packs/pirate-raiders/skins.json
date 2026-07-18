@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "PirateRaiders_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PirateRaiders_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PirateRaiders_12.png",
+      "type": "free"
+    }
+  ]
+}

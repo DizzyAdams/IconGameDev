@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space World 0260",
+    "description": "Space World 0260",
+    "uuid": "a5f19467-4ad5-4e19-b9e1-3d9cebb3c0e4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "dc40f7fc-59e8-465c-9339-b2574c816ef6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

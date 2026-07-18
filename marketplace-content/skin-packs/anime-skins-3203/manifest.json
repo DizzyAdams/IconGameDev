@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 3203",
+    "description": "Anime Skins 3203",
+    "uuid": "17494b3d-cbce-4d44-bf36-696d408c6025",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4d1f24b6-0280-45fb-8a8b-ad63c0d10afd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

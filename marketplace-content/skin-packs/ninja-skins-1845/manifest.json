@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1845",
+    "description": "Ninja Skins 1845",
+    "uuid": "1c59068c-67d3-44cb-bbc5-1fe686a8b345",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d4458311-47c3-4c0d-95b2-44b91ff1a13e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

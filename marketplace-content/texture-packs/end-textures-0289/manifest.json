@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "End Textures 0289",
+    "description": "End Textures 0289",
+    "uuid": "50313827-830a-43e4-ae98-2cfeffe741e4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "05c05e41-8fc3-41ab-8b52-b84b3d6b627a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

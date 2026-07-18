@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 2036",
+    "description": "Robot Skins 2036",
+    "uuid": "6271112f-6aa2-4cc6-9eb0-621645857deb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b60d03b8-6e8b-4c74-9833-e9aede81b48c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

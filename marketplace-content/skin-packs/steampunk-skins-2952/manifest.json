@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2952",
+    "description": "Steampunk Skins 2952",
+    "uuid": "234ebb09-0eca-42c2-af9a-07fbc572f88a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1dc3a471-f388-42e3-9640-051f8444343c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

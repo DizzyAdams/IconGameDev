@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 2089",
+    "description": "Superhero Skins 2089",
+    "uuid": "a0ac2cb3-e8d5-43f1-951b-2efbe4edee3f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "220a1f6c-4d64-4650-bb12-22fd9fa1880b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

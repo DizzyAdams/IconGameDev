@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2494",
+    "description": "Fantasy Skins 2494",
+    "uuid": "c156d05d-93dd-4ffd-9920-9d795cb70e71",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d631c3bf-e056-46df-885f-08d318609227",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

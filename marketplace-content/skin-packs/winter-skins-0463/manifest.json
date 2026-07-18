@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 0463",
+    "description": "Winter Skins 0463",
+    "uuid": "329c49b4-1bae-44fb-ac55-deee056a0a49",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b2c53d17-4e20-4666-aad8-3f90d24404c4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

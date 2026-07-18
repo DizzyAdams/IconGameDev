@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nocturnal 16x Pack v3",
+    "description": "A nocturnal 16x texture pack variant 3. Procedurally generated with unique noise profile.",
+    "uuid": "eb9a6d68-c64f-4170-a935-7ff2110774a6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "651c960a-214d-47ad-82df-84ea4bc2b04c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

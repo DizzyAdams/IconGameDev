@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime World Mashup 0022",
+    "description": "Anime World Mashup 0022",
+    "uuid": "12a88f18-305c-4b38-b38b-b9516b6e01f2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "d65b435d-3537-4d74-b87f-b5ca10ec52b8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "DragonLords_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DragonLords_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DragonLords_12.png",
+      "type": "free"
+    }
+  ]
+}

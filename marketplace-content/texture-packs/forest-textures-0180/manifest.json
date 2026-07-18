@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Forest Textures 0180",
+    "description": "Forest Textures 0180",
+    "uuid": "2ac330f9-13aa-4a4b-9d37-85865866f666",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0297e098-a37d-4637-8388-8d82a989c31e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

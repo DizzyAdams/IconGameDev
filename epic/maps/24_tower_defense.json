@@ -1,0 +1,45 @@
+{
+  "template": "tower-defense",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Tower Defense — Defesa da Torre",
+  "description": "2-4 jogadores constroem torres e armadilhas para defender o cristal central. 30 ondas de inimigos. Melhore suas torres entre as ondas.",
+  "tags": ["tower-defense", "pve", "coop", "strategy", "building"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_tower_defense",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 4,
+    "min_players": 1,
+    "game_mode": "tower_defense",
+    "team_size": [4],
+    "allow_respawn": true,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "elimination_mode": "crystal_destroyed",
+    "starting_health": 100,
+    "starting_shield": 0
+  },
+  "wave_settings": {
+    "total": 30,
+    "path_count": 3
+  },
+  "tower_defense": {
+    "crystal_health": 3000,
+    "tower_types": ["auto_turret", "sniper_tower", "flame_tower", "freeze_tower", "shock_tower"],
+    "starting_gold": 500,
+    "gold_per_kill": 15,
+    "gold_per_wave": 100
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Tower Defense"]}
+  ]
+}

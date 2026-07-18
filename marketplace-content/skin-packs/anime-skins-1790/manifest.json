@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1790",
+    "description": "Anime Skins 1790",
+    "uuid": "86362b2c-e9ca-49ee-a1d4-ebb36c90190e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "02daa98c-a9b4-4b7f-90b9-2c43594436e7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

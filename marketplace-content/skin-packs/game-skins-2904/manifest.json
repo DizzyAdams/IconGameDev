@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2904",
+    "description": "Game Skins 2904",
+    "uuid": "d8a3fb70-f03a-411a-865f-d408d3a2b0ca",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7b12204c-f079-4475-99f2-e08cd790fdf2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

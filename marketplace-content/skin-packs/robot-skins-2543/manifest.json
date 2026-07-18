@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 2543",
+    "description": "Robot Skins 2543",
+    "uuid": "40186a59-2d12-433f-994a-265d0fb9fef4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3184585a-54c7-4b38-b86f-6838fbfe3e14",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

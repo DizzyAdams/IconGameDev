@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2790",
+    "description": "Winter Skins 2790",
+    "uuid": "eb41e1a3-0d75-42c9-94e8-552fdc51607c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ce2093a7-86db-41cb-bfe6-5a084b463d99",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

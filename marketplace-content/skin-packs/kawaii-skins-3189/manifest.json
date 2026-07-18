@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 3189",
+    "description": "Kawaii Skins 3189",
+    "uuid": "da80a793-3dd4-4224-8a40-b30361b884d8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "da6c8760-e3d7-4e4d-b132-54c3c29af161",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2604",
+    "description": "Anime Skins 2604",
+    "uuid": "55d21d8e-d7a8-45b6-8cf5-06f976209dfa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fd45d9f8-85fb-4a15-85d7-47e76df16cf9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

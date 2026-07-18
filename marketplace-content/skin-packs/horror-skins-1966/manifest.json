@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1966",
+    "description": "Horror Skins 1966",
+    "uuid": "d1c8c3d3-89ba-49d7-96ae-eee27f29a7cb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cd48ad68-5449-46db-a821-68f288c18670",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

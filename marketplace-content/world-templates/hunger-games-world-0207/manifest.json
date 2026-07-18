@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hunger Games World 0207",
+    "description": "Hunger Games World 0207",
+    "uuid": "b28e15ee-3aae-41fa-8317-d9470cad6edf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "9222a956-4f96-4fe7-aa86-051d282edcfc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

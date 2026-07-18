@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Demonic Legion",
+    "description": "12 demonic skins with horned helmets, fire auras, and infernal armor.",
+    "uuid": "3f72734a-05aa-d00e-3c67-91f51b7c7867",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "239f72bb-86f1-1c5b-d72f-cf723720f9cd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 7.99,
+    "price_mc": 1210,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

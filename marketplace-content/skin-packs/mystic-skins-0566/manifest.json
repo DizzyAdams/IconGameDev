@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mystic Skins 0566",
+    "description": "Mystic Skins 0566",
+    "uuid": "ac6222d7-6f65-48d2-82f0-b287eaeae394",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "04483c44-d3b1-4e69-9d67-53e6d043be36",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 1916",
+    "description": "Nature Skins 1916",
+    "uuid": "c2d9b86a-fd8b-4ba7-8672-8884efa92bc5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9c18ab8d-6c20-4e46-bd33-e27fb6ce99d3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

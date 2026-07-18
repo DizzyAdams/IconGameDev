@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 1977",
+    "description": "Beach Skins 1977",
+    "uuid": "8d238d1b-9fc8-4400-a6ae-dda8718414fb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8dc21554-d1c4-4a50-9a29-961d845bc920",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

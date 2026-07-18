@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "DwarvenMiners_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DwarvenMiners_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DwarvenMiners_12.png",
+      "type": "free"
+    }
+  ]
+}

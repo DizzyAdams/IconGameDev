@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Angelic Host",
+    "description": "12 angelic skins with feathered wings, golden armor, and holy light halos.",
+    "uuid": "6d31b7e6-635c-3eab-c606-c8ab84451785",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "616bb2d8-0b2e-87e2-247b-932e70235551",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 7.99,
+    "price_mc": 1210,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Prison World 0091",
+    "description": "Prison World 0091",
+    "uuid": "f54745a3-1b67-4d38-9281-60f6ad75194c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "197220c8-ea42-4627-b6ce-0af14589578d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2861",
+    "description": "Game Skins 2861",
+    "uuid": "d566d8ae-827f-4a9e-a5fb-25f3699827a3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "26a7e9ef-e6b2-42ea-8b6a-69e017af04cd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

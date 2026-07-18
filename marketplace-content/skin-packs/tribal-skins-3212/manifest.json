@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 3212",
+    "description": "Tribal Skins 3212",
+    "uuid": "f2f9b4e3-9db8-46b5-b01b-22a76d200119",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0583cb5a-8efc-480b-8ab0-7e4f33cfd647",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 1828",
+    "description": "Modern Skins 1828",
+    "uuid": "36018321-2979-481b-9092-d4f9e9eb933b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "dfa54cc6-c063-4c26-aa6b-4ce453dc170a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

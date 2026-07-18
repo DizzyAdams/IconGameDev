@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2771",
+    "description": "Ninja Skins 2771",
+    "uuid": "629bb568-4431-474d-8527-0a51df5a3444",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e00934e3-0c91-4e01-83eb-b0835fd36e1e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

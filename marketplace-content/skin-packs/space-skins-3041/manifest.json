@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 3041",
+    "description": "Space Skins 3041",
+    "uuid": "8cf713ed-f298-42de-830c-20af06267d7f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2e9ee01d-6fcd-495c-8f4d-f82d74e69d5c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

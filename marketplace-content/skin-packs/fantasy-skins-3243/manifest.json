@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 3243",
+    "description": "Fantasy Skins 3243",
+    "uuid": "d0735413-f51e-42c8-81e0-93825cfd8c22",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2978b610-4502-498d-a363-53804fd15bd9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

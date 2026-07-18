@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Viking Mashup 0138",
+    "description": "Viking Mashup 0138",
+    "uuid": "248e7a4c-b97b-4fb3-83ee-8a1e7193303f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "fe61c21d-aeb7-4a85-aa2c-7814eed630c6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

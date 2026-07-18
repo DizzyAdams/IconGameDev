@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 2841",
+    "description": "Music Skins 2841",
+    "uuid": "dcda6268-29be-4e06-92f7-80f2a40bbe0a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "45878d0a-46cd-4cc3-9479-214ee64cb554",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

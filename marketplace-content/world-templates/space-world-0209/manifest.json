@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space World 0209",
+    "description": "Space World 0209",
+    "uuid": "7d3ef5f0-9956-464f-a027-385f77b382f6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "a58b5191-8a25-42f6-98d9-bca95b02e73f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

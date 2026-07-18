@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 3020",
+    "description": "Anime Skins 3020",
+    "uuid": "5e37b80b-45b5-4040-a85b-d763223ae005",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9738d3ee-6ca4-4801-a0a5-fa9c0dc8b38b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

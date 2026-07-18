@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1872",
+    "description": "Ninja Skins 1872",
+    "uuid": "4032eccf-7ece-4401-a0cd-f7b6c04f8386",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3d760b44-4968-43f3-bfa7-0193e56b8d01",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

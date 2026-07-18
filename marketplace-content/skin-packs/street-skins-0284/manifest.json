@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Street Skins 0284",
+    "description": "Street Skins 0284",
+    "uuid": "45fe9c3f-3cb5-482d-8546-46b1fe31dec9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "86b3a6b1-4d28-454a-ace0-60293092a701",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

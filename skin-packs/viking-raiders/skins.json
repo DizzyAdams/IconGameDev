@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "VikingRaiders_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VikingRaiders_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VikingRaiders_12.png",
+      "type": "free"
+    }
+  ]
+}

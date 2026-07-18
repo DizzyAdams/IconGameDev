@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 0349",
+    "description": "Music Skins 0349",
+    "uuid": "f8d0fa20-0ca3-495b-92ee-7c6abbe20c2b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "741ee39a-05f4-4052-9c4d-7aa09b80a5a8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

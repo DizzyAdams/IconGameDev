@@ -1,0 +1,64 @@
+{
+  "template": "zone-wars",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Zone Wars — Combate em Storm Circle",
+  "description": "Mapa Zone Wars 2v2/4v4 com storm circle reduzido, respawn por round e loot pré-definido. Partidas rápidas de até 10 rounds.",
+  "tags": ["zone-wars", "pvp", "competitive", "2v2", "4v4", "fast"],
+
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_zone_wars",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "storm_phases": 1,
+    "storm_start_delay_sec": 10,
+    "storm_shrink_time_sec": 60
+  },
+
+  "game_settings": {
+    "max_players": 8,
+    "game_mode": "zone_wars",
+    "team_size": [2, 4],
+    "rounds_to_win": 7,
+    "round_time_sec": 180,
+    "allow_respawn": false,
+    "elimination_mode": "last_round_standing",
+    "starting_health": 100,
+    "starting_shield": 50,
+    "starting_materials": {"wood": 200, "stone": 100, "metal": 50},
+    "material_cap": {"wood": 999, "stone": 999, "metal": 999},
+    "harvest_rate_multiplier": 2.0,
+    "gravity": 1.0
+  },
+
+  "loot_pool": {
+    "round_loadouts": [
+      {"rounds": [1, 2], "loadout": {"weapons": ["rifle_assault_rare", "shotgun_tactical_uncommon"], "consumables": ["shield_potion", "medkit"]}},
+      {"rounds": [3, 4], "loadout": {"weapons": ["rifle_scoped_epic", "shotgun_heavy_rare"], "consumables": ["shield_potion_x2", "medkit", "fish"]}},
+      {"rounds": [5, 6], "loadout": {"weapons": ["rifle_scar_legendary", "shotgun_pump_epic", "sniper_bolt_rare"], "consumables": ["shield_potion_x2", "minis_x3", "medkit"]}},
+      {"rounds": [7, 8, 9, 10], "loadout": {"weapons": ["rifle_scar_legendary", "shotgun_pump_legendary", "sniper_heavy_epic", "smg_tactical_epic"], "consumables": ["shield_potion_x2", "minis_x3", "medkit", "campfire"]}}
+    ],
+    "floor_loot_density": 0.3,
+    "chest_spawn_rate": 0.5
+  },
+
+  "zone_layout": [
+    {"zone": 1, "radius_tiles": 16, "center_shift": {"x": 0, "z": 0}, "wait_sec": 30, "shrink_sec": 45},
+    {"zone": 2, "radius_tiles": 10, "center_shift": {"x": 0, "z": 0}, "wait_sec": 20, "shrink_sec": 35},
+    {"zone": 3, "radius_tiles": 5, "center_shift": {"x": 0, "z": 0}, "wait_sec": 15, "shrink_sec": 25},
+    {"zone": 4, "radius_tiles": 2, "center_shift": {"x": 0, "z": 0}, "wait_sec": 10, "shrink_sec": 15}
+  ],
+
+  "devices": [
+    {"type": "class_selector", "position": {"x": 0, "y": 100, "z": 0}, "enabled": true},
+    {"type": "round_manager", "settings": {"round_time_sec": 180, "rounds_to_win": 7}},
+    {"type": "item_spawner", "spawn_mode": "round_loadout", "round_based": true},
+    {"type": "team_settings", "team_count": 2, "team_size": 4, "fill_enabled": true},
+    {"type": "barrier", "bounding_box": {"x_min": -32, "x_max": 32, "z_min": -32, "z_max": 32}, "max_height": 50}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Zone Wars"]}
+  ]
+}

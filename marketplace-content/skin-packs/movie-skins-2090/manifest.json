@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 2090",
+    "description": "Movie Skins 2090",
+    "uuid": "b5fa3c9c-8371-4ad4-8df7-efccd670c6b6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "306804ea-3c7c-4ad7-ad74-02c29f93e987",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

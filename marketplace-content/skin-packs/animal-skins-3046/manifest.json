@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 3046",
+    "description": "Animal Skins 3046",
+    "uuid": "e21e7b98-e7e6-4905-94dd-a39ba63bb6e3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "09b34313-1759-433b-b114-d452e2ac34b8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

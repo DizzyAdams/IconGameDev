@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1848",
+    "description": "Winter Skins 1848",
+    "uuid": "76f44398-c09e-4a50-9ce3-0f2c94d6be0f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "63775edb-8970-4452-857e-ff885c20b748",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

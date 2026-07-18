@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 3168",
+    "description": "Fantasy Skins 3168",
+    "uuid": "883a302e-26ed-4f7f-930a-bb348b51c0ea",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e654dc1c-7f36-4447-9649-9607be3eb0f3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

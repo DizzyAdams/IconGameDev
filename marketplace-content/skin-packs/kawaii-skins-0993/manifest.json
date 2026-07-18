@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 0993",
+    "description": "Kawaii Skins 0993",
+    "uuid": "6c61da5a-fd9c-4c15-9c22-0fb9b3caf57e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "24abecbf-361e-4bd9-b7f8-93a69b830be4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

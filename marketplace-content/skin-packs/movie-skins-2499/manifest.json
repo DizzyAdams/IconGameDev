@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 2499",
+    "description": "Movie Skins 2499",
+    "uuid": "064b78d3-fa40-48cb-a32e-9e57e6e5f590",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4c2fc6c9-fd83-451b-b471-9d2e56a8a66a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

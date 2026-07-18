@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1401",
+    "description": "Kawaii Skins 1401",
+    "uuid": "1eddf465-2794-461f-9093-8f6eb4685920",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9ae3a619-2901-4516-af89-baddb506c42f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

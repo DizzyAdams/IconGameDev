@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 0808",
+    "description": "Steampunk Skins 0808",
+    "uuid": "fb006bf2-b59d-4d3c-bfd4-9cf2980a932a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4539e7f0-ea22-4c4e-b887-2857ce053849",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

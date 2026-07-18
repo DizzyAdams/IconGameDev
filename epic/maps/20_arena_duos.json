@@ -1,0 +1,49 @@
+{
+  "template": "arena-duos",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Arena Duos — Parceria Letal",
+  "description": "6 duplas em batalha. 20 eliminações para vencer. Storm circle rápido. Loot equilibrado. Ideal para treino de duplas competitivo.",
+  "tags": ["arena-duos", "pvp", "competitive", "duos", "2v2v2"],
+  "island": {
+    "type": "flat_grid_128x128",
+    "template_id": "island_arena_duos",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": true,
+    "storm_phases": 6,
+    "storm_wait_time_sec": 60,
+    "storm_shrink_time_sec": 90
+  },
+  "game_settings": {
+    "max_players": 12,
+    "min_players": 2,
+    "game_mode": "battle_royale",
+    "team_size": [2],
+    "allow_respawn": false,
+    "down_but_not_out": true,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "score_target",
+    "elimination_target": 20,
+    "starting_health": 100,
+    "starting_shield": 0,
+    "max_shield": 100
+  },
+  "pois": [
+    {"id": "poi_01", "name": "Pleasant Plaza", "type": "urban", "size_tier": "large", "chests": 18},
+    {"id": "poi_02", "name": "Cracked Canyon", "type": "desert", "size_tier": "medium", "chests": 12},
+    {"id": "poi_03", "name": "Frosty Fjord", "type": "snow", "size_tier": "large", "chests": 16},
+    {"id": "poi_04", "name": "Lazy Lagoon", "type": "water", "size_tier": "small", "chests": 8},
+    {"id": "poi_05", "name": "Steamy Springs", "type": "forest", "size_tier": "medium", "chests": 14},
+    {"id": "poi_06", "name": "Dusty Depot", "type": "industrial", "size_tier": "medium", "chests": 12}
+  ],
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "item_spawner", "positions": "auto-distributed", "count": 100},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Arena Duos"]}
+  ]
+}

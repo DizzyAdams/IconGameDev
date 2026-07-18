@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 2850",
+    "description": "Cute Skins 2850",
+    "uuid": "f65950f5-0234-4b82-aba3-52424bbe43dc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d2ce08be-12d1-426e-82ca-664d19b5a800",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

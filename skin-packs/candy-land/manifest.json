@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Candy Land",
+    "description": "12 sweet candy-themed skins with frosting armor, licorice whips, and gumdrop details.",
+    "uuid": "8ce0fe65-7383-b2ef-acec-5c3feb4e114f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "120469f4-5bd3-f8a7-aa20-b950b049555b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 4.99,
+    "price_mc": 760,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

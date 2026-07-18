@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 1965",
+    "description": "Cyber Skins 1965",
+    "uuid": "9b99acb1-4768-4c97-8928-e74b95ba955a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2af54268-2a74-46ec-b770-671459d727cf",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

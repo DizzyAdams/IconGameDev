@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 3238",
+    "description": "Music Skins 3238",
+    "uuid": "a1c84a63-f9d4-429d-8ac6-1deaf9292209",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ba20f424-ab32-4d89-97cc-bc4f001ab15b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

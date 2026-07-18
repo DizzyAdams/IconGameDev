@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sky Textures 0154",
+    "description": "Sky Textures 0154",
+    "uuid": "c86be8dc-4fc5-4493-aaa9-798960983a1e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "02ab1aaf-9a51-4a74-af8c-0cb5d435b9cf",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

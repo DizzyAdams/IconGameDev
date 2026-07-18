@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant 64x Pack v6",
+    "description": "A vibrant 64x texture pack variant 6. Procedurally generated with unique noise profile.",
+    "uuid": "3938eda9-2615-40c5-915b-3d2b764b619e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "64b903e2-5bd4-4a1c-8cc7-ad0d8f512103",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

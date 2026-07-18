@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2646",
+    "description": "Anime Skins 2646",
+    "uuid": "bbfcb93c-1c06-43ba-a273-a5c43c240b79",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bbfbf17d-144b-4baf-9163-5d491c2e06fe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

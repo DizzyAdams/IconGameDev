@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1936",
+    "description": "Anime Skins 1936",
+    "uuid": "fad587ff-8d6b-46e1-83c9-7305f164fe39",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b93246c7-ebb9-488b-a7bd-1b55c39ef72a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

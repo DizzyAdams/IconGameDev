@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2148",
+    "description": "Fantasy Skins 2148",
+    "uuid": "a9ef0daf-cf27-4fd0-8d38-936841dd9f2f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d25f767e-d8c3-4a31-8e7f-346d5f5ce431",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 1993",
+    "description": "Beach Skins 1993",
+    "uuid": "6cad9a8e-7018-4a24-905c-c535a5f42750",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "29cbdbe9-577e-4021-a9bd-dbec2ad867cb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

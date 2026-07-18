@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 1554",
+    "description": "Retro Skins 1554",
+    "uuid": "822dd185-0365-4dad-ad88-72d61463a148",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0243eb60-01d9-4fa2-9533-630bc18bd977",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

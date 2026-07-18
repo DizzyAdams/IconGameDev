@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Street Skins 1963",
+    "description": "Street Skins 1963",
+    "uuid": "346d026f-f7d1-4dd5-bff6-016fdb7a370c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6b8a8b97-956f-4490-a22a-0a9d19d29436",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

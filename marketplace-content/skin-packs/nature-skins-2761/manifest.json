@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 2761",
+    "description": "Nature Skins 2761",
+    "uuid": "20823310-3304-4a4a-ba19-764e178a36e8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "446251d2-d054-42fd-8be2-041f42d10105",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

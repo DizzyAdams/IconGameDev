@@ -1,0 +1,67 @@
+{
+  "template": "box-fight",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Box Fight 1v1 — Arena Fechada para Build Fights",
+  "description": "Mapa 1v1 em arena fechada com boxes individuais e centro aberto. Foco em edits, builds e mecânica. 5 rounds de 90 segundos cada.",
+  "tags": ["box-fight", "1v1", "pvp", "build-fight", "arena", "training"],
+
+  "island": {
+    "type": "flat_grid_32x32",
+    "template_id": "island_box_fight",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+
+  "game_settings": {
+    "max_players": 2,
+    "game_mode": "box_fight",
+    "team_size": [1],
+    "rounds_to_win": 5,
+    "round_time_sec": 90,
+    "allow_respawn": false,
+    "elimination_mode": "round_elimination",
+    "starting_health": 100,
+    "starting_shield": 100,
+    "starting_materials": {"wood": 500, "stone": 300, "metal": 200},
+    "material_cap": {"wood": 999, "stone": 999, "metal": 999},
+    "harvest_rate_multiplier": 3.0,
+    "gravity": 1.0,
+    "fall_damage": true,
+    "friendly_fire": true
+  },
+
+  "arena_layout": {
+    "style": "symmetrical_boxes",
+    "boxes_per_player": 3,
+    "center_gap_tiles": 4,
+    "wall_material": "metal",
+    "floor_type": "grid",
+    "box_size_tiles": {"width": 4, "depth": 4, "height": 3},
+    "elevation_platform_y": 0
+  },
+
+  "loot_pool": {
+    "loadout": {
+      "weapons": ["rifle_scar_rare", "shotgun_pump_rare", "smg_tactical_rare"],
+      "consumables": ["shield_potion", "minis_x2", "medkit"],
+      "trap": ["spike_trap", "launch_pad"]
+    },
+    "floor_loot_density": 0.0,
+    "chest_spawn_rate": 0
+  },
+
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "round_manager", "settings": {"round_time_sec": 90, "rounds_to_win": 5}},
+    {"type": "item_granter", "grant_on_round_start": true, "loadout_key": "box_fight_1v1"},
+    {"type": "barrier", "bounding_box": {"x_min": -16, "x_max": 16, "z_min": -16, "z_max": 16}, "max_height": 30},
+    {"type": "respawn_cooldown", "cooldown_sec": 0, "enabled": false},
+    {"type": "elimination_scoreboard", "visible": true}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Box Fight"]}
+  ]
+}

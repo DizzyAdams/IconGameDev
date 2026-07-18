@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 2313",
+    "description": "Horror Skins 2313",
+    "uuid": "79a12d8d-5903-4bd6-b255-569e8f03810e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7588ce8d-a2ab-43c6-b2be-ef139a08a261",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

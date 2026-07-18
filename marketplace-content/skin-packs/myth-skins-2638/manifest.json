@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 2638",
+    "description": "Myth Skins 2638",
+    "uuid": "4ffc509c-0c1d-4d52-9069-14b0e42f105c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "70a91144-ea58-41e5-ba7a-f7a85f8dc6c6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

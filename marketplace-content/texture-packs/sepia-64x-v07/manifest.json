@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sepia 64x Pack v8",
+    "description": "A sepia 64x texture pack variant 8. Procedurally generated with unique noise profile.",
+    "uuid": "e987da92-d849-4c4f-aacc-4ebef75da9fe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "1c08efe5-7f06-4f7d-b423-dbb5f3ef1a15",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

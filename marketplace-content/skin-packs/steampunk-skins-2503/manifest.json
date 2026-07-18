@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2503",
+    "description": "Steampunk Skins 2503",
+    "uuid": "f0aa74bf-2c81-43fe-8688-47e188c1fb82",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a7f6ee22-bd8c-4107-ac70-075e4af9a0a8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 3070",
+    "description": "Medieval Skins 3070",
+    "uuid": "7168532e-31dc-4040-9f43-fb78bc6fe343",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "26858cb8-0b33-413a-8043-08c09776ee7e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2015",
+    "description": "Game Skins 2015",
+    "uuid": "8df6ae65-6dec-49bc-823e-686b4972cd23",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ba3a8e4b-84e3-40eb-8060-f9ce50e6cb43",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

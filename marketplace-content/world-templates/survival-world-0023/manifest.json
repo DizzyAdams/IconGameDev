@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Survival World 0023",
+    "description": "Survival World 0023",
+    "uuid": "ad31eb6b-7f05-4a1c-9c7b-ba6b81e84e09",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "8a1b04f6-c88a-462a-8262-c9a17264a782",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

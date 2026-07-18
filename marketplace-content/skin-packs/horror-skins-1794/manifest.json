@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1794",
+    "description": "Horror Skins 1794",
+    "uuid": "027e2c56-f107-475e-a0c8-7e815a156153",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d45a61a5-6307-4e82-9f4a-9dae7b63bb1f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

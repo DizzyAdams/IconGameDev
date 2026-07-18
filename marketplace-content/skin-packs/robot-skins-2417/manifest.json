@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 2417",
+    "description": "Robot Skins 2417",
+    "uuid": "bb3defc1-7315-40c9-9c9f-fa6f7c0e6a70",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cf8ee0f5-dba5-4f55-9aa6-83d9d9ace6e1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

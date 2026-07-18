@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2985",
+    "description": "Ninja Skins 2985",
+    "uuid": "a74dae51-1780-4f8c-8b9c-114a371f5aa7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cb52a10b-52f3-4c87-8f91-0c072628b661",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "ZombieHorde_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZombieHorde_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZombieHorde_12.png",
+      "type": "free"
+    }
+  ]
+}

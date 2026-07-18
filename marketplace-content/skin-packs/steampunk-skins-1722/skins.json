@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Steampunk1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steampunk8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steampunk8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Steampunk Skins 1722",
+  "localization_name": "Steampunk Skins 1722"
+}

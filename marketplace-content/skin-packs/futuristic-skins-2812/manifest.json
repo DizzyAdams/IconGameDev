@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 2812",
+    "description": "Futuristic Skins 2812",
+    "uuid": "40ea2b17-0ee4-4124-b4b3-0c2dd0b5600d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5ad3f828-9ffc-4e74-8595-fd6351cd175c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

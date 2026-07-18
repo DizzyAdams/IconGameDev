@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 2251",
+    "description": "Music Skins 2251",
+    "uuid": "977111b2-76d5-48f9-83e7-4b4141c52dbc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2f557c9e-7ed2-4468-9b44-808603a9584d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

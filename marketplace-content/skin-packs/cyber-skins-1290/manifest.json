@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 1290",
+    "description": "Cyber Skins 1290",
+    "uuid": "6c8d3253-d29f-47a7-a3ef-4450e1ea3d56",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "902697bd-358a-4c50-9f6c-8b8581923056",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

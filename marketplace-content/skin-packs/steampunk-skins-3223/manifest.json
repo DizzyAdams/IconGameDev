@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3223",
+    "description": "Steampunk Skins 3223",
+    "uuid": "90eccd7a-dc1a-4f60-b417-9cc6b63e45c8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "eedf0785-3f25-4419-aae0-5102a65c242a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

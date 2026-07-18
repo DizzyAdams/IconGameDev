@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2045",
+    "description": "Winter Skins 2045",
+    "uuid": "20a62dbb-9720-48ca-998b-2ec926d234a7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "80d3922e-abda-4dad-a23f-4eefb70918a4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

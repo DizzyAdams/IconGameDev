@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 3281",
+    "description": "Ninja Skins 3281",
+    "uuid": "884084cf-da45-4cbf-b6e6-6651a25d3cfb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d5c1e12e-289a-4afd-bd6d-3a723f20d222",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

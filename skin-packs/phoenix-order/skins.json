@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "PhoenixOrder_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PhoenixOrder_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PhoenixOrder_12.png",
+      "type": "free"
+    }
+  ]
+}

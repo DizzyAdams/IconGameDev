@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Soft 16x Pack v9",
+    "description": "A soft 16x texture pack variant 9. Procedurally generated with unique noise profile.",
+    "uuid": "b1a5e362-7fca-4e5a-b87f-00ebfb1db423",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a17658d0-a0f8-42eb-be9c-28b2a85846ff",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

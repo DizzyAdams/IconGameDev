@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3010",
+    "description": "Steampunk Skins 3010",
+    "uuid": "979c5bef-8226-4ac8-b4b9-d258da7a4c3f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "15a47803-b7bd-4078-add4-68a7b720d861",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

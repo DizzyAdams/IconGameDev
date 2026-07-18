@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1945",
+    "description": "Winter Skins 1945",
+    "uuid": "ba2f3ada-cb8c-43ff-b099-967ec589728d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "552eea37-6789-4ba2-abf9-c3859fa3d792",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

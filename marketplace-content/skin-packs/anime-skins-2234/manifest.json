@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2234",
+    "description": "Anime Skins 2234",
+    "uuid": "8251a556-e11f-4248-8c73-9f6b657ac239",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "81035685-f614-4161-9d93-65d4c3711de4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

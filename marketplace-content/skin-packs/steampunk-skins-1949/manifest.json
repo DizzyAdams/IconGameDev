@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1949",
+    "description": "Steampunk Skins 1949",
+    "uuid": "b24ef9e4-fc1d-4fb9-ac84-4fc735698c83",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1a7acee0-6aaf-47de-995d-ac6ea8f2817c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

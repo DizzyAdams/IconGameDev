@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Movie1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Movie8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Movie8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Movie Skins 0645",
+  "localization_name": "Movie Skins 0645"
+}

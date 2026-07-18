@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2821",
+    "description": "Steampunk Skins 2821",
+    "uuid": "2dfde991-262a-4df4-a3fa-6ea0990e1dd7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0d4c3913-d653-4498-a4e8-959ba2d321a0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Scifi1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scifi8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scifi8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Scifi Skins 0103",
+  "localization_name": "Scifi Skins 0103"
+}

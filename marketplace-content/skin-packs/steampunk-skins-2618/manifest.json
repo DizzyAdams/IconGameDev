@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2618",
+    "description": "Steampunk Skins 2618",
+    "uuid": "71ebea4a-b8e3-48b7-bc86-2ae69ffc6bb1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3a50c2e0-49fd-4e82-a75f-ffe5d8687bcb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

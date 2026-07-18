@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "SamuraiWarriors_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiWarriors_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiWarriors_12.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 1307",
+    "description": "Superhero Skins 1307",
+    "uuid": "ede30564-88f6-45e8-82cb-af9222e1cb2a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "43e2e18f-38d0-4060-92ee-7fd6e3296fc8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

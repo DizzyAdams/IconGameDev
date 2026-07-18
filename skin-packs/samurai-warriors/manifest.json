@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Samurai Warriors",
+    "description": "12 samurai warrior skins with kabuto helmets, katana blades, and ornate armor.",
+    "uuid": "6ac45c5f-89d4-6718-7fff-eadf4254b83d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "82a07eba-a4e7-3109-6f04-87678c9e0a48",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 6.99,
+    "price_mc": 1060,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

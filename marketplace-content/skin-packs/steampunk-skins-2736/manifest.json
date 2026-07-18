@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2736",
+    "description": "Steampunk Skins 2736",
+    "uuid": "2c2d3bd7-9235-4ffb-80cf-70c6e3fb8bd3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f6ebf4fb-167c-4397-9b34-2ba740c35681",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

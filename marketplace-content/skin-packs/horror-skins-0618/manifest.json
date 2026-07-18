@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 0618",
+    "description": "Horror Skins 0618",
+    "uuid": "887ee82a-3e4e-4464-8604-c90ab11e1452",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c6ab5a54-89fb-4be9-b865-f7ac3a3f834d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

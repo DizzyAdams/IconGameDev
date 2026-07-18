@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Mashup 0136",
+    "description": "Steampunk Mashup 0136",
+    "uuid": "9cd558e6-a874-4036-a80f-1b885f79b426",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "bdc57517-7110-4c12-ba8c-b64a6fb73bbc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

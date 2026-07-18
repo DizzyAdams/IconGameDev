@@ -13,6 +13,15 @@ This folder is the **Roblox** half of the unified $20k/month monetization platfo
 - `catalog/roblox_catalog.json` - 100 items (30 shirts / 20 pants / 30 accessories / 20 passes)
 - `catalog/DEVEX_REPORT.md` - DevEx math to US$2,000/mo
 - `tools/roblox_checks.py` - compliance validator (IP / NSFW / price / DevEx math)
+- `experiences/themes.json` - 5 server-experience themes (no third-party IP)
+- `tools/make_experience.py` - CLI `--name X --theme Y`: clones `experiences/IconHub/` into a themed kit (idempotent, stdlib only)
+
+## Experiences (server kits)
+- `experiences/NeonRacing` - neon circuit racing kit (Neon item prefix)
+- `experiences/PetSanctuary` - virtual-pet sanctuary kit (Cozy prefix)
+- `experiences/ObbyKingdom` - medieval obstacle-course kit (Royal prefix)
+- `experiences/TycoonEmpire` - factory tycoon kit (Empire prefix)
+- `experiences/SkyWarsArena` - floating-island PvP kit (Skyborne prefix)
 
 ## Run the gates
 ```

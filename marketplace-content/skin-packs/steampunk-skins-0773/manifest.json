@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 0773",
+    "description": "Steampunk Skins 0773",
+    "uuid": "db3d685d-6790-462e-a29e-efc5eedc6016",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d71e4822-dce9-4de3-a027-a3b59b956dfc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

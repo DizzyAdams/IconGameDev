@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2427",
+    "description": "Scifi Skins 2427",
+    "uuid": "602d1f06-46da-4cc6-b522-750316196f23",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b8478858-4b10-4d6a-9f29-4e6cfd86500f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

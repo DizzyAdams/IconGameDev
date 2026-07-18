@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 0524",
+    "description": "Cyber Skins 0524",
+    "uuid": "97d628a0-a12d-4ef9-9dfe-ad086cba6d3e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e30c759d-cfcd-4816-b8d9-c5c64586efb9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

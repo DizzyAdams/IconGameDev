@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Spirit Energy Warriors\",\n    \"description\": \"8 spirit energy warrior skins at max power level! (adapted from: 8 Dragon Ball skins! Goku, Vegeta, Gohan, Piccolo, Frieza, Cell, MajinBuu, Trunks.)\",\n    \"uuid\": \"f224132f1-d56f-fcfa-6f55-0051afcafa28\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f9cd3598a-e451-e0b3-5345-001413725d8c\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "dragon-ball",
+  "old_name": "Spirit Energy Warriors"
+}

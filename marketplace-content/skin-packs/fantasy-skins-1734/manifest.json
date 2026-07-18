@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 1734",
+    "description": "Fantasy Skins 1734",
+    "uuid": "cdd072f7-ef34-45c9-956b-7073bbf5fdd0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8174464b-c8d5-4e6d-a639-294882d632e0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

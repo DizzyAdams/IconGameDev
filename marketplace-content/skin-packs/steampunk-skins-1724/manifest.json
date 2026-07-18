@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1724",
+    "description": "Steampunk Skins 1724",
+    "uuid": "7b57b41a-ea79-4c17-a3d3-cba50898e2d8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "35e3b370-995c-48bc-a261-e9810e402d98",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

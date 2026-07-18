@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 3130",
+    "description": "Fantasy Skins 3130",
+    "uuid": "848a3d6f-eb09-49f9-ad36-f6a65e29dd3d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "64c19981-2b47-4aee-8290-f1b3d6396959",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Monochrome 32x Pack v12",
+    "description": "A monochrome 32x texture pack variant 12. Procedurally generated with unique noise profile.",
+    "uuid": "52f838dc-10bb-4fe1-a0a7-5dc1336dab15",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "af11f886-97ef-405d-b64d-45b03aca61b8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

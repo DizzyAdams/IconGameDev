@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Curse Spirit Warriors\",\n    \"description\": \"8 cursed spirit warrior skins! Inspired by anime battle aesthetics. (adapted from: 8 Jujutsu Kaisen inspired skins! Gojo, Yuji, Megumi, Nobara, Sukuna, Geto, Maki, Toge.)\",\n    \"uuid\": \"be281aa39-2032-5fd5-7cb3-00b0763633cd\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"b7e06ea86-3ff3-a635-fac8-0066290407b3\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "jujutsu-kaisen",
+  "old_name": "Curse Spirit Warriors"
+}

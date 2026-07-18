@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1619",
+    "description": "Anime Skins 1619",
+    "uuid": "949599d5-9dff-4ef2-99b2-2f6b3faa61b0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4687e9e7-589c-4ed4-bd0d-9b34fb825834",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

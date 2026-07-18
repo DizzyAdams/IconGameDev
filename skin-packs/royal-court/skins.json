@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "RoyalCourt_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "RoyalCourt_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "RoyalCourt_12.png",
+      "type": "free"
+    }
+  ]
+}

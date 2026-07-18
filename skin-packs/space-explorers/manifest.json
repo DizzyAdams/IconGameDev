@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Explorers",
+    "description": "12 futuristic space suits with jetpacks, helmets, and galaxy visors.",
+    "uuid": "e7345a21-be4a-5b53-dcf0-892061f34909",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8989f1c0-d4bd-1c60-3af1-5e4d782f1ea3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 7.99,
+    "price_mc": 1210,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

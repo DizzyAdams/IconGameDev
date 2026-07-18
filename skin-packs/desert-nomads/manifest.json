@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Desert Nomads",
+    "description": "12 desert wanderer skins with turbans, sand cloaks, and scimitars.",
+    "uuid": "4ede8bc1-b720-6d0b-ff59-7811370acd6f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5be51a74-39c1-a67c-d2ad-b25aecfcc117",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 5.99,
+    "price_mc": 910,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

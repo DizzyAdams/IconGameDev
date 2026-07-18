@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant 32x Pack v6",
+    "description": "A vibrant 32x texture pack variant 6. Procedurally generated with unique noise profile.",
+    "uuid": "6b9357da-41ea-431f-8285-d66dd02fb077",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7fb44450-3ea4-43db-871f-ed7cfe9093f3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

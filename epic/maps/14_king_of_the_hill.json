@@ -1,0 +1,48 @@
+{
+  "template": "king-of-the-hill",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "King of the Hill — Dominação Central",
+  "description": "8v8. Controle o ponto central por tempo acumulado. Zona de tempestade fecha ao redor do ponto. Primeiro time com 100 pontos vence.",
+  "tags": ["king-of-the-hill", "pvp", "competitive", "domination", "8v8"],
+  "island": {
+    "type": "flat_grid_128x128",
+    "template_id": "island_king_of_the_hill",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": true,
+    "storm_phases": 4,
+    "storm_wait_time_sec": 60,
+    "storm_shrink_time_sec": 90
+  },
+  "game_settings": {
+    "max_players": 16,
+    "min_players": 2,
+    "game_mode": "king_of_the_hill",
+    "team_size": [8],
+    "allow_respawn": true,
+    "respawn_delay_sec": 8,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "score_target",
+    "elimination_target": 100,
+    "starting_health": 100,
+    "starting_shield": 50,
+    "max_shield": 100
+  },
+  "hill_settings": {
+    "hill_capture_time_sec": 15,
+    "hill_points_per_sec": 2,
+    "hill_locations": 3,
+    "hill_rotation_interval_sec": 90
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 8},
+    {"type": "item_spawner", "positions": "auto-distributed", "count": 80},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial King of the Hill"]}
+  ]
+}

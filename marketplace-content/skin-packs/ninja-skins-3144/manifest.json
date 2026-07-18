@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 3144",
+    "description": "Ninja Skins 3144",
+    "uuid": "b7336170-32d4-4507-9abf-123da3eb6679",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "dd9212da-6a2f-4dd7-ab4b-6e63aedadfa8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

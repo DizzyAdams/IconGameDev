@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 3025",
+    "description": "Cyber Skins 3025",
+    "uuid": "59f27acc-eb09-4f0e-a83f-a198e3a776ab",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "841696c7-718d-495e-b76c-5bf57bd4a24b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

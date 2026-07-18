@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Werewolf Pack",
+    "description": "12 werewolf skins with fur, claws, glowing eyes, and lunar amulets.",
+    "uuid": "b8ec40ac-2b65-4409-96be-f459a3e7b1fc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6466030a-7cbc-7df5-5ab7-ce00019d667b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 7.99,
+    "price_mc": 1210,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

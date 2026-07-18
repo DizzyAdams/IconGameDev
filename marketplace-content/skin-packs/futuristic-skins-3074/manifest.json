@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 3074",
+    "description": "Futuristic Skins 3074",
+    "uuid": "2c3a20f7-a327-4f0e-a18a-1549c8beb6e0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d87dc033-6b2a-4bf1-95ce-2e7c2cf43580",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

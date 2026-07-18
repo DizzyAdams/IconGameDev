@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "32X Textures 0191",
+    "description": "32X Textures 0191",
+    "uuid": "38f7c03f-857a-41f8-aa47-9767fad17c9b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8ac3219b-1694-4bd8-8f22-a689feb8c25c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

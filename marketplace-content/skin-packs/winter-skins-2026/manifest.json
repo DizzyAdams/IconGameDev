@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2026",
+    "description": "Winter Skins 2026",
+    "uuid": "a4452a72-b720-4907-93ea-8d9877695f7f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2e9ef76d-4502-47a5-b92c-e0374a5adfa7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

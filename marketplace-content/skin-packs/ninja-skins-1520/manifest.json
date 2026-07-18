@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1520",
+    "description": "Ninja Skins 1520",
+    "uuid": "13628159-bc31-46dc-a112-02aa15d8e4ad",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "26117843-9ea6-4323-931e-e468548b133f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

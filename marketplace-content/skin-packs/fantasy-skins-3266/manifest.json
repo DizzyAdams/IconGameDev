@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 3266",
+    "description": "Fantasy Skins 3266",
+    "uuid": "fd4371ad-6336-4c97-934b-c821b8f82a00",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "aec72c78-2493-4d1d-a15f-8f0379ca7ed1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

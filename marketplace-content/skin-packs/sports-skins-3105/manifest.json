@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 3105",
+    "description": "Sports Skins 3105",
+    "uuid": "5cd154d5-7b20-4694-842a-31e90654b8bf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1724e293-a457-4f0e-b208-dc1be00899df",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

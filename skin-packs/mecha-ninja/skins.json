@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "MechaNinja_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MechaNinja_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MechaNinja_12.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Cute Bow Friends\",\n    \"description\": \"8 cute bow friend skins with kawaii fashion style. (adapted from: 6 Sanrio-inspired skins! Hello Kitty, My Melody, Kuromi, Cinnamoroll, Pompompurin, Badtz-Maru.)\",\n    \"uuid\": \"f7b0c96a1-7e2c-7b20-3c23-002a95fe2343\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f7ba4e3a3-0b48-a591-2b3e-00749b5ed5a6\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "hello-kitty",
+  "old_name": "Cute Bow Friends"
+}

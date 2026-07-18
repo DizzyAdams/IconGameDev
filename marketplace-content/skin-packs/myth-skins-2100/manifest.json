@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 2100",
+    "description": "Myth Skins 2100",
+    "uuid": "257895fb-aecf-4769-a937-d0fff8edc65f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "74c54d21-cc77-45fd-aff6-137744c395de",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

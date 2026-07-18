@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2996",
+    "description": "Winter Skins 2996",
+    "uuid": "f5b862f7-825c-464b-917b-f3d0e5427ec4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ff83b10f-f3ae-444b-8f87-f8be62a3c4ce",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

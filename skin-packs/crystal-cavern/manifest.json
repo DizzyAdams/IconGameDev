@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Crystal Cavern",
+    "description": "12 crystal-themed skins with gemstone armor, crystalline weapons, and glowing facets.",
+    "uuid": "14dfb08f-1fac-2d4d-1f50-145d0c82832c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "71ebc416-e547-f116-8ce5-b355eee0b487",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 8.99,
+    "price_mc": 1360,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

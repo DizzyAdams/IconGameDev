@@ -1,0 +1,68 @@
+{
+  "template": "gun-game",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Gun Game — Progressão de Armas por Eliminação",
+  "description": "Cada eliminação troca a arma do jogador pela próxima na lista. 20 armas no total. Vence quem progredir por todas as armas primeiro. Suporta até 16 jogadores FFA.",
+  "tags": ["gun-game", "pvp", "ffa", "progression", "casual", "fast"],
+
+  "island": {
+    "type": "flat_grid_48x48",
+    "template_id": "island_gun_game",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+
+  "game_settings": {
+    "max_players": 16,
+    "game_mode": "gun_game",
+    "team_size": [1],
+    "weapons_to_cycle": 20,
+    "allow_respawn": true,
+    "respawn_delay_sec": 3,
+    "respawn_mode": "at_random_location",
+    "starting_health": 100,
+    "starting_shield": 100,
+    "gravity": 1.0,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "elimination_mode": "gun_progression_winner"
+  },
+
+  "weapon_progression": [
+    {"level": 1,  "weapon": "pistol", "icon": "🔫"},
+    {"level": 2,  "weapon": "pistol_suppressed", "icon": "🔫"},
+    {"level": 3,  "weapon": "smg", "icon": "🔧"},
+    {"level": 4,  "weapon": "shotgun_tactical", "icon": "💥"},
+    {"level": 5,  "weapon": "rifle_assault_burst", "icon": "🎯"},
+    {"level": 6,  "weapon": "smg_tactical", "icon": "🔧"},
+    {"level": 7,  "weapon": "rifle_sniper_bolt", "icon": "🔭"},
+    {"level": 8,  "weapon": "rifle_scoped", "icon": "🎯"},
+    {"level": 9,  "weapon": "shotgun_heavy", "icon": "💥"},
+    {"level": 10, "weapon": "rifle_scar", "icon": "⚡"},
+    {"level": 11, "weapon": "rpg", "icon": "🚀"},
+    {"level": 12, "weapon": "minigun", "icon": "🔥"},
+    {"level": 13, "weapon": "shotgun_pump", "icon": "💥"},
+    {"level": 14, "weapon": "sniper_heavy", "icon": "🔭"},
+    {"level": 15, "weapon": "rifle_infantry", "icon": "🎯"},
+    {"level": 16, "weapon": "smg_suppressed", "icon": "🔧"},
+    {"level": 17, "weapon": "rifle_burst_epic", "icon": "⚡"},
+    {"level": 18, "weapon": "pistol_revolver", "icon": "🔫"},
+    {"level": 19, "weapon": "shotgun_drum", "icon": "💥"},
+    {"level": 20, "weapon": "melee_harpoon", "icon": "🏆"}
+  ],
+
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "weapon_progression_manager", "weapon_list": "weapon_progression", "kill_to_advance": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 3, "respawn_mode": "at_random_location"},
+    {"type": "leaderboard", "sort_by": "gun_level", "display": "top_8"},
+    {"type": "hud_message", "on_level_up_message": "⬆️ LEVEL UP! Próxima arma: {weapon_name}"},
+    {"type": "barrier", "bounding_box": {"x_min": -24, "x_max": 24, "z_min": -24, "z_max": 24}, "max_height": 40}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Gun Game"]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 0267",
+    "description": "Game Skins 0267",
+    "uuid": "fece64b8-d163-4681-9ec3-e4d049dcadee",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "156d9368-f19a-4e8b-af99-377fbb1c22f6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

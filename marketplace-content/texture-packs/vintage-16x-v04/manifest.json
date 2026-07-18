@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vintage 16x Pack v5",
+    "description": "A vintage 16x texture pack variant 5. Procedurally generated with unique noise profile.",
+    "uuid": "ec3755bc-adfc-41cd-9011-6cf834be8383",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9163a1b0-dabc-4859-8278-d1a2541bc2d6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

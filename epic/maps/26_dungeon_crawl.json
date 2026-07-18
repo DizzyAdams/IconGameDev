@@ -1,0 +1,43 @@
+{
+  "template": "dungeon-crawl",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Dungeon Crawl — Masmorra Sombria",
+  "description": "1-3 jogadores exploram masmorras geradas proceduralmente. Salas com armadilhas, puzzles e monstros. Chefão no final. RPG elements com upgrade de armas.",
+  "tags": ["dungeon", "pve", "coop", "rpg", "exploration"],
+  "island": {
+    "type": "flat_grid_128x128",
+    "template_id": "island_dungeon_crawl",
+    "starting_weather": "clear",
+    "time_of_day": "night",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 3,
+    "min_players": 1,
+    "game_mode": "dungeon_crawl",
+    "team_size": [3],
+    "allow_respawn": false,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "all_players_dead",
+    "starting_health": 100,
+    "starting_shield": 0,
+    "lives_pool": 3
+  },
+  "dungeon_settings": {
+    "dungeon_floors": 5,
+    "rooms_per_floor": 8,
+    "room_types": ["combat", "puzzle", "treasure", "rest", "boss"],
+    "lives_pool": 3,
+    "perma_death": false,
+    "upgrade_stations": ["weapon_bench", "health_shrine", "shield_fountain"]
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Dungeon Crawl"]}
+  ]
+}

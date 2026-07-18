@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cool 16x Pack v10",
+    "description": "A cool 16x texture pack variant 10. Procedurally generated with unique noise profile.",
+    "uuid": "e072920d-1191-4c66-b288-5172ff6537fe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2eb0395f-fd59-4c34-9df2-b11ce9da92a7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

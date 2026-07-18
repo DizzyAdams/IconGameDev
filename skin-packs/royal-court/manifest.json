@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Royal Court",
+    "description": "12 royal court skins with crowns, velvet capes, scepters, and gemstone jewelry.",
+    "uuid": "5f026e9e-22a9-39b6-ebbc-b9023392ce6a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f52ebddd-a02d-7200-bc04-7b5b1b4b8610",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 7.99,
+    "price_mc": 1210,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

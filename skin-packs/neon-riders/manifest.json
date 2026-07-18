@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon Riders",
+    "description": "12 neon biker skins with cyber jackets, glowing helmets, and energy whips.",
+    "uuid": "1d51aa4c-716f-954c-e917-fcbf123d9b85",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "210b062f-1e2f-7ea2-c474-9287a253383e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 6.99,
+    "price_mc": 1060,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

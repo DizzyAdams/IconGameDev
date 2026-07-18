@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 2270",
+    "description": "Tribal Skins 2270",
+    "uuid": "dc1b1638-944a-4087-b541-5a4839675d27",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "db0f1560-7663-46a8-a2e5-da0080ee96ed",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

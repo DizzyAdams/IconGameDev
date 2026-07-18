@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 1017",
+    "description": "Holiday Skins 1017",
+    "uuid": "511b0d54-b34c-4faf-8fa6-ea341ac1bd20",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cc17c640-ad39-4215-a99c-8f54bf8e3f62",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

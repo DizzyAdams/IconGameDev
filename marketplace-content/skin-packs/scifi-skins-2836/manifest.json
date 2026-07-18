@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2836",
+    "description": "Scifi Skins 2836",
+    "uuid": "c89ab93f-7e1c-4b87-9c93-19017c59685d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "36befe28-7407-4c21-88ba-3a01b80c9a14",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

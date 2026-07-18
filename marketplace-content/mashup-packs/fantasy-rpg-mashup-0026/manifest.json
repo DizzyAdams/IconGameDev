@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Rpg Mashup 0026",
+    "description": "Fantasy Rpg Mashup 0026",
+    "uuid": "7269632e-29ca-4071-a99d-1771dabadfda",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "0127dd6a-2ad0-4974-b516-0738024eb65b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

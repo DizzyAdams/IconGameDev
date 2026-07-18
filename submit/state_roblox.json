@@ -1,0 +1,238 @@
+{
+  "Aether Shirt Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Crimson Shirt": {
+    "status": "error",
+    "msg": "HTTP 401 {\"errors\":[{\"code\":0,\"message\":\"Invalid API Key\"}]}\n"
+  },
+  "Aether Shirt Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt Prism": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt Retro": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt Royal": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt Shadow": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Shirt": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Prism": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Retro": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Royal": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory Shadow": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Aether Wing Accessory": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Prism": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Retro": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Royal": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory Shadow": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Charm Accessory": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Prism": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Retro": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Royal": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants Shadow": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Pants": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Prism": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Retro": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Royal": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt Shadow": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Amber Shirt": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Prism": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Retro": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Royal": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants Shadow": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Pants": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Scarf Accessory Ember": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Scarf Accessory Frost": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Scarf Accessory Glitch": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  },
+  "Ash Scarf Accessory Neon": {
+    "status": "error",
+    "msg": "HTTP 403 {\n  \"code\": \"PERMISSION_DENIED\",\n  \"message\": \"User not authenticated\"\n}"
+  }
+}

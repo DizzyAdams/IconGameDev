@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 3235",
+    "description": "Animal Skins 3235",
+    "uuid": "1e73e45e-e675-4b5d-bd77-ee26c8db5e3b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b2afd171-c225-4bcd-805f-910b57850eea",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

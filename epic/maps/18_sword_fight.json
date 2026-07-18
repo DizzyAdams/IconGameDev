@@ -1,0 +1,48 @@
+{
+  "template": "sword-fight",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Sword Fight — Batalha de Lâminas",
+  "description": "8 jogadores, apenas espadas (Kinetic Blade, Lightsaber, Infinity Blade). Combate corpo a corpo em arena medieval com plataformas móveis.",
+  "tags": ["sword-fight", "pvp", "casual", "melee", "arena"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_sword_fight",
+    "starting_weather": "clear",
+    "time_of_day": "sunset",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 8,
+    "min_players": 2,
+    "game_mode": "free_for_all",
+    "team_size": [1],
+    "allow_respawn": true,
+    "respawn_delay_sec": 4,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "elimination_mode": "score_target",
+    "elimination_target": 20,
+    "starting_health": 150,
+    "starting_shield": 50,
+    "max_shield": 100,
+    "gravity": 0.8
+  },
+  "weapon_restrictions": {
+    "allowed": ["kinetic_blade", "lightsaber", "infinity_blade"],
+    "infinite_ammo": true
+  },
+  "power_ups": {
+    "damage_boost": true,
+    "speed_boost": true,
+    "shield_regen": true
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 4},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Sword Fight"]}
+  ]
+}

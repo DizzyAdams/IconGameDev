@@ -1,0 +1,47 @@
+{
+  "template": "zombie-survival",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Zombie Survival — Apocalipse",
+  "description": "Jogadores solos ou em squad. Mapa aberto com saque, missões e hordas de zumbis. Complete objetivos para extrair de helicóptero. Inspirado em CoD Zombies.",
+  "tags": ["zombie", "pve", "coop", "open-world", "survival"],
+  "island": {
+    "type": "flat_grid_128x128",
+    "template_id": "island_zombie_survival",
+    "starting_weather": "fog",
+    "time_of_day": "night",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 4,
+    "min_players": 1,
+    "game_mode": "zombie_survival",
+    "team_size": [4],
+    "allow_respawn": true,
+    "respawn_delay_sec": 10,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "extraction",
+    "starting_health": 100,
+    "starting_shield": 0,
+    "round_time_sec": 1800
+  },
+  "zombie_settings": {
+    "zombie_types": ["walker", "sprinter", "exploder", "giant", "poison"],
+    "difficulty_levels": 10,
+    "objectives": ["power_activation", "teleporter_build", "pack_a_punch", "boss_fight"]
+  },
+  "loot_pool": {
+    "chest_spawn_rate": 0.6,
+    "floor_loot_density": 0.3
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 10},
+    {"type": "item_spawner", "positions": "auto-distributed", "count": 60},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Zombie Survival"]}
+  ]
+}

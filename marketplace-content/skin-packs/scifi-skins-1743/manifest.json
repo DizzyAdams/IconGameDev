@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 1743",
+    "description": "Scifi Skins 1743",
+    "uuid": "fedadea4-f121-42e2-ae50-561696128db4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7f6289bd-2998-44c9-8e9a-928fdbef743c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

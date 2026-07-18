@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sepia 32x Pack v5",
+    "description": "A sepia 32x texture pack variant 5. Procedurally generated with unique noise profile.",
+    "uuid": "0f4c392d-4616-4997-b4c7-fe7afffd45e2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4cfbca99-fbc8-4c49-9cbf-7de913261735",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

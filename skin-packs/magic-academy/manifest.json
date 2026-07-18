@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Magic Academy",
+    "description": "12 wizard apprentice skins with spellbooks, wizard hats, and enchanted staffs.",
+    "uuid": "617feb84-ff2d-8c47-f7d9-3bd8bf6d649e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "284802e5-4ccf-45b7-6efd-305a1fcfbe48",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 6.99,
+    "price_mc": 1060,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

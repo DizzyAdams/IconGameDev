@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Adventure World 0014",
+    "description": "Adventure World 0014",
+    "uuid": "095d2165-0372-4aee-8ab2-4608dd059acc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "05d02a32-521c-4cc4-9d73-5dd0914d1ab3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

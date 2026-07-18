@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2188",
+    "description": "Game Skins 2188",
+    "uuid": "1cfb042a-99bf-41af-957e-c1e9ac957f64",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "211c3fbc-e3bd-491c-a2d4-a513eb5c8f11",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

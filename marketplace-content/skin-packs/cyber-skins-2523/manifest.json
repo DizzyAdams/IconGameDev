@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 2523",
+    "description": "Cyber Skins 2523",
+    "uuid": "f2198573-5328-4dfe-9fd3-9909880eef88",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6c34e0ff-edfa-44d3-8883-3f377e87afd5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

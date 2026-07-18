@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2551",
+    "description": "Scifi Skins 2551",
+    "uuid": "8258098b-5fcf-40ca-806d-19fdc4f9d936",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4780c1a7-3d73-483a-8c73-334cda232fa9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

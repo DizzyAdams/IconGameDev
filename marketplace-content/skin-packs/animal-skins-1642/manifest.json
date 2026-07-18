@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 1642",
+    "description": "Animal Skins 1642",
+    "uuid": "8e50423e-e6ea-45c2-bf20-be3eb303ad66",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "68017a77-d18e-490d-ad5a-1f72534350f5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

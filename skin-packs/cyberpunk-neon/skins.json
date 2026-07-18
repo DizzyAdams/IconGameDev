@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "CyberpunkNeon_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberpunkNeon_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CyberpunkNeon_12.png",
+      "type": "free"
+    }
+  ]
+}

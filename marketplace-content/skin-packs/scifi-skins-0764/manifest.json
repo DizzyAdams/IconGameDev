@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 0764",
+    "description": "Scifi Skins 0764",
+    "uuid": "810167c5-67b6-48f0-b24d-7764e88bd274",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e2eaa931-f862-4fda-b867-c59a1227184b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

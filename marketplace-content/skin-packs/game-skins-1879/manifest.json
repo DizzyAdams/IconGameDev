@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1879",
+    "description": "Game Skins 1879",
+    "uuid": "b6aefdc7-b797-4a60-befa-84f1dbc561c5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "146bc5c1-a1ff-46c7-8eb5-e32189598fa3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

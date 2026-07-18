@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2729",
+    "description": "Fantasy Skins 2729",
+    "uuid": "c5d5bb40-a511-47ee-be13-bca510f9662b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5b44fed8-7919-4921-b0dd-0d8fc67b58ee",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

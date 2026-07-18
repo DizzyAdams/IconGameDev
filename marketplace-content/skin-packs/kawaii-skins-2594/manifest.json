@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2594",
+    "description": "Kawaii Skins 2594",
+    "uuid": "c7e1a0c0-e1b3-45f0-91bf-f1b2d9cd994b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "be4e1e87-004f-4688-aa4b-0b9075621704",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

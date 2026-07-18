@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1776",
+    "description": "Steampunk Skins 1776",
+    "uuid": "24181604-71ba-4357-b1a3-360225974695",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a739fc19-1e65-43fd-8203-a2600e0f543b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

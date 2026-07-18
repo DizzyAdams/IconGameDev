@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 3036",
+    "description": "Scifi Skins 3036",
+    "uuid": "2ce9adc3-2437-4610-b738-9f9f5a055a93",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "52be113f-e8c1-43dc-ab67-7c99179d9ad4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 1985",
+    "description": "Modern Skins 1985",
+    "uuid": "291d7d20-3eee-4a15-9390-cc16c52418ec",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1b001893-a3f6-484d-b490-cf2dba6a930f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2655",
+    "description": "Scifi Skins 2655",
+    "uuid": "ff2c2c30-a084-42c6-84c8-83913def0204",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6ed332cc-6e04-4381-9236-46db424ebb6e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

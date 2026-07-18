@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "FantasyElves_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FantasyElves_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FantasyElves_12.png",
+      "type": "free"
+    }
+  ]
+}

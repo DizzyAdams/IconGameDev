@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 2233",
+    "description": "Music Skins 2233",
+    "uuid": "2330e6f4-9361-4c7e-93a0-db1d68ca6fb4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9ae93311-4564-4570-b259-2b0116490e59",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

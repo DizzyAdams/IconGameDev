@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 3055",
+    "description": "Music Skins 3055",
+    "uuid": "3912bafe-07ec-4dcf-8f3c-1313cf89aa6e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9b468ce5-a911-4753-85f9-52694c7a3b95",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

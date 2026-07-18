@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2292",
+    "description": "Steampunk Skins 2292",
+    "uuid": "94df55ed-dab1-45e6-b896-0c3a433fdfa8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d476e6ce-75c0-4ca7-b347-a9101c978cc5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

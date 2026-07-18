@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Animal1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Animal8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Animal8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Animal Skins 1815",
+  "localization_name": "Animal Skins 1815"
+}

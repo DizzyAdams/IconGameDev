@@ -1,0 +1,33 @@
+name: Submit Dry-Run
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Submission dry-run (safe, no network writes)
+        run: python submit/pipeline.py --dry-run
+
+      # --- Real submission (manual, needs secrets) ---
+      # Uncomment and set the following repo secrets before running for real:
+      #   MS_TENANT_ID, MS_CLIENT_ID, MS_CLIENT_SECRET, MS_PARTNER_ID
+      #   ROBLOX_API_KEY, ROBLOX_GROUP_ID, ROBLOX_EXPERIENCE_ID
+      # - name: Real submission
+      #   env:
+      #     MS_TENANT_ID: ${{ secrets.MS_TENANT_ID }}
+      #     MS_CLIENT_ID: ${{ secrets.MS_CLIENT_ID }}
+      #     MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+      #     MS_PARTNER_ID: ${{ secrets.MS_PARTNER_ID }}
+      #     ROBLOX_API_KEY: ${{ secrets.ROBLOX_API_KEY }}
+      #     ROBLOX_GROUP_ID: ${{ secrets.ROBLOX_GROUP_ID }}
+      #     ROBLOX_EXPERIENCE_ID: ${{ secrets.ROBLOX_EXPERIENCE_ID }}
+      #   run: python submit/pipeline.py

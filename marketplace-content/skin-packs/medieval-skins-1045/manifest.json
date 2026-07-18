@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 1045",
+    "description": "Medieval Skins 1045",
+    "uuid": "b0111f6b-0127-407a-b67d-d2fdf8658032",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1d59f6e0-7358-440c-b998-8081c358c325",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon 16x Pack v4",
+    "description": "A neon 16x texture pack variant 4. Procedurally generated with unique noise profile.",
+    "uuid": "1107b521-f126-4841-9c9e-3acebe0e237b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4a007165-c516-4798-8e5b-ad5437651e5c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

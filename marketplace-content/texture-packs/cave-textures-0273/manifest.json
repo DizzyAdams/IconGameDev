@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cave Textures 0273",
+    "description": "Cave Textures 0273",
+    "uuid": "af10c7eb-57a7-4fa2-944d-842e526b582b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3a4a43e2-4430-4556-8257-dc7cedebd952",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

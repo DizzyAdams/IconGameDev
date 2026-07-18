@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Candy1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candy8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Candy8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Candy Skins 0601",
+  "localization_name": "Candy Skins 0601"
+}

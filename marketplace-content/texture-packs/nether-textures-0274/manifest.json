@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nether Textures 0274",
+    "description": "Nether Textures 0274",
+    "uuid": "71feed09-e8fa-42aa-b903-f02e85240eba",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c35e3a37-05a3-4666-aa3a-e495a4e038b1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

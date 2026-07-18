@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ultra Textures 0052",
+    "description": "Ultra Textures 0052",
+    "uuid": "61fd95d6-70a1-4bb2-973c-da8a7088f98f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "eb4c614a-ba8e-432e-a3ee-0bd860824aec",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

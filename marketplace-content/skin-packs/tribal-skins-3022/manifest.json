@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 3022",
+    "description": "Tribal Skins 3022",
+    "uuid": "48d03048-1335-493a-8a1f-4b39e082e0f5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "51a75b8d-e6fb-47d3-8768-7c91dc21340a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

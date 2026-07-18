@@ -1,0 +1,46 @@
+{
+  "template": "free-for-all",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Free for All — Vale-Tudo",
+  "description": "12 jogadores, todos contra todos. 50 eliminações para vencer. Spawn aleatório no mapa. Loot espalhado e baús aéreos frequentes.",
+  "tags": ["free-for-all", "pvp", "casual", "solo", "ffa"],
+  "island": {
+    "type": "flat_grid_128x128",
+    "template_id": "island_free_for_all",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": true,
+    "storm_phases": 3,
+    "storm_wait_time_sec": 120,
+    "storm_shrink_time_sec": 90
+  },
+  "game_settings": {
+    "max_players": 12,
+    "min_players": 2,
+    "game_mode": "free_for_all",
+    "team_size": [1],
+    "allow_respawn": true,
+    "respawn_delay_sec": 5,
+    "respawn_mode": "random",
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "score_target",
+    "elimination_target": 50,
+    "starting_health": 100,
+    "starting_shield": 0
+  },
+  "loot_pool": {
+    "tier_weights": {"common": 15, "uncommon": 30, "rare": 35, "epic": 15, "legendary": 5},
+    "supply_drops": {"count": 5, "interval_sec": 60, "drop_delay_sec": 10}
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 5, "respawn_mode": "random"},
+    {"type": "item_spawner", "positions": "auto-distributed", "count": 120},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Free for All"]}
+  ]
+}

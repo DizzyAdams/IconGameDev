@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2569",
+    "description": "Anime Skins 2569",
+    "uuid": "10f79457-1594-470e-9b4c-c544e48ca1a3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f78b4626-aa42-48bd-a118-84cdbff4f13f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

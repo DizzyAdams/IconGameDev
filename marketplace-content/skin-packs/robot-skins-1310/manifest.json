@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 1310",
+    "description": "Robot Skins 1310",
+    "uuid": "dc994af5-d0b1-48bf-b813-0a32f259c2ea",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "68e22410-d74b-40cc-830e-394af94e1908",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

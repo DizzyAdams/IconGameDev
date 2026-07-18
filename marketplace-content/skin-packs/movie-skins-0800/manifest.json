@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 0800",
+    "description": "Movie Skins 0800",
+    "uuid": "793b4c87-785a-493c-8a41-5b40196ba618",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8f75f714-0e4f-48e9-9225-4d7b3e9105bb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

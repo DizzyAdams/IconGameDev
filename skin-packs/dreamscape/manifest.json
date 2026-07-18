@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dreamscape",
+    "description": "12 dreamlike ethereal skins with prismatic auras, floating runes, and starlight trails.",
+    "uuid": "aa999d58-595c-94c1-6f67-928640eabe75",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8ce599e8-250c-e1a7-180b-6de2721eb9cf",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 9.99,
+    "price_mc": 1520,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

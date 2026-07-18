@@ -1,0 +1,56 @@
+name: Build .mcpack Artifacts
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: |
+          pip install pillow
+          npm install
+
+      - name: Regenerate textures (fresh build)
+        run: |
+          python scripts/generate-skin-textures.py
+          python scripts/generate-anime-textures.py
+          python scripts/generate-texture-pack.py
+
+      - name: Package Medieval Knights .mcpack
+        run: |
+          cd skin-packs/medieval-knights
+          zip -r ../../dist/medieval-knights.mcpack . -x ".*"
+          cd ../..
+
+      - name: Package Anime Warriors .mcpack
+        run: |
+          cd skin-packs/anime-warriors
+          zip -r ../../dist/anime-warriors.mcpack . -x ".*"
+          cd ../..
+
+      - name: Package 16x Faithful .mcpack
+        run: |
+          cd texture-packs/faithful-16x
+          zip -r ../../dist/faithful-16x.mcpack . -x ".*"
+          cd ../..
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mcpacks
+          path: dist/*.mcpack

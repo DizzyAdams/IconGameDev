@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 2111",
+    "description": "Nature Skins 2111",
+    "uuid": "40e20fa2-dfdf-45fa-99d2-5eafa989e0f5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cbefd2cb-aaa7-48ef-874b-7fe359130862",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

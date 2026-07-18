@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2133",
+    "description": "Game Skins 2133",
+    "uuid": "ae5f93b8-5818-40c8-b0ca-1f3031ef94b7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ce1dc7f0-7410-431e-b479-cc6ac80878be",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

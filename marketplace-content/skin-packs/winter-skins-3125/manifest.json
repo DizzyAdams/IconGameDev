@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 3125",
+    "description": "Winter Skins 3125",
+    "uuid": "47360a12-b7d2-4971-a8e2-8ba7a0c6bcff",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "82b71e86-b36e-47e5-a22d-278942c70b49",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

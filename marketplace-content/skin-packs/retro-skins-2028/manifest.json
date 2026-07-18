@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 2028",
+    "description": "Retro Skins 2028",
+    "uuid": "065e1e39-4747-48d1-817b-d8abe9c59803",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f80089e5-bd7e-4d02-bf22-2e44b16af309",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

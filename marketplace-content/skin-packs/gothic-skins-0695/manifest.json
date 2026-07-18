@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Gothic Skins 0695",
+    "description": "Gothic Skins 0695",
+    "uuid": "ae7cebfa-7f80-4e8f-893e-c89bf2462700",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9da99a30-4b8f-4604-8f3d-758efc219941",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

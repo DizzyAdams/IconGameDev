@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1990",
+    "description": "Myth Skins 1990",
+    "uuid": "5913f20e-7f02-48c2-9903-082eda9306d6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "28cfed30-1eb9-44f9-a7b0-e60e477bd330",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

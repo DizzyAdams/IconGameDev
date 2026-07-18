@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 1227",
+    "description": "Cute Skins 1227",
+    "uuid": "6efa0813-6726-4298-a0dc-c09a27192a95",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9d39ba0e-4bfa-45bd-9129-2594b9c181d9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

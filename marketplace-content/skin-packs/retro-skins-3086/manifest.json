@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 3086",
+    "description": "Retro Skins 3086",
+    "uuid": "f6b079df-b55b-493f-bcb8-3de3902f15e5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6ec76d83-d30a-4de7-ab9b-1c6794c7cf80",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

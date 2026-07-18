@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 2813",
+    "description": "Animal Skins 2813",
+    "uuid": "0d6e19a2-537e-4718-8d28-ceaa5970c3ae",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "eceedd96-164b-4ba4-921c-99c0753128fe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

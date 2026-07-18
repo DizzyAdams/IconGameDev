@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Jungle Warriors",
+    "description": "12 jungle tribe skins with animal totems, bone armor, and camouflage.",
+    "uuid": "d422e410-f32c-39f8-2a1a-19c7960dd64a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f7810b80-058e-5fcb-bda9-454a3f9fc546",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 5.99,
+    "price_mc": 910,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

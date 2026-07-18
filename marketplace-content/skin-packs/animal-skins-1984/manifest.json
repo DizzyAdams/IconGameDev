@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 1984",
+    "description": "Animal Skins 1984",
+    "uuid": "8b2a2957-902e-48dd-b471-49c96d4cce65",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "83e5274c-1901-4607-b51c-363eb6d6e178",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

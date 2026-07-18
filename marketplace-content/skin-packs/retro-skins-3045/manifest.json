@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 3045",
+    "description": "Retro Skins 3045",
+    "uuid": "10396938-b33f-41de-8c0d-e033ae5e3202",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6d8710d2-88a3-44ac-aedd-a2fe13ac83e9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

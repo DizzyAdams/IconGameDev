@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1363",
+    "description": "Steampunk Skins 1363",
+    "uuid": "d5df0ef7-f02e-44a7-9e0a-2a51cca4418a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "18d89bd3-9648-4d9e-be51-70f5889fad4f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 1935",
+    "description": "Retro Skins 1935",
+    "uuid": "fea0ba1c-d2be-431a-a077-a71150f4693c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e90f708a-6927-4bb0-89c7-48d0a6181b06",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1180",
+    "description": "Game Skins 1180",
+    "uuid": "c0f69985-651a-4d29-8556-00d3cf9db1f7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cdbd143a-e7e0-4754-9c85-e1bc3f83d2e9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

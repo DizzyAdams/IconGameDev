@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Shadow Hunters",
+    "description": "12 shadow hunter skins with dark capes, crossbows, and spectral tracking effects.",
+    "uuid": "bac495e2-f509-af55-bff7-877f68a2fdb2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "49a050c6-1548-c5c8-36f4-a8bdd17a503d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 6.99,
+    "price_mc": 1060,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 2017",
+    "description": "Horror Skins 2017",
+    "uuid": "0d41de88-c7e2-4362-8329-f062958e07f3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "657bcb0b-d743-47c3-9d7d-926ab735090e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

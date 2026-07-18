@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "MythicBeasts_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MythicBeasts_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MythicBeasts_12.png",
+      "type": "free"
+    }
+  ]
+}

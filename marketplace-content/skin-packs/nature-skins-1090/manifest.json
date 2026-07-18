@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 1090",
+    "description": "Nature Skins 1090",
+    "uuid": "e245da1d-6c83-4dfc-b358-0ae4abdb8e0b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7a87ab2f-db8c-43de-8696-1bd64604c991",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

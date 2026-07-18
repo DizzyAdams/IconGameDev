@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Soft 64x Pack v7",
+    "description": "A soft 64x texture pack variant 7. Procedurally generated with unique noise profile.",
+    "uuid": "9a28efa3-6db8-440d-aa22-a8517f9861b5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f7ea0783-8c2a-4dbd-849f-f3004281ae1a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

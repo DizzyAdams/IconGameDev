@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2946",
+    "description": "Kawaii Skins 2946",
+    "uuid": "1fec49c1-3388-4701-b683-f4fc4cafdfb7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d9202044-4474-416f-9258-6667e8352a4f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

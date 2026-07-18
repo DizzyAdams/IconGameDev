@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1059",
+    "description": "Anime Skins 1059",
+    "uuid": "14e5edfb-ae5d-403a-a50f-be5d9b7098f1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0ea6399e-2f2a-42da-95c3-5362de3f31c7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

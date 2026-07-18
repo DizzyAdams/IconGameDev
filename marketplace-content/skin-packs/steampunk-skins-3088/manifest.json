@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3088",
+    "description": "Steampunk Skins 3088",
+    "uuid": "e87b8734-8e40-4630-954c-a295179c1a1f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "51fd6ffa-eb93-4e65-8d55-bacd4d0a453d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

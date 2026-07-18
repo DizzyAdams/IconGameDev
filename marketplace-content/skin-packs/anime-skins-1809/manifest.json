@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1809",
+    "description": "Anime Skins 1809",
+    "uuid": "51f0653b-a058-472c-8b06-014415844336",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7a886648-8cf2-4f2a-b57b-47306822749a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

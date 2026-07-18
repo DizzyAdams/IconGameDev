@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Water Textures 0270",
+    "description": "Water Textures 0270",
+    "uuid": "034b9cee-e42f-4d08-868d-910525d3670f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3944d891-d680-487f-8012-5b3fbb4266ec",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

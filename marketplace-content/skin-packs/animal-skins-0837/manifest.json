@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 0837",
+    "description": "Animal Skins 0837",
+    "uuid": "e3602330-1cc0-4677-82ec-c818965b6b56",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9f50cbec-c850-4d4e-b8c7-05cff1780805",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

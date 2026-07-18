@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Odyssey Mashup 0164",
+    "description": "Space Odyssey Mashup 0164",
+    "uuid": "3bdb1b1e-b745-4e86-88eb-fffceeef5558",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "742db676-4a8e-41ab-8508-55f387b41c64",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 0248",
+    "description": "Movie Skins 0248",
+    "uuid": "85f39154-5a9c-4168-9db2-e95d25ec4324",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "abc624c9-6221-4f86-8ef8-58a4755328cd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

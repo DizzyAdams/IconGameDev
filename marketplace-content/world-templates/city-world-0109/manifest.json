@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "City World 0109",
+    "description": "City World 0109",
+    "uuid": "c6bb49f6-596d-4a02-9ebf-223398904723",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "4eabf5cb-27c9-4519-a977-063d49c388d5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

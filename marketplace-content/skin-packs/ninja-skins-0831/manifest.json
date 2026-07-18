@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 0831",
+    "description": "Ninja Skins 0831",
+    "uuid": "4cc54fe4-c290-40ea-ac1f-09188cb5ea4e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c59234a0-2091-4c7b-b41d-e2c3d1764211",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

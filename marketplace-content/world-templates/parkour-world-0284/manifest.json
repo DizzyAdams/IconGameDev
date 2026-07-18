@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Parkour World 0284",
+    "description": "Parkour World 0284",
+    "uuid": "a914fe98-3722-4107-91de-9ffae1c2bdf5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "deaa6526-fb7c-4ab2-80d0-40e8fd82490e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

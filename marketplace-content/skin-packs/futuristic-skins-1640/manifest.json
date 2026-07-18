@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 1640",
+    "description": "Futuristic Skins 1640",
+    "uuid": "196dd70f-8eb9-4939-a6ec-5b199a741c26",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "93d3b476-f04d-4d3f-a1d7-907a62a2e905",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

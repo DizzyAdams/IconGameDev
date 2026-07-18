@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 1818",
+    "description": "Scifi Skins 1818",
+    "uuid": "b937d8ea-5ef2-40a4-bfc0-641851ac003c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f9ec55ef-341b-40f6-916c-3ea58458203c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2609",
+    "description": "Game Skins 2609",
+    "uuid": "1b5834c9-d1c9-4e65-acac-94feff41e2bf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "75b5eb1a-8abe-47e5-b7d9-37480df014f1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

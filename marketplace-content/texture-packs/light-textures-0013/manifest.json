@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Light Textures 0013",
+    "description": "Light Textures 0013",
+    "uuid": "6683e871-215a-42ff-8fda-b48f13f9a2f6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f786d9a6-7b5c-4ae7-b768-659b6bfe8df1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

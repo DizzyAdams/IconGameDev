@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 3230",
+    "description": "Cute Skins 3230",
+    "uuid": "fb4f2cfb-05e2-44b3-bfae-15d1d7e5b5af",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f4872400-b651-495d-ae5b-6e88e4c91cf5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

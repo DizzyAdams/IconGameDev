@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 3145",
+    "description": "Nature Skins 3145",
+    "uuid": "424855f0-32e2-47bb-8e85-e45f2d114677",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5497e7a9-ab78-4d4b-9d77-cb1739b06ca0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

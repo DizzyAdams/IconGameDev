@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 1952",
+    "description": "Superhero Skins 1952",
+    "uuid": "f6079045-cc33-4fba-a9ef-316092f08c04",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9ca052c8-2b8e-4028-81f7-51ea73b3406b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

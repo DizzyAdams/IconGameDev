@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Street Skins 1633",
+    "description": "Street Skins 1633",
+    "uuid": "359bd220-755c-40dc-9ac3-907f0fff6e5a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5ba18774-f31d-4e0c-b354-bc06a7fe129b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

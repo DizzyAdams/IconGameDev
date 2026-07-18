@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 2442",
+    "description": "Pirate Skins 2442",
+    "uuid": "c1447bdc-f6de-4cb0-b202-91f45f689f90",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fa53915c-a453-4f5f-b183-1bd7ffece953",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

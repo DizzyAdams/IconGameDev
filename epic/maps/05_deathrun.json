@@ -1,0 +1,71 @@
+{
+  "template": "deathrun",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Deathrun Parkour — Corrida com Armadilhas",
+  "description": "Parkour progressivo com armadilhas. Até 12 jogadores correm simultaneamente. Checkpoints a cada 5 estágios. 3 vidas por jogador. Líder inspirado em Deathrun clássico.",
+  "tags": ["deathrun", "parkour", "pve", "casual", "obstacle-course"],
+
+  "island": {
+    "type": "linear_track",
+    "template_id": "island_deathrun",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false,
+    "track_length_tiles": 200
+  },
+
+  "game_settings": {
+    "max_players": 12,
+    "game_mode": "deathrun",
+    "team_size": [1],
+    "lives_per_player": 3,
+    "round_time_sec": 600,
+    "allow_respawn": true,
+    "respawn_at_checkpoint": true,
+    "elimination_mode": "out_of_lives",
+    "starting_health": 100,
+    "gravity": 1.0,
+    "fall_damage": false,
+    "friendly_fire": false
+  },
+
+  "track_layout": {
+    "total_stages": 30,
+    "checkpoint_interval": 5,
+    "difficulty_curve": "exponential",
+    "stage_types": {
+      "early_1_to_10": {"theme": "simple", "hazards": ["jump_pads", "spikes", "swinging_axes"], "speed": "slow"},
+      "mid_11_to_20": {"theme": "mechanical", "hazards": ["piston_push", "flame_jet", "disappearing_blocks", "pulse_wall"], "speed": "medium"},
+      "late_21_to_30": {"theme": "chaos", "hazards": ["laser_grid", "falling_blocks", "moving_platforms", "bouncer_maze"], "speed": "fast"}
+    },
+    "time_per_stage_sec": 20
+  },
+
+  "hazards_library": [
+    {"id": "jump_pads", "direction": "up", "force_multiplier": 1.5, "cooldown_sec": 2},
+    {"id": "spikes", "damage": 50, "activation_delay_sec": 0.5, "visible_warning": true},
+    {"id": "swinging_axes", "damage": 75, "frequency_bpm": 60, "phase_offset": 0},
+    {"id": "piston_push", "force": 30, "direction": "forward", "trigger_interval_sec": 3},
+    {"id": "flame_jet", "damage_per_sec": 25, "duration_sec": 3, "interval_sec": 4},
+    {"id": "disappearing_blocks", "visible_time_sec": 3, "hidden_time_sec": 2},
+    {"id": "pulse_wall", "speed": 10, "knockback_force": 50, "pattern": "alternating"},
+    {"id": "laser_grid", "damage_per_tick": 10, "tick_rate_hz": 4, "pattern": "scanning"},
+    {"id": "falling_blocks", "delay_sec": 1.5, "respawn_time_sec": 4},
+    {"id": "moving_platforms", "speed": 5, "path_length_tiles": 8, "wait_sec": 2},
+    {"id": "bouncer_maze", "force_multiplier": 2.0, "direction": "random"}
+  ],
+
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "checkpoint_manager", "checkpoint_count": 6},
+    {"type": "hazard_sequencer", "hazards": "stage_progressive"},
+    {"type": "leaderboard", "sort_by": "stage_reached", "display": "top_10"},
+    {"type": "finish_line", "position": {"x": 0, "y": 0, "z": 200}},
+    {"type": "start_line", "position": {"x": 0, "y": 0, "z": 0}}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Deathrun"]}
+  ]
+}

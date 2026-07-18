@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 2590",
+    "description": "Modern Skins 2590",
+    "uuid": "035f0d32-0c05-4317-b4d0-a6dcbf5c3f55",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "104c1a2d-5b65-4923-9962-93717a9c2050",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

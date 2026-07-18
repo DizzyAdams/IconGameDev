@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space World 0187",
+    "description": "Space World 0187",
+    "uuid": "886b84e2-7864-4039-a8a7-e3ad0cc1411c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "71a01bee-ff48-4421-860b-b6ade0831264",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

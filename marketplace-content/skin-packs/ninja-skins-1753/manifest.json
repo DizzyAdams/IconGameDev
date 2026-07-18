@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1753",
+    "description": "Ninja Skins 1753",
+    "uuid": "ce07d014-30b4-4f58-adc4-dda8e4cef670",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7b97e9c4-550e-47ce-bf52-e4f52673abe6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

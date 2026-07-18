@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 2964",
+    "description": "Holiday Skins 2964",
+    "uuid": "98836720-6e5d-4428-bf31-dccdc02e39d1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "311532e3-c9fd-47d5-b0b0-2920a4dd4e49",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

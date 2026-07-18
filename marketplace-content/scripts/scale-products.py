@@ -29,14 +29,16 @@ DESCRIPTIONS_DIR = MC_DIR / "descriptions"
 TARGET_PRODUCTS = 5000
 BATCH = 200
 
+# NOTE: themes must never match IP_BLOCKED in scripts/audit_compliance.py
+# (anime/kawaii/manga/otaku/waifu and franchise names are quarantined).
 SKIN_THEMES = [
-    "anime","fantasy","scifi","medieval","modern","holiday","game","movie",
+    "fantasy","scifi","medieval","modern","holiday","game","movie",
     "nature","cyber","retro","sports","music","space","horror","cute",
     "pirate","ninja","superhero","animal","myth","street","beach","winter",
-    "steampunk","gothic","kawaii","futuristic","tribal","robot"
+    "steampunk","gothic","futuristic","tribal","robot","mystic","candy"
 ]
 TEX_THEMES = [
-    "realistic","anime","8bit","16x","32x","dark","light","pvp","sky",
+    "realistic","8bit","16x","32x","dark","light","pvp","sky",
     "forest","desert","nether","end","cave","urban","neon","pastel",
     "faithful","low-res","ultra","water","lava","crystal","space"
 ]
@@ -45,8 +47,9 @@ WORLD_THEMES = [
     "adventure","maze","tower-defense","ctf","hunger-games","prison","skyblock"
 ]
 MASHUP_THEMES = [
-    "cyberpunk","fantasy-rpg","horror","anime-world","steampunk",
-    "space-odyssey","medieval","tropical","underwater","western","viking"
+    "cyberpunk","fantasy-rpg","horror","steampunk",
+    "space-odyssey","medieval","tropical","underwater","western","viking",
+    "crystal-realm"
 ]
 
 

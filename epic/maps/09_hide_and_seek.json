@@ -1,0 +1,84 @@
+{
+  "template": "hide-and-seek",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Hide & Seek — Esconde-Esconde Gigante",
+  "description": "Seekers vs Hiders em mapa temático. Hiders têm 30s para se esconder antes dos Seekers serem liberados. 3 rounds com rotação de papéis. Hiders usam camuflagem.",
+  "tags": ["hide-and-seek", "party", "casual", "stealth", "8v8", "family"],
+
+  "island": {
+    "type": "prefab_mansion_theme",
+    "template_id": "island_hide_seek",
+    "starting_weather": "clear",
+    "time_of_day": "night",
+    "allow_storm": false,
+    "theme": "mansion_grounds",
+    "map_size_tiles": 80
+  },
+
+  "game_settings": {
+    "max_players": 16,
+    "game_mode": "hide_and_seek",
+    "team_size": [8],
+    "rounds_to_win": 2,
+    "hider_hide_time_sec": 30,
+    "round_time_sec": 240,
+    "allow_respawn": false,
+    "elimination_mode": "round_elimination",
+    "starting_health": 100,
+    "starting_shield": 0,
+    "gravity": 1.0,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "visibility": "third_person"
+  },
+
+  "hider_settings": {
+    "invisible_when_still": true,
+    "invisible_delay_sec": 3,
+    "movement_speed_multiplier": 1.1,
+    "no_footstep_sounds": true,
+    "can_crouch": true,
+    "crouch_speed_multiplier": 0.5,
+    "taunt_ability": true,
+    "taunt_cooldown_sec": 10,
+    "glow_when_near_seeker_tiles": 15
+  },
+
+  "seeker_settings": {
+    "weapon": "pistol_suppressed_common",
+    "infinite_ammo": true,
+    "scan_ability": true,
+    "scan_radius_tiles": 30,
+    "scan_cooldown_sec": 20,
+    "scan_duration_sec": 2,
+    "scan_highlights_hiders": true,
+    "speed_boost_on_kill_sec": 5,
+    "speed_boost_multiplier": 1.3,
+    "flashlight_range_tiles": 20
+  },
+
+  "hiding_spots": [
+    {"type": "closet", "count": 8, "capacity": 1, "interior_hidden": true},
+    {"type": "behind_curtain", "count": 6, "capacity": 1},
+    {"type": "roof_access", "count": 4, "capacity": 2},
+    {"type": "bush_cluster", "count": 10, "capacity": 1},
+    {"type": "attic_space", "count": 3, "capacity": 2},
+    {"type": "under_stairs", "count": 5, "capacity": 1},
+    {"type": "ventilation", "count": 4, "capacity": 1, "crawl_space": true}
+  ],
+
+  "devices": [
+    {"type": "class_selector", "enabled": true, "classes": ["hider", "seeker"]},
+    {"type": "round_manager", "settings": {"round_time_sec": 240, "rounds_to_win": 2, "hide_phase_sec": 30}},
+    {"type": "item_granter", "class": "seeker", "weapons": ["pistol_suppressed_common"]},
+    {"type": "item_granter", "class": "hider", "items": ["camouflage_potion"]},
+    {"type": "mutator_zone", "hider_zone": "invisibility", "seeker_zone": "scan"},
+    {"type": "hud_message", "hide_phase_message": "🙈 Hiders, se escondam! Seekers chegam em {time} segundos!"},
+    {"type": "scoreboard", "visible": true}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Hide & Seek"]}
+  ]
+}

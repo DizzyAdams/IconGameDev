@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2062",
+    "description": "Steampunk Skins 2062",
+    "uuid": "db59b129-4f8e-47e7-9566-b13c6bea8063",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1a6980db-218e-4fc8-811e-0cc8847be0b8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

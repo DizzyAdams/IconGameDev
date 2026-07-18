@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 2526",
+    "description": "Pirate Skins 2526",
+    "uuid": "b6cc10a6-2c73-488b-a50d-0ee977ab7ebd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "45dd656b-fa2f-440e-a3ce-f0f8113f1bbe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

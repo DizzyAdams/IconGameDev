@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 1975",
+    "description": "Medieval Skins 1975",
+    "uuid": "b543b6b6-fc08-4bec-89f6-e9c24ba872c7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "dde39a4c-8845-46ca-b7bc-d787c56283f5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 1822",
+    "description": "Robot Skins 1822",
+    "uuid": "2b55460b-b7e0-4a85-bb5d-d8966ab6aecf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "783fc82a-e935-437e-8ba0-c0802f8511ce",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

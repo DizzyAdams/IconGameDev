@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1903",
+    "description": "Game Skins 1903",
+    "uuid": "5fa2fc8e-fd8a-412b-9c1a-ca276ea5dc40",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d9c11434-32c0-4ba0-a74d-6d1ba2187695",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 3237",
+    "description": "Kawaii Skins 3237",
+    "uuid": "80574cfe-a9b5-4093-b407-faa495030a4c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bff417b0-dd7e-4377-a920-f1a127c1855b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Castle World 0172",
+    "description": "Castle World 0172",
+    "uuid": "03e84ff3-9df2-46f1-baec-f642134eb950",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "8a243bfd-c98c-422f-8890-a59032a5ee39",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

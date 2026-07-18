@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 2507",
+    "description": "Movie Skins 2507",
+    "uuid": "7ac09209-07c7-481b-9200-3e96d6a6f289",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6c537c9b-b565-451a-bbe7-bf6bea8625c3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "16X Textures 0051",
+    "description": "16X Textures 0051",
+    "uuid": "3e974365-83b6-4dc7-9ebc-ffc552d72e7c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "51c06e4d-cb13-44d6-be18-bb16d4fa4ec3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

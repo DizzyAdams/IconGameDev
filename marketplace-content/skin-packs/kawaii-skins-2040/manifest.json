@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2040",
+    "description": "Kawaii Skins 2040",
+    "uuid": "155f01ff-ec8a-4160-844f-024d6b6be6e4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "23d0c381-d5f4-4789-8364-3be358cfdb2b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3258",
+    "description": "Steampunk Skins 3258",
+    "uuid": "bfd778ef-c092-4452-87c2-bb500d5926c1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5c693a12-8789-4015-839e-8b94bbc39f70",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

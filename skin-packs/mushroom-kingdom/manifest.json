@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mushroom Kingdom",
+    "description": "12 mushroom-themed skins with toadstool hats, spore cloaks, and forest colors.",
+    "uuid": "51a32a53-bbc4-73a2-f0b2-1cc45732d945",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "20d28ea0-272e-cbf3-d5af-7d4c75f3e350",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 5.99,
+    "price_mc": 910,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

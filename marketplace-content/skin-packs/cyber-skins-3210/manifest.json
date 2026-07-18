@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 3210",
+    "description": "Cyber Skins 3210",
+    "uuid": "a4e0b933-da66-49e3-a56c-a54c6a18f96b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f46e909e-42f3-4662-a858-48c9dc1826ea",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

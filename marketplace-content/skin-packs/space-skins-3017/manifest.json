@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 3017",
+    "description": "Space Skins 3017",
+    "uuid": "ab1ed4ae-50d5-4be8-84db-a5e89d2cfcbb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c6c33258-e0c9-4c34-b2cf-6323c007b317",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

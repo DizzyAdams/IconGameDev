@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2453",
+    "description": "Game Skins 2453",
+    "uuid": "5a1d2096-7de7-4842-87bd-c348a17051cf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a66247a7-b11e-438b-9a3c-0e3c0c3be52e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 0375",
+    "description": "Fantasy Skins 0375",
+    "uuid": "e8e8bbba-7ced-49f6-86af-f390a636cd42",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "29991561-f537-41a6-b029-f2dfdc305b47",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

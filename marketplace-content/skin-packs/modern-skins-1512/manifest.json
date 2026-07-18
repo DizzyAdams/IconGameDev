@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 1512",
+    "description": "Modern Skins 1512",
+    "uuid": "e035669b-03cb-453e-9ee0-f27ad94a9635",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3455b24f-9c5c-4c62-876d-477d9d312ce6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

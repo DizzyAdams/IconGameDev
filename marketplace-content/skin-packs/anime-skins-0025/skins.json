@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Anime1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anime8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Anime8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Anime Skins 0025",
+  "localization_name": "Anime Skins 0025"
+}

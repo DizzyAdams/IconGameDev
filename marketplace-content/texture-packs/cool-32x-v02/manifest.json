@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cool 32x Pack v3",
+    "description": "A cool 32x texture pack variant 3. Procedurally generated with unique noise profile.",
+    "uuid": "65862aee-59d9-482b-bdfc-1e28e15fee81",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "94de6a05-a727-4cbc-a359-0043150f9d38",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

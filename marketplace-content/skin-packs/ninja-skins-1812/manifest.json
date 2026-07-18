@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1812",
+    "description": "Ninja Skins 1812",
+    "uuid": "f6d83d28-5a03-420e-89f0-5a34f1fe4136",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d1fdb292-bd6d-4262-ae9f-eb25c5411362",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

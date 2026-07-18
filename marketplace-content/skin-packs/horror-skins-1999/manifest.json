@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1999",
+    "description": "Horror Skins 1999",
+    "uuid": "dd4c9c68-94c9-436b-ba6c-d56dd28284b0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4e69309b-0093-475f-90bb-19b13bba0837",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Island World 0011",
+    "description": "Island World 0011",
+    "uuid": "8da2bc28-bb66-4139-8d8b-68eb7fa32d4b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "2c541cfd-070f-4f58-8cf1-618c224b67e8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

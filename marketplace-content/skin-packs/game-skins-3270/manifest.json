@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 3270",
+    "description": "Game Skins 3270",
+    "uuid": "65cd7e6d-98ed-4f4c-85f1-ccfc9e02f2eb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "427fa48a-187b-4d71-9916-733aa5ca59a9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

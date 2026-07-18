@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "MushroomKingdom_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MushroomKingdom_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MushroomKingdom_12.png",
+      "type": "free"
+    }
+  ]
+}

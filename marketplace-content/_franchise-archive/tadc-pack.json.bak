@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Digital Circus Crew\",\n    \"description\": \"8 digital circus crew skins with virtual world flair. (adapted from: 8 The Amazing Digital Circus skins! Caine, Pomni, Jax, Ragatha, Gangle, Kinger, Zooble, Bubble.)\",\n    \"uuid\": \"fc4828f57-2bfa-9ccf-959e-00c69a545362\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"fdf4e0751-358d-bb6e-f9cc-00d90178eee2\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "tadc-pack",
+  "old_name": "Digital Circus Crew"
+}

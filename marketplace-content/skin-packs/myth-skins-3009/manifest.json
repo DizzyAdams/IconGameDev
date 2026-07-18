@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 3009",
+    "description": "Myth Skins 3009",
+    "uuid": "0678632a-35de-4251-9bee-1d5ec6b4a79b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f74ddbeb-bf33-4edb-8268-5d569566eba7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

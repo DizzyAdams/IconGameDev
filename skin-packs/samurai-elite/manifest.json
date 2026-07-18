@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Samurai Elite",
+    "description": "12 elite samurai skins with crimson armor, demon masks, and legendary katanas.",
+    "uuid": "612af895-f1a0-081b-36e6-2694b2ae8a2a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "cd445865-3eab-18e5-7d60-56062fc8f185",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 6.99,
+    "price_mc": 1060,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

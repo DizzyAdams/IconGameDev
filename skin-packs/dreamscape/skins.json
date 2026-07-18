@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "Dreamscape_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dreamscape_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dreamscape_12.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 3043",
+    "description": "Horror Skins 3043",
+    "uuid": "1327c491-9d2c-4a3e-954b-6faef50555b5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "442cd491-e1fd-4e26-aac6-dfa2f943644a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

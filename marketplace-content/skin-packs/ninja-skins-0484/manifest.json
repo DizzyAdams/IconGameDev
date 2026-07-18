@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 0484",
+    "description": "Ninja Skins 0484",
+    "uuid": "a11162d6-29ad-4f6d-92a1-b04683834845",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3509a511-4cd4-49b3-b327-fa7fa527c1fc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

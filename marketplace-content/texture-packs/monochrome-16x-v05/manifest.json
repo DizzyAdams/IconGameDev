@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Monochrome 16x Pack v6",
+    "description": "A monochrome 16x texture pack variant 6. Procedurally generated with unique noise profile.",
+    "uuid": "4fcb5522-d458-43c1-8367-44a8c593fb20",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3ac3125b-929d-443f-b32d-f08812eff7b6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

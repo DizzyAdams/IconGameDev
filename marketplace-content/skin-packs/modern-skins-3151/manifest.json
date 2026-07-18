@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 3151",
+    "description": "Modern Skins 3151",
+    "uuid": "cb52fbee-c3ed-4851-add6-c81ffe6dd036",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "31c94bda-8f05-4300-8e99-3b2578e636aa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

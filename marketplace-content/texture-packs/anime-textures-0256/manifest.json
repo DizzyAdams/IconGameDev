@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Textures 0256",
+    "description": "Anime Textures 0256",
+    "uuid": "da900bfa-92d0-445d-9ec3-3c2faf662ac3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "223dd348-d25c-4ea8-b6da-85959a3b920f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

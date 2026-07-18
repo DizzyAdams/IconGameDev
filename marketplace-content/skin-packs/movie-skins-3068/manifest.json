@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 3068",
+    "description": "Movie Skins 3068",
+    "uuid": "e3ca63b5-810b-409b-b9d5-85e95938cabf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ca056ac4-2358-45f0-b6d6-3e10c3214db6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

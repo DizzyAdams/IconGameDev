@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark 16x Pack v5",
+    "description": "A dark 16x texture pack variant 5. Procedurally generated with unique noise profile.",
+    "uuid": "ecf190f5-02f6-40aa-9121-8e9b60778756",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "96e8d4dd-b522-4323-91f6-3ccc6e0bea81",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2975",
+    "description": "Scifi Skins 2975",
+    "uuid": "d197125a-e278-428c-801e-48de5f39f687",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8b6d8e58-e96c-4554-ad81-867f16aaa376",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

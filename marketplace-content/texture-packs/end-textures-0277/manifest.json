@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "End Textures 0277",
+    "description": "End Textures 0277",
+    "uuid": "e7427f02-3a45-4095-9bdc-5e648f1bd6ad",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b97cfec6-292e-45f3-bb47-89003813f97e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 2065",
+    "description": "Robot Skins 2065",
+    "uuid": "e3793f2f-50e2-46d9-b89d-7e9e5a4a5e8e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "01d17cb1-c696-4ac2-9821-4790782f6173",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

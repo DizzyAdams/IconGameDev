@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 2372",
+    "description": "Holiday Skins 2372",
+    "uuid": "1d9cfa6b-5775-44dd-86c9-a4529f4659c7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "db01f1c7-2963-4677-b1ae-12625f91b8a7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

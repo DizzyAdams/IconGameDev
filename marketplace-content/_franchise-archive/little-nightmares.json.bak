@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Dark Little Dreams\",\n    \"description\": \"8 dark little dream skins from shadowy childhood tales. (adapted from: 6 Little Nightmares inspired skins! Mono, Six, Thin Man, Lady, Runaway Kid, The Hunter.)\",\n    \"uuid\": \"fbe2aece9-65cd-b2c8-488a-008582c75b6e\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f94d97749-4de5-dc58-dc1a-00907c59cd2b\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "little-nightmares",
+  "old_name": "Dark Little Dreams"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 2018",
+    "description": "Tribal Skins 2018",
+    "uuid": "c1480a43-203d-4e82-aa0a-7128e856427b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "08fa37e0-609f-435e-8a17-272fb1eb8d6c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

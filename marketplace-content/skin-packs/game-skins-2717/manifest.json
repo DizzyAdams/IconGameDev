@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2717",
+    "description": "Game Skins 2717",
+    "uuid": "71e5dd7a-12a3-4b7d-969f-963c9b165a55",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "97b6e4ce-55d5-41da-b9fb-a5473e4f899f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

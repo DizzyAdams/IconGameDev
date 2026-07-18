@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 0665",
+    "description": "Anime Skins 0665",
+    "uuid": "26f58114-2e20-46a3-b0da-9b49ea3a4837",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "61824a63-9263-4ded-af08-2cd54d473cd2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 3277",
+    "description": "Retro Skins 3277",
+    "uuid": "db154f84-91f2-411d-8abc-c18ca9a38c1a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e7a184c7-7807-427a-a21a-de10107c41a9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

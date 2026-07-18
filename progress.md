@@ -285,3 +285,14 @@ e o gate virava NO-GO silenciosamente.
 
 Pendencias humanas inalteradas: conta Partner Center + IARC + W-8BEN + pagamento +
 clique 'Submit for review'; IDs reais dos GamePasses/DevProducts Roblox.
+
+## 2026-07-14 — Expansão do Catálogo Epic/Fortnite Creative para 1000 Mapas
+
+- [x] **Escalabilidade:** Executado `epic/maps.py --count=1000` expandindo o catálogo em `epic/maps.json` de 200 para 1000 mapas originais.
+- [x] **Conformidade de IP e Validação:** Rodado `epic/maps.py --count=1000 --check` retornando `VERDICT PASS`. Todos os 1000 mapas estão no range de preço correto ($2.99 – $9.99) e livres de referências a IPs de terceiros.
+- [x] **Recálculo de Projeções:**
+  - Receita bruta potencial básica do catálogo (1 compra por mapa): **$6.484,54** (preço médio de ~$6,48 por mapa).
+  - Receita anual líquida estimada da frente Epic: **$285.322,40** (com base em 1000 mapas vendendo em média 50 vezes por ano, considerando a taxa de 12% da Epic).
+  - Meta de receita mensal Epic elevada de **US$ 10k/mês** para **US$ 50k/mês** com 1000 mapas (elevando o target operacional global para **US$ 80k/mês**).
+- [x] **Documentação:** Atualizados [MONETIZACAO_ESTIMADA.md](file:///C:/Users/forrydev/desktop/icongamedev/MONETIZACAO_ESTIMADA.md), [PLANO_100K_14_AGENTES.md](file:///C:/Users/forrydev/desktop/icongamedev/PLANO_100K_14_AGENTES.md) e [README.md](file:///C:/Users/forrydev/desktop/icongamedev/epic/README.md).
+

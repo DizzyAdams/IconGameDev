@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "High-Contrast 64x Pack v2",
+    "description": "A high-contrast 64x texture pack variant 2. Procedurally generated with unique noise profile.",
+    "uuid": "c73b7313-a098-4f82-8fc5-3c1c72cd8512",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9d245529-d2df-4116-8ffc-ebaad84fcf0d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

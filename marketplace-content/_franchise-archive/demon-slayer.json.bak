@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Moon Breathing Slayers\",\n    \"description\": \"8 moon breathing slayer skins with elemental blade aesthetics. (adapted from: 8 Demon Slayer skins! Tanjiro, Nezuko, Zenitsu, Inosuke, Rengoku, Shinobu, Giyu, Mitsuri.)\",\n    \"uuid\": \"b239c269a-0377-b9ee-0416-0023896aac90\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"b4b06477e-b75e-ecab-0b86-00af218a3c06\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "demon-slayer",
+  "old_name": "Moon Breathing Slayers"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 1815",
+    "description": "Animal Skins 1815",
+    "uuid": "cec9652f-f771-4f2f-a5d5-f4a03d3644df",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8a942578-fc2b-4a8b-8a8a-30d9d092ad57",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

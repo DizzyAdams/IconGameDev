@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 2331",
+    "description": "Sports Skins 2331",
+    "uuid": "64b6694f-3e7b-4e4d-8234-870a9128a81c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "00bc0b35-ce3e-4b3c-9dd9-216cd4c45f32",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

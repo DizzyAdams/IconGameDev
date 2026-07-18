@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1185",
+    "description": "Winter Skins 1185",
+    "uuid": "5313e9b1-d73e-4db3-8e4a-5c8c559cb4f0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d0af67ec-c728-4d56-a92d-1a9059e667d5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

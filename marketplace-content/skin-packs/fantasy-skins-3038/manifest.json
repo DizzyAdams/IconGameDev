@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 3038",
+    "description": "Fantasy Skins 3038",
+    "uuid": "e27bec85-a3d0-4da9-90e8-8b639bcff97a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "39f5cfea-f7c7-4e62-ba9a-8c82faedca84",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

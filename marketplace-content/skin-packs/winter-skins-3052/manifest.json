@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 3052",
+    "description": "Winter Skins 3052",
+    "uuid": "e5e65df6-9d55-439c-82e6-368fe4eeed48",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "82bd12b6-f0fe-479f-b08c-791ee3745b2c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

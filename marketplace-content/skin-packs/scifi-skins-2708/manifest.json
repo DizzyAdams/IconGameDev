@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2708",
+    "description": "Scifi Skins 2708",
+    "uuid": "4ad2efa2-c19d-44ff-b1f2-55d960c2a39e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8c7f968b-d337-4094-834d-ade682dfc220",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

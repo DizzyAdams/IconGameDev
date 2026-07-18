@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 2731",
+    "description": "Myth Skins 2731",
+    "uuid": "b2a989fc-d353-415f-a2e4-0b19acc42f57",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5357af24-801e-494f-87f0-55dc4dd52259",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 1829",
+    "description": "Fantasy Skins 1829",
+    "uuid": "9f6e9a08-09eb-488f-ad72-65d2b208052a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b7d0c57e-c88b-4f4e-afcb-5696d081feae",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 2171",
+    "description": "Medieval Skins 2171",
+    "uuid": "72ee35be-a6f7-4846-8dfa-1c7c5e7a8861",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5f49438f-6c29-48aa-b356-7939cc896a86",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

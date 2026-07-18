@@ -1,0 +1,47 @@
+; IconMineMods — zona DNS (importar no registrar / Vercel)
+; Apex aponta para Vercel anycast. www e mail configurados abaixo.
+; Repita esta zona para cada TLD (.com, .org, .com.br).
+
+$TTL 3600
+@   IN  SOA ns1.vercel-dns.com. admin.iconminemods.com. (
+        2026010101 ; serial (YYYYMMDDnn)
+        7200       ; refresh
+        3600       ; retry
+        1209600    ; expire
+        3600 )     ; minimum
+
+; Nameservers (Vercel)
+@       IN  NS  ns1.vercel-dns.com.
+@       IN  NS  ns2.vercel-dns.com.
+
+; Apex -> Vercel (HTTP/HTTPS + IPv6 tratados no edge Vercel)
+@       IN  A   76.76.21.21
+
+; WWW -> Vercel (CNAME flattening)
+www     IN  CNAME   cname.vercel-dns.com.
+
+; ---------------------------------------------------------------
+; Email — Microsoft 365 (ajuste o seletor DKIM conforme a M365)
+; ---------------------------------------------------------------
+@       IN  MX  10  iconminemods-com.mail.protection.outlook.com.
+
+; SPF
+@       IN  TXT "v=spf1 include:spf.protection.outlook.com -all"
+
+; DKIM (adicione o registro do seletor fornecido pela M365, ex.):
+; selector1._domainkey IN TXT "v=DKIM1; k=rsa; p=<CHAVE_PUBLICA_M365>"
+
+; DMARC
+_dmarc  IN  TXT "v=DMARC1; p=quarantine; rua=mailto:dmarc@iconminemods.com; adkim=s; aspf=s"
+
+; ---------------------------------------------------------------
+; Verificacao de propriedade de domínio
+; ---------------------------------------------------------------
+; Microsoft 365 (substitua pelo valor gerado na M365):
+@       IN  TXT "MS=msXXXXXXXX"
+
+; Google Search Console (substitua pelo codigo):
+; @   IN  TXT "google-site-verification=XXXXXXXX"
+
+; Bing Webmaster (substitua pelo codigo):
+; @   IN  TXT "BingSiteAuth.xml=XXXXXXXX"

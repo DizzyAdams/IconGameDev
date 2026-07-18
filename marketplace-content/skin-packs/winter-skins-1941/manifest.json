@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1941",
+    "description": "Winter Skins 1941",
+    "uuid": "bfdda999-0eb1-4a16-bb29-07edab867a67",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9bc7108c-8794-47d5-8c3b-9bde31bdd2ee",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

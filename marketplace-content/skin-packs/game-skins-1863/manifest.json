@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1863",
+    "description": "Game Skins 1863",
+    "uuid": "1e4179e4-71dd-401e-8021-9c16acbd66ab",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "18545b57-2012-4262-a50b-bbd35a4ec150",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

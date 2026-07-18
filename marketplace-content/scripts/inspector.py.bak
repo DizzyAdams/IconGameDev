@@ -1,0 +1,83 @@
+import os, json, shutil, zipfile
+from pathlib import Path
+
+BASE = Path('/c/Users/forrydev/Desktop/bedrock_minemods/marketplace-content')
+DIST = BASE / 'dist'
+INSP = DIST.parent / 'inspected'
+
+THEMES = [
+    '16x-textures',
+    'cyber',
+    'neon',
+    'medieval',
+    'anime',
+    'metal',
+    'pixel',
+    'future',
+    'palette',
+    'steve',
+    'alex',
+    'skin',
+    'contrast',
+    'soft',
+    'shade',
+    'pixelate'
+]
+
+# Find 3 representative low-number filenames from actual directory listing
+available = sorted(DIST.glob('*.mcpack'))
+samples = [p.name for p in available[:3]]
+print('Samples:', samples)
+
+for name in samples:
+    stem = name.replace('.mcpack','')
+    target = INSP / stem
+    target.mkdir(parents=True, exist_ok=True)
+    with zipfile.ZipFile(DIST / name, 'r') as z:
+        z.extractall(target)
+
+# List files and read chosen manifest/skins.json
+report = []
+report.append('# Inspection report\n')
+for name in samples:
+    stem = name.replace('.mcpack','')
+    target = INSP / stem
+    files = []
+    for p in sorted(target.rglob('*')):
+        if p.is_file():
+            files.append(str(p.relative_to(target)))
+    report.append(f'## {name}\n')
+    for f in files:
+        report.append(f'- {f}\n')
+    manifest_path = target / 'manifest.json'
+    report.append(f"- manifest_exists={manifest_path.exists()}\n")
+    if manifest_path.exists():
+        try:
+            m = json.loads(manifest_path.read_text(encoding='utf-8'))
+            header = m.get('header', {}) if isinstance(m, dict) else {}
+            modules = m.get('modules', []) if isinstance(m, dict) else []
+            report.append(f"- header.name={header.get('name')}\n")
+            report.append(f"- header.uuid={header.get('uuid')}\n")
+            mod_uuids = [x.get('uuid') for x in modules if isinstance(x, dict)]
+            report.append(f"- modules={len(modules)} mod_uuids={mod_uuids}\n")
+            name_text = str(header.get('name') or '')
+            matched = [t for t in THEMES if t.lower() in name_text.lower()]
+            report.append(f"- matched_themes={matched}\n")
+        except Exception as e:
+            report.append(f'- manifest_error={e}\n')
+    skins_path = target / 'skins.json'
+    report.append(f"- skins_exists={skins_path.exists()}\n")
+    if skins_path.exists():
+        try:
+            s = json.loads(skins_path.read_text(encoding='utf-8'))
+            count = len(s.get('skins', [])) if isinstance(s, dict) else -1
+            report.append(f"- skins_count={count}\n")
+        except Exception as e:
+            report.append(f'- skins_error={e}\n')
+    report.append('\n')
+
+result = '\n'.join(report)
+out = BASE / 'inspection-report.md'
+out.write_text(result, encoding='utf-8')
+print(result)
+print('WROTE', out)

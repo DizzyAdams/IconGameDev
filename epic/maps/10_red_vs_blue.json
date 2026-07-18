@@ -1,0 +1,82 @@
+{
+  "template": "red-vs-blue",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Red vs Blue — Combate Clássico em Equipe",
+  "description": "Time Vermelho vs Time Azul em arena simétrica. O time que atingir 50 kills primeiro vence. Respawn instantâneo na base. Armas pré-definidas. Puro combate sem construções.",
+  "tags": ["red-vs-blue", "pvp", "team", "no-build", "casual", "arena"],
+
+  "island": {
+    "type": "flat_grid_48x48",
+    "template_id": "island_rvb",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+
+  "game_settings": {
+    "max_players": 16,
+    "game_mode": "team_deathmatch",
+    "team_size": [8],
+    "kill_target": 50,
+    "allow_respawn": true,
+    "respawn_delay_sec": 1,
+    "respawn_mode": "team_base",
+    "respawn_safe_sec": 2,
+    "starting_health": 100,
+    "starting_shield": 100,
+    "gravity": 1.0,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "build_permission": "none",
+    "edit_permission": "none"
+  },
+
+  "arena_layout": {
+    "style": "symmetrical_bases",
+    "red_base": {"x": -20, "y": 1, "z": 0},
+    "blue_base": {"x": 20, "y": 1, "z": 0},
+    "center_platform": {"x": 0, "y": 1, "z": 0},
+    "cover_objects": true,
+    "cover_density": "medium",
+    "lane_count": 3,
+    "elevation_variation": true,
+    "obstacle_types": ["barriers", "half_walls", "tires", "shipping_containers_small"]
+  },
+
+  "loot_pool": {
+    "loadout": {
+      "red_team": {
+        "weapons": ["rifle_assault_rare", "shotgun_pump_rare", "smg_tactical_rare"],
+        "consumables": ["shield_potion_x2", "minis_x2", "medkit"],
+        "grenades": ["frag_grenade_x2"]
+      },
+      "blue_team": {
+        "weapons": ["rifle_scar_rare", "shotgun_tactical_epic", "smg_tactical_rare"],
+        "consumables": ["shield_potion_x2", "minis_x2", "medkit"],
+        "grenades": ["frag_grenade_x2"]
+      }
+    },
+    "power_weapon_spawns": [
+      {"weapon": "sniper_bolt_epic", "position": {"x": 0, "y": 5, "z": 0}, "respawn_sec": 30},
+      {"weapon": "rpg", "position": {"x": -5, "y": 2, "z": -8}, "respawn_sec": 45},
+      {"weapon": "minigun", "position": {"x": 5, "y": 2, "z": 8}, "respawn_sec": 45}
+    ]
+  },
+
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "item_granter", "grant_on_spawn": true, "loadout_key": "team_specific"},
+    {"type": "respawn_manager", "respawn_delay_sec": 1, "respawn_at_base": true},
+    {"type": "elimination_scoreboard", "target_score": 50},
+    {"type": "team_settings", "team_0_name": "Red Team", "team_0_color": "#FF0000",
+     "team_1_name": "Blue Team", "team_1_color": "#0000FF"},
+    {"type": "power_weapon_spawner", "spawns": "power_weapon_spawns"},
+    {"type": "barrier", "bounding_box": {"x_min": -24, "x_max": 24, "z_min": -24, "z_max": 24}, "max_height": 30},
+    {"type": "scoreboard", "visible": true, "sort_by": "kills", "show_team_totals": true}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Red vs Blue"]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 1832",
+    "description": "Cute Skins 1832",
+    "uuid": "983cc43c-3585-49f2-be0d-1d900517bce0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "efeb9870-b8d6-4f48-8a00-b73aa35da49e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

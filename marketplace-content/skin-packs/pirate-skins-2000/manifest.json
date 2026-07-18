@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 2000",
+    "description": "Pirate Skins 2000",
+    "uuid": "a9b16fb1-961b-4155-be10-b3d42e51ddd7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "679629c4-1952-4aab-931c-a748d4927963",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

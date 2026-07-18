@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon 32x Pack v8",
+    "description": "A neon 32x texture pack variant 8. Procedurally generated with unique noise profile.",
+    "uuid": "320999db-86b7-4bf5-8996-29057db59ca6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "34dbb7d0-bdbb-437c-9d8e-9ded9cda0b37",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

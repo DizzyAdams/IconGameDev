@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Faithful Textures 0220",
+    "description": "Faithful Textures 0220",
+    "uuid": "1af67a81-5068-4520-aef0-430776015d52",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "61d2bab3-f4b3-4179-a509-88471c5a1685",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

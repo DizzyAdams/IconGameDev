@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 3001",
+    "description": "Robot Skins 3001",
+    "uuid": "a86b5c8a-5a0d-43db-a8e1-2c0edd11acb0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8abd651c-302d-481a-af3a-e8bea8bde9f1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

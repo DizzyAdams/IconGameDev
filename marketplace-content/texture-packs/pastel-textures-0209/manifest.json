@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pastel Textures 0209",
+    "description": "Pastel Textures 0209",
+    "uuid": "f5f4ec18-457d-40e5-b374-7ecfbb163df5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8a71872c-e0b0-45a5-8ea8-61fbd3ff9d3a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

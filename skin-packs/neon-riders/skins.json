@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "NeonRiders_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NeonRiders_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NeonRiders_12.png",
+      "type": "free"
+    }
+  ]
+}

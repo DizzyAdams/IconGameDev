@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 2825",
+    "description": "Music Skins 2825",
+    "uuid": "a6981e94-a190-4235-b640-04f8f9bc78e2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ac39bd55-acd5-44c1-be6a-f10af2ca1e34",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

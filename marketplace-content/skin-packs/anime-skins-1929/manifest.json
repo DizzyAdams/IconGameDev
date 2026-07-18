@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1929",
+    "description": "Anime Skins 1929",
+    "uuid": "2d90d027-f556-4baf-9140-c702fe806be8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "69098977-1370-475e-898b-9dbc7145d190",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

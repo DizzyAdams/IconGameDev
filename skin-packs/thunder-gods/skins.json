@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "ThunderGods_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ThunderGods_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThunderGods_12.png",
+      "type": "free"
+    }
+  ]
+}

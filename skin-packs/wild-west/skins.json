@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "WildWest_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WildWest_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WildWest_12.png",
+      "type": "free"
+    }
+  ]
+}

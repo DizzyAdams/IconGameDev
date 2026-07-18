@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vintage 64x Pack v9",
+    "description": "A vintage 64x texture pack variant 9. Procedurally generated with unique noise profile.",
+    "uuid": "3c5a1fec-6049-4d47-b96a-a9b46ff106a1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "908959b4-f473-4512-9773-d9e3e905f249",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

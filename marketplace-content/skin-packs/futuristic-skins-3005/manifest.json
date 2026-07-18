@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 3005",
+    "description": "Futuristic Skins 3005",
+    "uuid": "f6271f5f-1e66-4e04-ae62-c7ecbd675ba7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "05e34c77-98b5-4b74-a4b9-d31713006cb3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

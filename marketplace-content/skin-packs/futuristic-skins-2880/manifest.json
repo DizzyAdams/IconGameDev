@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 2880",
+    "description": "Futuristic Skins 2880",
+    "uuid": "7dc923f2-f02c-4370-b31b-f12fd2cb6b9e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "53c5ad24-15c2-470e-8155-7a1598a7d7a9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

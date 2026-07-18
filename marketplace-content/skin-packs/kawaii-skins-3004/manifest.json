@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 3004",
+    "description": "Kawaii Skins 3004",
+    "uuid": "1a845365-3737-4b25-b873-cbed17f5b995",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5e16ce31-0855-46c3-b27e-3cf8a2b309eb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1057",
+    "description": "Myth Skins 1057",
+    "uuid": "b13a8ab0-77a8-4138-90eb-5e2b41d313c4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "434abfdb-b97d-4f09-98be-e60b4fe42fca",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

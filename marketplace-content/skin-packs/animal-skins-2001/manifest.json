@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 2001",
+    "description": "Animal Skins 2001",
+    "uuid": "7bcc9618-5586-4b28-aa7b-beacbe5ff636",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "348a1c85-c7c8-4ffb-9e4e-f3c7c0efbc8e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

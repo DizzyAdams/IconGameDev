@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 3104",
+    "description": "Superhero Skins 3104",
+    "uuid": "34379674-6614-4f37-832f-168338bc1fd4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "baf2241e-4a28-49f7-9970-78d5ee41f475",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

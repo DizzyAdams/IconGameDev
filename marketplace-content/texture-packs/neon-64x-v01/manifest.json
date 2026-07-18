@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon 64x Pack v2",
+    "description": "A neon 64x texture pack variant 2. Procedurally generated with unique noise profile.",
+    "uuid": "9c500de2-8bca-4c9a-840b-61ec9c64efac",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "80565534-5ba2-49f2-bffd-85bf2a8ff8f5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

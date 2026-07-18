@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "GhostPirates_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GhostPirates_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GhostPirates_12.png",
+      "type": "free"
+    }
+  ]
+}

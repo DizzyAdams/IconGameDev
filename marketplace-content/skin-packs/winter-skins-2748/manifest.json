@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2748",
+    "description": "Winter Skins 2748",
+    "uuid": "695decee-991c-473b-bcc2-146ddbc47d98",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b0f0f1e9-3437-4523-9b74-8259dc3d34d8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

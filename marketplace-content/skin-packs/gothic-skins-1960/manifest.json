@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Gothic Skins 1960",
+    "description": "Gothic Skins 1960",
+    "uuid": "11601161-02e9-45ee-ad10-5af255c2a827",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9448eaa9-1049-45d1-b968-ecdd28ca5ca1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

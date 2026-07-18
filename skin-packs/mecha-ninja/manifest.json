@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mecha Ninja",
+    "description": "12 cyber-ninja skins with tech blades, holographic cloaks, and targeting visors.",
+    "uuid": "c2ac4f74-22ed-5700-051a-36747115e026",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b48d33ce-20e9-fd5a-7de6-8388521ebf79",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 8.99,
+    "price_mc": 1360,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

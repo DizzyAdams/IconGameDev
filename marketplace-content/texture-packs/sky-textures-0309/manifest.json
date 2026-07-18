@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sky Textures 0309",
+    "description": "Sky Textures 0309",
+    "uuid": "52805e58-5df0-40d2-a1f0-a6179829a26d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5461c612-e1db-4506-a96f-781c4fcda8ae",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

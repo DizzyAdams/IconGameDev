@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 0878",
+    "description": "Modern Skins 0878",
+    "uuid": "a4bd7c27-7387-46b9-9093-b8b42ddf3ad3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2e96e159-c4d2-4a88-a6e1-925f03183664",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

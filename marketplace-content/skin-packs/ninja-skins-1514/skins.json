@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Ninja1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Ninja Skins 1514",
+  "localization_name": "Ninja Skins 1514"
+}

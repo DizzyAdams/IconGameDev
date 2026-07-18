@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1350",
+    "description": "Winter Skins 1350",
+    "uuid": "dd885045-e929-4251-bb54-34344b464192",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9e8ec89a-65fc-4d57-b73d-f275436db5e0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

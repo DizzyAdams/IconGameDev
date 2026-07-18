@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "8Bit Textures 0086",
+    "description": "8Bit Textures 0086",
+    "uuid": "3bf26cfe-ebe7-4f2b-9b8b-c5900449c641",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "02f32f71-e690-4cfc-862f-7c4a0a821f66",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

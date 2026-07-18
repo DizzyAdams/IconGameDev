@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 1978",
+    "description": "Robot Skins 1978",
+    "uuid": "179da822-9ed0-4f32-bd7d-3ae6435d1277",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8042f422-1941-43cb-8246-4d5f56f08f9f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

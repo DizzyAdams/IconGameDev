@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 2845",
+    "description": "Movie Skins 2845",
+    "uuid": "f1be9eaa-569d-450e-999e-29a922b83f5b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bc93f6bc-19b2-420d-a545-add633b29ddc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

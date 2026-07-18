@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 2768",
+    "description": "Animal Skins 2768",
+    "uuid": "7d56f71d-3d7f-4304-994c-015495b76ae0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7d4cf531-43d4-4160-9857-db77133f34fd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

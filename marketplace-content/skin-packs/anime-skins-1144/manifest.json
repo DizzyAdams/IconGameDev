@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1144",
+    "description": "Anime Skins 1144",
+    "uuid": "02ec31be-8a76-4bf0-be6a-8883c795d461",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4c3a3ad5-c57b-4a7c-8b8c-f18cffdf476e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rojo-rbx/rojo/master/schema/v7/project.json",
+  "name": "PetSanctuary",
+  "tree": {
+    "ReplicatedStorage": {
+      "$path": "ReplicatedStorage",
+      "RemoteEvents": {
+        "$className": "Folder",
+        "ShopPurchase": {
+          "$className": "RemoteEvent"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$path": "ServerScriptService"
+    },
+    "StarterPlayer": {
+      "$path": "StarterPlayer"
+    }
+  }
+}

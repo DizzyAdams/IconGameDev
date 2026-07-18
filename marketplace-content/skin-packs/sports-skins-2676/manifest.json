@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 2676",
+    "description": "Sports Skins 2676",
+    "uuid": "f39d8741-a340-49a3-a04b-8e25522e53af",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "80b7b894-046b-49ab-b498-07b1790d612d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

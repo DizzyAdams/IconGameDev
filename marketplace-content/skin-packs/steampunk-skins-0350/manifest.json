@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 0350",
+    "description": "Steampunk Skins 0350",
+    "uuid": "3b8e5f22-b7bc-4908-8c4e-70b1a60e4620",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "063b2b45-5cc5-465e-a763-b34da7595eb2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

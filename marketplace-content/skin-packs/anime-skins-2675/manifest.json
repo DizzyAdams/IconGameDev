@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2675",
+    "description": "Anime Skins 2675",
+    "uuid": "33a8c04d-3845-449f-a320-77dd000d7793",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b51e53fc-2e36-4fe4-ab10-4ef4100811a6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

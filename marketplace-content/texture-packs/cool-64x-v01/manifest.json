@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cool 64x Pack v2",
+    "description": "A cool 64x texture pack variant 2. Procedurally generated with unique noise profile.",
+    "uuid": "413b958a-4fa3-4873-a788-7fcc94d35c02",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2cca4022-9a9a-441e-8b8f-c69cfe91a1dd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

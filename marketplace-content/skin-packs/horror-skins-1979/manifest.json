@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1979",
+    "description": "Horror Skins 1979",
+    "uuid": "68607070-7780-4186-ab1b-8518388be446",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a2ddb0b8-c1c3-4e09-9ec1-51e0ea8bf6b4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

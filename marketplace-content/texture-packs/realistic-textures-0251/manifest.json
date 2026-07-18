@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Realistic Textures 0251",
+    "description": "Realistic Textures 0251",
+    "uuid": "3ba44263-5906-4639-b717-79194fc6615b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0d2db31b-633e-4e47-84b2-5bf8d0d17e58",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

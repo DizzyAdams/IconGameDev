@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "DesertNomads_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DesertNomads_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DesertNomads_12.png",
+      "type": "free"
+    }
+  ]
+}

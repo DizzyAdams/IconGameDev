@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1967",
+    "description": "Myth Skins 1967",
+    "uuid": "8334e875-fdb7-45d0-af45-bc67f6c50a88",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8ff7c0fd-84b3-46bd-8022-8b319fb2a387",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

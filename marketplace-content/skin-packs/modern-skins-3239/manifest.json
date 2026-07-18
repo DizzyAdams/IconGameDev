@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 3239",
+    "description": "Modern Skins 3239",
+    "uuid": "a5b4f85f-2c7d-421f-9000-5d5db8af96ac",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d2539e38-bb30-4a3d-8678-e5e098816ded",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

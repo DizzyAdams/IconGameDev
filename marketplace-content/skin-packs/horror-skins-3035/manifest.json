@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 3035",
+    "description": "Horror Skins 3035",
+    "uuid": "0cd93211-9f51-4a8e-8657-18e57dfeecd1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "312f3a19-47de-43b3-95b3-c733ed6e6133",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

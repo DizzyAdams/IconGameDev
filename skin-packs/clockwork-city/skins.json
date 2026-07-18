@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "ClockworkCity_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ClockworkCity_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ClockworkCity_12.png",
+      "type": "free"
+    }
+  ]
+}

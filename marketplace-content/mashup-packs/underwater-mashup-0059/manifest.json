@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Underwater Mashup 0059",
+    "description": "Underwater Mashup 0059",
+    "uuid": "64ff8269-fee1-42ff-9d39-1085efca64c3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "7f96e968-7f64-48ce-ac48-4c1ce00af120",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

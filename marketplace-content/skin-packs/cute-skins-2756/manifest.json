@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 2756",
+    "description": "Cute Skins 2756",
+    "uuid": "0766e057-efdc-40dc-953c-d4a332451985",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "297463dd-7b89-462a-9e4a-3c9f0f16b9d6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

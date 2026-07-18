@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 0495",
+    "description": "Sports Skins 0495",
+    "uuid": "848f2ceb-933f-4ba9-8f90-8a6cfd5c42d1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f73d2e45-e064-4201-97f4-890a45d966a1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "ToxicWasteland_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ToxicWasteland_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ToxicWasteland_12.png",
+      "type": "free"
+    }
+  ]
+}

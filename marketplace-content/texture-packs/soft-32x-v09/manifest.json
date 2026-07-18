@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Soft 32x Pack v10",
+    "description": "A soft 32x texture pack variant 10. Procedurally generated with unique noise profile.",
+    "uuid": "e65b40f0-275a-40ae-89ec-6268c91c7fb3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5bd6b5d9-39f1-4f64-b2de-1afa6539227d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

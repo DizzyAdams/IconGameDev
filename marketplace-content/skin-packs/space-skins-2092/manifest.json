@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 2092",
+    "description": "Space Skins 2092",
+    "uuid": "07ac27f9-4253-45d7-888e-f9bb8ffe7c8a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "09b971ed-245b-4b2b-859a-e2386944c14a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

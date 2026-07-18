@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Titan Strike Warriors\",\n    \"description\": \"8 titan strike warrior skins for aerial combat fans. (adapted from: 8 Attack on Titan skins! Eren, Mikasa, Levi, Armin, Hange, Erwin, Reiner, Annie.)\",\n    \"uuid\": \"bc81ff0eb-c59f-a3d7-2957-009c9b1d26ad\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"b4a834003-ab7d-504c-1ffa-00def0d52c6b\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "attack-on-titan",
+  "old_name": "Titan Strike Warriors"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Prison World 0203",
+    "description": "Prison World 0203",
+    "uuid": "e61d8d1a-d997-4b99-9135-0a0acc3eeb13",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "6492a815-1573-4145-98ae-b7d3f135cc5f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1840",
+    "description": "Horror Skins 1840",
+    "uuid": "a460c5cc-88d2-4eaf-81d9-783dc81365b6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4978d2e4-f2fc-42fb-8a4d-b26547ded070",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 1372",
+    "description": "Cute Skins 1372",
+    "uuid": "fd2f6bd1-1a5b-4e4c-907d-b79b11494f12",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "63c49f52-db99-4ecb-b337-e66bc63d9415",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

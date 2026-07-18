@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 3091",
+    "description": "Pirate Skins 3091",
+    "uuid": "ddbc0110-d437-42a2-a491-3c1d1b974a0b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6a4e0a4e-cad6-4a9f-b14d-464a0f4accef",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

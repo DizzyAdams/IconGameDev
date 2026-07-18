@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2042",
+    "description": "Scifi Skins 2042",
+    "uuid": "c8c7684e-f047-482c-b0d9-df26af849b0c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "00a746b9-7d25-45bd-804b-8e24ae54cada",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

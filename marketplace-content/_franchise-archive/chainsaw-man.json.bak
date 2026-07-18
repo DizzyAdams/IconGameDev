@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Devil Heart Heroes\",\n    \"description\": \"8 devil heart hero skins with chaotic battle energy. (adapted from: 8 Chainsaw Man skins! Denji, Power, Makima, Aki, Kobeni, Himeno, Beam, Angel.)\",\n    \"uuid\": \"b0c39c603-ae8c-55c6-c2d0-00013fd6bde0\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"bf0fb7af3-2d89-3751-4954-002129a5628d\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "chainsaw-man",
+  "old_name": "Devil Heart Heroes"
+}

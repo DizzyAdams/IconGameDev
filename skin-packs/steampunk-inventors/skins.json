@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "SteampunkInventors_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteampunkInventors_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SteampunkInventors_12.png",
+      "type": "free"
+    }
+  ]
+}

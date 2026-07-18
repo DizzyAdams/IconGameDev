@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 1982",
+    "description": "Scifi Skins 1982",
+    "uuid": "6c1d6200-ca7d-4314-b89e-b853497aa788",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f581ea43-d7a8-439c-b8b6-af4492207c66",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

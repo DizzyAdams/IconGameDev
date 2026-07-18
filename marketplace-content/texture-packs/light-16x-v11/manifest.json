@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Light 16x Pack v12",
+    "description": "A light 16x texture pack variant 12. Procedurally generated with unique noise profile.",
+    "uuid": "f6789aaf-1d55-42e2-9156-8aead02e7aaa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "35e55107-f4fd-4476-9f6d-87756a8f24c7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

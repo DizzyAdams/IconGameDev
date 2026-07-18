@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1004",
+    "description": "Horror Skins 1004",
+    "uuid": "c22e0073-baa1-44cd-a0c3-101bd8d40b14",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b99ce2e3-eb60-4b26-a948-683501ca4842",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 1943",
+    "description": "Pirate Skins 1943",
+    "uuid": "cef83e45-79a0-443a-95b5-a559081d40f9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9a194fe0-7381-43e7-8d92-b7f35da82bce",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

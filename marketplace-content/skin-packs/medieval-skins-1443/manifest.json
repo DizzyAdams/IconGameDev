@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 1443",
+    "description": "Medieval Skins 1443",
+    "uuid": "2de923b5-a7f2-43a1-beed-e9e9b632625c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "dc7e00d6-06c9-437f-8e68-10a789a00a8d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

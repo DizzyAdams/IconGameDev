@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nocturnal 32x Pack v4",
+    "description": "A nocturnal 32x texture pack variant 4. Procedurally generated with unique noise profile.",
+    "uuid": "5ffc2957-26ac-4690-af4c-7586b021e659",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d4fb30b4-f1d4-4392-a933-84825ca227d7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

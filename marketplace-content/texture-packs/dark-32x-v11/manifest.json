@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark 32x Pack v12",
+    "description": "A dark 32x texture pack variant 12. Procedurally generated with unique noise profile.",
+    "uuid": "adc91c03-7313-4f7d-8f7a-dfc0cbbccb57",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f7fb7da4-da38-4619-b60e-e76e87dd4260",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

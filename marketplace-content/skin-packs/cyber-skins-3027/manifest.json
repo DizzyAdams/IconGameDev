@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 3027",
+    "description": "Cyber Skins 3027",
+    "uuid": "9ef4fda3-21d9-4330-82c2-73fb1d94d256",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "17e7199c-a1cc-4fb3-8cbd-839dca23de00",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

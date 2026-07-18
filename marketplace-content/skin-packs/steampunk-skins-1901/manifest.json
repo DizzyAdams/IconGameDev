@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1901",
+    "description": "Steampunk Skins 1901",
+    "uuid": "46c650f1-209e-43e7-8839-d5625b2b18eb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4019cb13-fc1d-461d-92c4-a39a55480fd0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

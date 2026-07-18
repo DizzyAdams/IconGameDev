@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 0365",
+    "description": "Nature Skins 0365",
+    "uuid": "0c4117ff-7cca-49d2-a97b-3c410d430a75",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "582b8af9-d462-4c77-8b97-e0f91570023e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

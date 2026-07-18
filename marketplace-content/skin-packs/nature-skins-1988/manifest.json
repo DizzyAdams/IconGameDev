@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 1988",
+    "description": "Nature Skins 1988",
+    "uuid": "76a26358-8ad0-4f85-af17-5dbdb94acfbf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d2c38eb2-5cb1-4e92-a451-6c86ec0c7059",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

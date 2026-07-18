@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 2136",
+    "description": "Horror Skins 2136",
+    "uuid": "92a09ecf-aae3-4435-a4c2-8a69475c144a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2e9778e8-738a-4ff3-8d2c-754e67117b51",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

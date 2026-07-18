@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 3014",
+    "description": "Game Skins 3014",
+    "uuid": "519e2641-e065-46bf-9309-dc6035611011",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "20692344-5050-46cf-ba38-1197ff941846",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

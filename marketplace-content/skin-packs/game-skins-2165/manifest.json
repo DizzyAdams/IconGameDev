@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2165",
+    "description": "Game Skins 2165",
+    "uuid": "e10cc2d0-2d05-4c77-a87c-15eb4cbab50f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "53f0e4f3-7d9a-4b4e-b84f-a824d58fff80",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

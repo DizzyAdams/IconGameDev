@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 2853",
+    "description": "Robot Skins 2853",
+    "uuid": "16aa2913-1d8e-499f-bb77-d4b7fbb489dd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1c170005-1906-4d27-8c9e-904b0e4eae13",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

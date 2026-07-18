@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nocturnal 64x Pack v12",
+    "description": "A nocturnal 64x texture pack variant 12. Procedurally generated with unique noise profile.",
+    "uuid": "740595bf-4483-4bc1-aa04-ee3c051f052c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "68d4857b-8076-4861-ab3c-a2b9a6741500",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

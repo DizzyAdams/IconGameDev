@@ -1,44 +1,22 @@
 {
-  "format_version": 2,
-  "header": {
-    "name": "OP Swords Add-On",
-    "description": "Adds 5 overpowered swords with custom effects to make you unstoppable!",
-    "uuid": "05e8a408-4832-4e75-9f6c-6f76d09a16ff",
-    "version": [
-      1,
-      0,
-      0
-    ],
-    "min_engine_version": [
-      1,
-      20,
-      0
-    ]
-  },
-  "modules": [
-    {
-      "type": "data",
-      "uuid": "ae5f1534-b6de-48ab-91aa-910b7965bb42",
-      "version": [
-        1,
-        0,
-        0
-      ]
-    }
-  ],
-  "metadata": {
-    "authors": [
-      "Bedrock Mass Automation"
-    ],
-    "product_type": "behavior_pack",
-    "price": "$2.99",
-    "price_usd": {
-      "currency": "USD",
-      "amount": 2.99
+    "format_version": 2,
+    "header": {
+        "name": "OP Swords Add-On",
+        "description": "Adds 5 overpowered swords with custom effects to make you unstoppable!",
+        "uuid": "f00000000-0000-0000-0000-000000000001",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
     },
-    "price_mc": {
-      "currency": "MXN",
-      "amount": 478
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f00000000-0000-0000-0000-000000000002",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "authors": ["Bedrock Mass Automation"],
+        "product_type": "behavior_pack",
+        "price": "$2.99"
     }
-  }
 }

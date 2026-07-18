@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 2014",
+    "description": "Futuristic Skins 2014",
+    "uuid": "6182bea9-1c59-44f5-862a-ff4e72cad8d3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2b67aefa-4136-486e-be05-5986c30ec2fa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

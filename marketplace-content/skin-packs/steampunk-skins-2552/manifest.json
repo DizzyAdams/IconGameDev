@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2552",
+    "description": "Steampunk Skins 2552",
+    "uuid": "4847ba2f-5bf4-4f16-a7b9-0cfe47a3c508",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d10ab802-7fae-4b0c-875a-0bdd018f4a28",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 2194",
+    "description": "Retro Skins 2194",
+    "uuid": "ebdd2dd7-0db1-45c9-aeb5-0807f942626a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "25a2afca-c014-4685-a080-d8479584dbb5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

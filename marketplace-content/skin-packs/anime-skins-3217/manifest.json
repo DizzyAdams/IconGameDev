@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 3217",
+    "description": "Anime Skins 3217",
+    "uuid": "76562863-c327-429a-8d87-26407b764ae5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fd939b20-d23e-48b5-bf40-c1c6e6ceda99",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 2149",
+    "description": "Modern Skins 2149",
+    "uuid": "759aedfe-f475-4b55-b6d2-1807cde7f412",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5f92eb7a-f5f2-4e77-9e47-be63879a3ff2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

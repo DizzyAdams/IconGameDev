@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1526",
+    "description": "Game Skins 1526",
+    "uuid": "62f79579-847b-4ae0-9edf-2bff76c03b19",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "87f85a12-0550-4430-8b21-65d59b765854",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

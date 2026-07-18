@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 1123",
+    "description": "Tribal Skins 1123",
+    "uuid": "4d4fb21d-3594-45ae-ab19-9acf36facd5f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b5cd21dd-13c3-42fe-b766-5f0713b964f0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

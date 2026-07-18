@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 2644",
+    "description": "Cyber Skins 2644",
+    "uuid": "e2192b24-0df8-4f34-a0ea-5a10c5122236",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d967006d-561e-4ea7-8962-232a9b731826",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

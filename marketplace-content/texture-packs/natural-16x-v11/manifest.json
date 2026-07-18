@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Natural 16x Pack v12",
+    "description": "A natural 16x texture pack variant 12. Procedurally generated with unique noise profile.",
+    "uuid": "ee7fc64d-bc55-4119-902f-2d46244bdb6b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d0ba4cab-e424-4d60-9d9f-faf12130088f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

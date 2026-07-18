@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 1244",
+    "description": "Movie Skins 1244",
+    "uuid": "82dcf6b2-e3e1-47b3-bcbe-19d2afe5e568",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9e8ebf57-23e8-4e5f-b59c-54881c72e197",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

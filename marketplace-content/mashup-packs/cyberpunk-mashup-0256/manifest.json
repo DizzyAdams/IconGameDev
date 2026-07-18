@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyberpunk Mashup 0256",
+    "description": "Cyberpunk Mashup 0256",
+    "uuid": "ced6afd2-d18a-4baf-88e2-a58b062667f4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "b9dd68aa-614f-4994-a34f-50089e7a4b0c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

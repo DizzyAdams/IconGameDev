@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 2070",
+    "description": "Cyber Skins 2070",
+    "uuid": "ee372d4e-02a6-4bdc-ae23-be50ae37ec99",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1b62c727-5977-4ade-a4ca-cb75630c8080",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

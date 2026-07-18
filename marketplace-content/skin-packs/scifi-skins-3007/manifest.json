@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 3007",
+    "description": "Scifi Skins 3007",
+    "uuid": "b6a82307-8985-4867-9f3b-1136a9d48513",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7f26efee-4d6b-46c3-bdc7-080465b2bdfa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

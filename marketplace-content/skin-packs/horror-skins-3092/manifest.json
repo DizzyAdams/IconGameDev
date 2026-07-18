@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 3092",
+    "description": "Horror Skins 3092",
+    "uuid": "43abb675-66b8-4828-8cbe-4f354a48db7a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d6d109d0-44fa-49bf-8761-29a85876bf64",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

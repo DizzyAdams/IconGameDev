@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2912",
+    "description": "Ninja Skins 2912",
+    "uuid": "5e7ba8d3-65b4-4048-8346-60b599f780bb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "66de20c2-73e2-48d2-9166-2731c31f9741",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

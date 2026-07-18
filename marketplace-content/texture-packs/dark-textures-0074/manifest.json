@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark Textures 0074",
+    "description": "Dark Textures 0074",
+    "uuid": "c67955f5-a03c-4a27-9d59-eb199a9e99bb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2b8bda59-364e-41c6-91f1-2b34965808e7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

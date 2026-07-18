@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2257",
+    "description": "Winter Skins 2257",
+    "uuid": "6bf9e899-56d3-4871-88a9-39fb6691ff00",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "27aa5ec1-ca8b-4a5e-ad56-1a8771211f22",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 3112",
+    "description": "Kawaii Skins 3112",
+    "uuid": "efc3344d-b10a-4ec9-9dab-6de9a9f85d51",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b88b33a5-6aae-45ed-8065-58d7dcf60854",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

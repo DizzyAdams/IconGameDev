@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 3044",
+    "description": "Game Skins 3044",
+    "uuid": "0f47a0f4-7427-4a96-865a-462a65b508bd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bcb33353-b2ac-4276-9224-5a2d51160c57",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

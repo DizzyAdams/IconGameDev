@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Skins 1954",
+    "description": "Horror Skins 1954",
+    "uuid": "2494c3ee-e240-4026-8775-ad14a1d73fdb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3857ab03-fd05-4074-a662-74adbbc58cf2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

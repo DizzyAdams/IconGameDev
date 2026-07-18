@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2469",
+    "description": "Kawaii Skins 2469",
+    "uuid": "7ef686e1-4293-463d-bfea-cd8ec260aed2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "37303bac-e7b5-4da0-8d9b-32a2ffecf8fd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 2890",
+    "description": "Cyber Skins 2890",
+    "uuid": "aa44edc8-f451-4e0e-ac81-d050c1d2620f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "23729e7c-3a6a-491a-ac52-7885909c1ddb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

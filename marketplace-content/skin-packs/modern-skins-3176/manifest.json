@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 3176",
+    "description": "Modern Skins 3176",
+    "uuid": "8c7a7228-5ae1-4f17-b62a-6c9e197019c1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9a94001d-d5f5-4525-b4b6-d4ab12cae0ca",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

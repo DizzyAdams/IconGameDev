@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2854",
+    "description": "Ninja Skins 2854",
+    "uuid": "02e879a2-00dc-4474-953c-888b18ec68cb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3fca71b7-289f-4a6d-bbb1-4e3073b7a83c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

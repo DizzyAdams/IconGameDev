@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 1973",
+    "description": "Space Skins 1973",
+    "uuid": "87db25bd-3ccf-4b70-9e82-7123a790e28d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f4943504-4942-4057-a80a-1820757f3a39",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

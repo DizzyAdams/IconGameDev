@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Thunder Gods",
+    "description": "12 storm deity skins with lightning bolts, storm clouds, and thunder hammers.",
+    "uuid": "58f1ef8c-94dd-e4dd-707c-d29aadec059a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8ea538e2-b06c-2074-cdde-2a5286e0db9f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 9.99,
+    "price_mc": 1520,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

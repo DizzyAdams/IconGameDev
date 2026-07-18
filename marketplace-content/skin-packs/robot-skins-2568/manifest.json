@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 2568",
+    "description": "Robot Skins 2568",
+    "uuid": "16c7d15a-0aa9-467a-898a-665adc3e5ae1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fa44662e-441b-45f9-9007-78791b555933",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

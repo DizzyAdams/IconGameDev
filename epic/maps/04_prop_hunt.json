@@ -1,0 +1,71 @@
+{
+  "template": "prop-hunt",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Prop Hunt — Esconde-Esconde com Props",
+  "description": "Hunters vs Props. Props se disfarçam como objetos do cenário. Hunters têm tempo limitado para encontrar e eliminar todos. 3 rounds com troca de times.",
+  "tags": ["prop-hunt", "party", "hide-and-seek", "casual", "4v4", "8v8"],
+
+  "island": {
+    "type": "prefab_city_theme",
+    "template_id": "island_prop_hunt",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+
+  "game_settings": {
+    "max_players": 16,
+    "game_mode": "prop_hunt",
+    "team_size": [8],
+    "rounds_to_win": 2,
+    "round_time_sec": 180,
+    "allow_respawn": false,
+    "elimination_mode": "round_hunt",
+    "starting_health": 100,
+    "starting_shield": 0,
+    "gravity": 1.0,
+    "fall_damage": false,
+    "friendly_fire": false
+  },
+
+  "prop_settings": {
+    "initial_transform_time_sec": 10,
+    "prop_change_cooldown_sec": 5,
+    "prop_taunt_cooldown_sec": 3,
+    "teleport_on_discovery": false,
+    "prop_types": [
+      {"prefab": "barrel", "count": 20, "scale_range": [0.5, 1.5]},
+      {"prefab": "box_wood", "count": 15, "scale_range": [0.6, 1.8]},
+      {"prefab": "bench", "count": 8, "scale_range": [0.8, 1.2]},
+      {"prefab": "trash_can", "count": 10, "scale_range": [0.7, 1.3]},
+      {"prefab": "potted_plant", "count": 12, "scale_range": [0.5, 1.5]},
+      {"prefab": "table_small", "count": 6, "scale_range": [0.6, 1.4]},
+      {"prefab": "chair", "count": 10, "scale_range": [0.5, 1.5]},
+      {"prefab": "bush", "count": 15, "scale_range": [0.8, 2.0]}
+    ],
+    "visible_props_to_hunters": false
+  },
+
+  "hunter_settings": {
+    "weapon": "pistol_suppressed_rare",
+    "infinite_ammo": true,
+    "time_bonus_on_kill_sec": 10,
+    "scan_cooldown_sec": 30,
+    "scan_range_tiles": 20,
+    "starting_ammo": 999
+  },
+
+  "devices": [
+    {"type": "class_selector", "enabled": true, "classes": ["hunter", "prop"]},
+    {"type": "round_manager", "settings": {"round_time_sec": 180, "rounds_to_win": 2}},
+    {"type": "prop_mutator", "settings": "prop_settings"},
+    {"type": "item_granter", "class": "hunter", "weapons": ["pistol_suppressed_rare"]},
+    {"type": "hud_message", "prop_found_message": "Prop descoberto!", "round_end_message": "Round encerrado!"},
+    {"type": "scoreboard", "visible": true}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial Prop Hunt"]}
+  ]
+}

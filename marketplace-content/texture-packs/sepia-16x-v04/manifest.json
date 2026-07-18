@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sepia 16x Pack v5",
+    "description": "A sepia 16x texture pack variant 5. Procedurally generated with unique noise profile.",
+    "uuid": "4c8d965a-3c67-44aa-bad1-3e586d95a1d5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4759325c-a958-4591-bb04-e84c1058990b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

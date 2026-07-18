@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1992",
+    "description": "Ninja Skins 1992",
+    "uuid": "27e17587-7da3-4b8a-abe8-75b2aa937bca",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "7f00f24a-0810-48a1-ae99-4b8df88bfe95",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

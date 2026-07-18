@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 0948",
+    "description": "Superhero Skins 0948",
+    "uuid": "661bd316-ec72-4b59-b393-e0f2bb65f5b5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "80323df9-911f-4422-a043-b66d8cab3cf7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

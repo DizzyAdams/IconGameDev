@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Natural 64x Pack v2",
+    "description": "A natural 64x texture pack variant 2. Procedurally generated with unique noise profile.",
+    "uuid": "754e2cfc-7aa0-4ee8-86b9-fcfeb027b088",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4ac4e867-468d-4b1f-9e3a-31ee6c864268",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

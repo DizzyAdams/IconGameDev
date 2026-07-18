@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant 16x Pack v12",
+    "description": "A vibrant 16x texture pack variant 12. Procedurally generated with unique noise profile.",
+    "uuid": "03c1fce1-cb24-4d4e-b766-013642d7bcdc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7ed35ad5-0ae3-430d-8d3d-487f20e02b76",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -19,3 +19,8 @@ Shortest working diff wins.
 
 Not lazy about: input validation at trust boundaries, error handling preventing data loss, security, accessibility, explicit requests.
 Non-trivial logic leaves ONE runnable check behind (assert/self-check/one test file, no frameworks).
+
+## Pipeline operation
+- Daily orchestrator: `python ops/run_daily.py` (scale-products → package → quarantine IP → submit_gate --audit → payouts → certify → inventory). `--dry-run`, `--batch N`, `--skip-certify`. Scheduling instructions in the script header.
+- Product themes must never match `IP_BLOCKED` in `marketplace-content/scripts/audit_compliance.py` (anime/kawaii/franchises are quarantined).
+- Operation guide: `/admin/guia` page in website-next (session-protected) + `out/GUIA_OPERACAO.pdf` (regenerate with `python scripts/make_guia_operacao_pdf.py`).

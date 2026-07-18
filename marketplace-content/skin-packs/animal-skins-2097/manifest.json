@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 2097",
+    "description": "Animal Skins 2097",
+    "uuid": "da51c45b-c0d0-4a11-a9c4-213695bd2c0f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fe8fb490-790a-49e3-9c01-9aa8fd3c1ac6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

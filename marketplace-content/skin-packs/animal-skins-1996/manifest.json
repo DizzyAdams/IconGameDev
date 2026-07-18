@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 1996",
+    "description": "Animal Skins 1996",
+    "uuid": "30b47d7f-cad5-4224-8a57-97622e312170",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e0e10c65-e731-473d-9632-a661cc6f10e0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

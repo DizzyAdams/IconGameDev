@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "OceanWarriors_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OceanWarriors_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OceanWarriors_12.png",
+      "type": "free"
+    }
+  ]
+}

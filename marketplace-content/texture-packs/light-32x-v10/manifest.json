@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Light 32x Pack v11",
+    "description": "A light 32x texture pack variant 11. Procedurally generated with unique noise profile.",
+    "uuid": "7767cd4a-0f33-4727-9aa1-efe39c672e05",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "294ccb10-3ffe-41e8-b1f9-d0d9e72b94e2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 3024",
+    "description": "Ninja Skins 3024",
+    "uuid": "2d0fa38e-80c2-4864-9e4f-5dbc5c8c5932",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "159088bb-313b-4ee0-ac6d-34188b0ded44",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

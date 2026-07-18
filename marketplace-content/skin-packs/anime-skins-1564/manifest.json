@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1564",
+    "description": "Anime Skins 1564",
+    "uuid": "b0f9da33-edf1-46fa-9a30-65e3d256a6a2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e24e814a-9a8d-479a-b39c-da069ef3bb1d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 0622",
+    "description": "Steampunk Skins 0622",
+    "uuid": "74bdd8e2-821f-4b2f-b5c0-75162eb089d1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "63824187-dcca-4e13-9b10-4e76d859f00f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

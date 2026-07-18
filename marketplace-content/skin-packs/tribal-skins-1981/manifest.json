@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 1981",
+    "description": "Tribal Skins 1981",
+    "uuid": "99c80410-3cd5-4a0b-9e5b-7c5ab9653623",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d990d831-f8e5-4d64-95bb-304e72c12459",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 2600",
+    "description": "Beach Skins 2600",
+    "uuid": "e2660afc-b683-4fab-bea9-708f784a82e8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f6b83fde-4619-4742-9a17-f7bacec90bc6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

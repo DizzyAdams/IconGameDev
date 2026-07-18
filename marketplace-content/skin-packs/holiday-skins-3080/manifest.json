@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 3080",
+    "description": "Holiday Skins 3080",
+    "uuid": "b33d63fb-d2ba-4f32-a001-a57bf40be858",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9238fd78-dbca-41d8-b684-9a4fe081f23c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

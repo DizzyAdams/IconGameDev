@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "MagicAcademy_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MagicAcademy_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MagicAcademy_12.png",
+      "type": "free"
+    }
+  ]
+}

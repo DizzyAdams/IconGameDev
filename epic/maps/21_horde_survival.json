@@ -1,0 +1,58 @@
+{
+  "template": "horde-survival",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Horde Survival — Noite dos Zumbis",
+  "description": "4 jogadores contra ondas infinitas de zumbis. Cada 5 ondas um mini-boss aparece. Compre armas entre as ondas. Score baseado em ondas sobrevividas.",
+  "tags": ["horde", "pve", "coop", "survival", "4-player", "zombie"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_horde_survival",
+    "starting_weather": "rain",
+    "time_of_day": "night",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 4,
+    "min_players": 1,
+    "game_mode": "horde_survival",
+    "team_size": [4],
+    "allow_respawn": true,
+    "respawn_delay_sec": 15,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "elimination_mode": "lives_exhausted",
+    "starting_health": 100,
+    "starting_shield": 0,
+    "starting_materials": {"wood": 50, "stone": 0, "metal": 0},
+    "harvest_rate_multiplier": 2.0,
+    "lives_pool": 20
+  },
+  "wave_settings": {
+    "total": 30,
+    "enemy_scaling": "exponential",
+    "boss_interval": 5
+  },
+  "economy": {
+    "type": "gold",
+    "earn_per_kill": 10,
+    "earn_per_wave": 50
+  },
+  "shop": {
+    "items": [
+      {"name": "pistol", "cost": 100},
+      {"name": "shotgun", "cost": 300},
+      {"name": "rifle", "cost": 500},
+      {"name": "sniper", "cost": 800},
+      {"name": "shield_potion", "cost": 150}
+    ]
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 15},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Horde Survival"]}
+  ]
+}

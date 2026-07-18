@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "AquaticDepths_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AquaticDepths_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AquaticDepths_12.png",
+      "type": "free"
+    }
+  ]
+}

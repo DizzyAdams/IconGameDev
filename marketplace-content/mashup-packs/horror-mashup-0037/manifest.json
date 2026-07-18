@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horror Mashup 0037",
+    "description": "Horror Mashup 0037",
+    "uuid": "30201ed3-ec59-4d7b-a4d4-cd4c2af9baef",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "f591025a-d2b2-40db-b739-ce58fcbdeb0b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

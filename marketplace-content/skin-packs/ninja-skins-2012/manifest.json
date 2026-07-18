@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2012",
+    "description": "Ninja Skins 2012",
+    "uuid": "fff45c91-4ee1-43e4-986e-449536071bc5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "09f383d6-b3ca-4cf8-9b32-bd2313076c09",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

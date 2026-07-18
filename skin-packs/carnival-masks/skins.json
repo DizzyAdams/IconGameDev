@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "CarnivalMasks_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CarnivalMasks_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CarnivalMasks_12.png",
+      "type": "free"
+    }
+  ]
+}

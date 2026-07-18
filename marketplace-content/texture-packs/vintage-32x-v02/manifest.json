@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vintage 32x Pack v3",
+    "description": "A vintage 32x texture pack variant 3. Procedurally generated with unique noise profile.",
+    "uuid": "e9dbbf0c-30eb-4424-a053-5a11df7c58e7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ebd7a38e-d478-4d4e-9e4f-bf204a307c20",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

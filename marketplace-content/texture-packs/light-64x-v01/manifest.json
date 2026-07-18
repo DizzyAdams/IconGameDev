@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Light 64x Pack v2",
+    "description": "A light 64x texture pack variant 2. Procedurally generated with unique noise profile.",
+    "uuid": "ad28fd40-d3ce-4af3-bec9-612d7b1188e8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bc1b7591-b15c-4ed1-89c3-bafa0ebee065",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

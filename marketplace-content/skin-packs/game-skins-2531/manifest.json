@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2531",
+    "description": "Game Skins 2531",
+    "uuid": "77d38e8f-4f07-4e51-80c4-d1795d77ce75",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "266be2cb-fa95-4488-a748-49b305825b20",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

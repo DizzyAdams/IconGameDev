@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 2284",
+    "description": "Holiday Skins 2284",
+    "uuid": "aa18c5e8-7506-45b6-b937-c5a9dbc087a3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "457228ba-264c-4224-a251-83c4b67e616f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

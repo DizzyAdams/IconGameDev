@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1506",
+    "description": "Kawaii Skins 1506",
+    "uuid": "198fe0bc-f2a5-486e-8040-64260e9749d4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "68aafcdd-2b94-402c-bf08-e7932ff5e730",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

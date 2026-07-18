@@ -1,0 +1,50 @@
+{
+  "template": "capture-the-flag",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Capture the Flag — Bandeira Vermelha vs Azul",
+  "description": "5v5 capture the flag. Cada time protege sua base e tenta capturar a bandeira adversária. 3 capturas para vencer. Veículos e power-ups no centro do mapa.",
+  "tags": ["capture-the-flag", "pvp", "competitive", "5v5", "team"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_capture_the_flag",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 10,
+    "min_players": 2,
+    "game_mode": "capture_the_flag",
+    "team_size": [5],
+    "allow_respawn": true,
+    "respawn_delay_sec": 5,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "respawn_after_cap",
+    "starting_health": 100,
+    "starting_shield": 50,
+    "max_shield": 100,
+    "rounds_to_win": 3,
+    "round_time_sec": 600
+  },
+  "ctf_settings": {
+    "flag_capture_time_sec": 10,
+    "flag_drop_on_kill": true
+  },
+  "pois": [
+    {"id": "base_blue", "name": "Base Azul", "type": "urban", "size_tier": "small"},
+    {"id": "base_red", "name": "Base Vermelha", "type": "urban", "size_tier": "small"},
+    {"id": "mid_01", "name": "Centro", "type": "forest", "size_tier": "medium"},
+    {"id": "power_up", "name": "Torre de Power-Ups", "type": "special", "size_tier": "small"}
+  ],
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 5},
+    {"type": "item_spawner", "positions": "auto-distributed", "count": 60},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Capture the Flag"]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2800",
+    "description": "Scifi Skins 2800",
+    "uuid": "75e3e24c-87c1-41eb-8a78-e8f86fbe549d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "09cded92-c3d6-4b8f-b41e-0299c0c6bd43",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

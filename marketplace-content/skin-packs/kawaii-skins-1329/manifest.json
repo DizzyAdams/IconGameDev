@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1329",
+    "description": "Kawaii Skins 1329",
+    "uuid": "0f1aa71b-3629-4e1b-ad85-2960595407d1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "12abfb5a-f056-4869-8242-4d8a61346ee5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 1291",
+    "description": "Fantasy Skins 1291",
+    "uuid": "997fba9d-e108-47c1-a57a-2809963ac0e1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8d2c609e-1702-42a7-87f3-179079a9ef4a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

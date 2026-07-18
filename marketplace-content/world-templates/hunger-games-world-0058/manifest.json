@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hunger Games World 0058",
+    "description": "Hunger Games World 0058",
+    "uuid": "238c3432-e7ad-473e-9c64-0a4fddee9592",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "e06a768e-8c1a-4a7b-a7bb-4b00c5200827",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

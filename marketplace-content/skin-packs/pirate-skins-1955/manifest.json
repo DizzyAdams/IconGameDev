@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 1955",
+    "description": "Pirate Skins 1955",
+    "uuid": "9bff8393-6744-4136-b6c9-30b85828a19b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4494cc88-dcba-4066-8ce9-59a2e3005707",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

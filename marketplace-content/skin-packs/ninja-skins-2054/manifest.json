@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2054",
+    "description": "Ninja Skins 2054",
+    "uuid": "824641fe-7f97-4505-8f2c-72ea9ba795f0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4e2db9b4-ad5e-4288-9e71-d408eb444ab1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

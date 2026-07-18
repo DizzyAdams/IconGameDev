@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 1970",
+    "description": "Cute Skins 1970",
+    "uuid": "2ec1cd14-ba26-4b82-b4bb-fc9ecda3efb1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1d01ca4c-27b5-4f5c-99da-14288de7a298",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

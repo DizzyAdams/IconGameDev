@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 3090",
+    "description": "Cute Skins 3090",
+    "uuid": "e121c336-57d4-420a-9787-688d891a8b65",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6c5c3a25-bb0b-4b5e-930e-d282482f7d25",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1034",
+    "description": "Kawaii Skins 1034",
+    "uuid": "83a8ab1f-9796-4548-aafe-a3d3f59d46fe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "38f2e2aa-d6cc-4b90-a12d-80cff215a297",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

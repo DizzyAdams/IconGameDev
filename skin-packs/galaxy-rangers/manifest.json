@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Galaxy Rangers",
+    "description": "12 interstellar ranger skins with plasma rifles, nebula armor, and energy shields.",
+    "uuid": "52043da5-8e9c-5679-bd66-3d6fe36afad4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e252d8c5-ce7c-21bc-0c47-5b09cf8a8e00",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "product_type": "skin_pack",
+    "price_usd": 8.99,
+    "price_mc": 1360,
+    "authors": [
+      "IconMineMods"
+    ],
+    "generated_with": "generate_premium_skins.py"
+  }
+}

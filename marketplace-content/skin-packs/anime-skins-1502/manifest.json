@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1502",
+    "description": "Anime Skins 1502",
+    "uuid": "a04865aa-3ff1-4cf9-87bd-9b9870ae8365",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e342d465-317e-4086-9b1d-3215c64fd91e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

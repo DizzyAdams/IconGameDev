@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 0037",
+    "description": "Futuristic Skins 0037",
+    "uuid": "cae2cb63-79e4-41f5-b5de-12dc69c6add5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "246e19c4-1032-43f8-af1f-d03c1a71d108",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

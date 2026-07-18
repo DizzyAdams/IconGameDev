@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Mashup 0003",
+    "description": "Medieval Mashup 0003",
+    "uuid": "d5a0f444-3c52-4c9f-b180-5c436d63259e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "dbd71c0f-ce38-45fa-84d1-8721fb4f4350",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

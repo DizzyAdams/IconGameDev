@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 1068",
+    "description": "Tribal Skins 1068",
+    "uuid": "41624936-3049-40d7-a3c1-9a15a3af3f44",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c22c4a2f-fa49-4f28-b998-47456af66613",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

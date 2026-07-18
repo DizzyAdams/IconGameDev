@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 1100",
+    "description": "Movie Skins 1100",
+    "uuid": "398092c5-e210-4a52-9dc9-5c74d49130f0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bd81346d-2cab-482a-bb7e-54ba9a761600",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

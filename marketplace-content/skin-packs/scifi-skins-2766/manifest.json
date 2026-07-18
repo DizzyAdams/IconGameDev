@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 2766",
+    "description": "Scifi Skins 2766",
+    "uuid": "c106bb2a-f30b-47bc-8058-3b1c20684054",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d4f2f98f-59f1-449f-b08e-ed9d7c2207f7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

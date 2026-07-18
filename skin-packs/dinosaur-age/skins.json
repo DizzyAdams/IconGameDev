@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "DinosaurAge_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DinosaurAge_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DinosaurAge_12.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neon Textures 0068",
+    "description": "Neon Textures 0068",
+    "uuid": "b6715f03-71e2-4b3f-a397-dbc78366b5b6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "fffb21a9-d2e1-46f1-b35b-c9684d870bc0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

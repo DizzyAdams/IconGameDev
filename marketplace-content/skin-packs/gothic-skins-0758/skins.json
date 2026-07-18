@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Gothic1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gothic8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gothic8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Gothic Skins 0758",
+  "localization_name": "Gothic Skins 0758"
+}

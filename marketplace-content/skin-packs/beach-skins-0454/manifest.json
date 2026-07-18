@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 0454",
+    "description": "Beach Skins 0454",
+    "uuid": "28444159-9b75-4e9e-bd70-8528d303d220",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "eee8c630-cbdb-4b95-a18a-6a96d57418cc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

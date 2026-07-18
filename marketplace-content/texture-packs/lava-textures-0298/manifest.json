@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Lava Textures 0298",
+    "description": "Lava Textures 0298",
+    "uuid": "48c3cb4e-dca8-4698-8a6f-89f13a51cd7b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "41f6c2a4-5809-4152-ae23-4f75a9d51f8a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

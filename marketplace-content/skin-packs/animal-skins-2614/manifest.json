@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 2614",
+    "description": "Animal Skins 2614",
+    "uuid": "cdc85b72-0bcd-4707-8cee-18ed05b00b2c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0f761f6b-3ddd-4397-bc5d-64e963aaa2bc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

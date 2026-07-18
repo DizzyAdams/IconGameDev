@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 1530",
+    "description": "Music Skins 1530",
+    "uuid": "19b2ec7e-0d3a-49dd-9b91-67250f84401e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ac22152e-5b4a-429c-abb7-ab0363fa9389",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

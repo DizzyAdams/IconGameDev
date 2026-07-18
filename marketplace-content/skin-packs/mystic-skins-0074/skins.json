@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Mystic1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mystic8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mystic8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Mystic Skins 0074",
+  "localization_name": "Mystic Skins 0074"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Urban Textures 0276",
+    "description": "Urban Textures 0276",
+    "uuid": "2a9da7ac-8911-4d87-8ae6-8593ee6cad48",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "eb07e41a-f5ef-4015-9a6b-55f527f9ce87",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "High-Contrast 32x Pack v11",
+    "description": "A high-contrast 32x texture pack variant 11. Procedurally generated with unique noise profile.",
+    "uuid": "fc9375dd-ee8a-4b89-8f03-b1f6f254ef36",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2aa58754-39fb-4d4d-9715-56945fa4d3ee",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

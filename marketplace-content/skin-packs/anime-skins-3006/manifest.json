@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 3006",
+    "description": "Anime Skins 3006",
+    "uuid": "b55bb9cc-1ac7-43d4-8f23-701b59298e34",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4e1cd393-0fd9-416a-ad23-07cadecfbb7c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

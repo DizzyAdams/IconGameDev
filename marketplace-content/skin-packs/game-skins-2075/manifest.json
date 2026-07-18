@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2075",
+    "description": "Game Skins 2075",
+    "uuid": "cccddff0-c8ba-4d53-b568-abbae25f9ac5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "67dc6c07-2b70-45ae-b0b5-d153a296734e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

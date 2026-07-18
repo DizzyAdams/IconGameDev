@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space World 0302",
+    "description": "Space World 0302",
+    "uuid": "61d0f67f-e03f-4a51-91b5-768b6396e8fa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "cf54fde8-80ec-449d-a0c4-52e65f591df7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

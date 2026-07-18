@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tropical Mashup 0009",
+    "description": "Tropical Mashup 0009",
+    "uuid": "2f76ba67-e4dc-447a-b46a-8f0bcefc3e6e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "6bfa7742-7e9a-4d47-8f83-be6e82f49fb7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

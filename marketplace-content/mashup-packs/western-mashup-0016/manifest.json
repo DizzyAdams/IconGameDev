@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Western Mashup 0016",
+    "description": "Western Mashup 0016",
+    "uuid": "10e787a9-31ae-45d9-aee2-6acbe6bbdbe5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "544fa2b9-2e03-423e-a17e-36825c88a848",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

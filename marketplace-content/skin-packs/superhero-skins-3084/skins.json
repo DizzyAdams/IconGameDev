@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Superhero1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Superhero8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Superhero8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Superhero Skins 3084",
+  "localization_name": "Superhero Skins 3084"
+}

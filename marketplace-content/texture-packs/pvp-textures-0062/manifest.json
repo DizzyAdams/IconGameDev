@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pvp Textures 0062",
+    "description": "Pvp Textures 0062",
+    "uuid": "9b33abc8-c9fd-402f-92d2-dbad40bf8489",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2cebfdea-dc04-45de-a7f4-ec3a95e5a4c4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

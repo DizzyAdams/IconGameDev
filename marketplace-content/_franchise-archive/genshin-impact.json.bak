@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Elemental World Travelers\",\n    \"description\": \"8 elemental world traveler skins from fantasy realms. (adapted from: 8 Genshin Impact skins! Hu Tao, Ganyu, Zhongli, Raiden, Xiao, Kazuha, Ayaka, Nahida.)\",\n    \"uuid\": \"fee079678-1ba4-66de-fb17-00d5aeecf74d\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f8ce7ebf3-2ffc-a77c-19a8-000a256f67e4\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "genshin-impact",
+  "old_name": "Elemental World Travelers"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 2060",
+    "description": "Futuristic Skins 2060",
+    "uuid": "267e8e06-9e99-465a-a99f-c0b9f31015ee",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "67b77dc3-fec7-446d-b048-ea7c8b0c6517",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

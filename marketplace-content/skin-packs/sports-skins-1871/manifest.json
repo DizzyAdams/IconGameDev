@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 1871",
+    "description": "Sports Skins 1871",
+    "uuid": "7cc6903a-d2cb-412c-9e4e-c617ec9dada5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "be8df9ec-a37d-4fa6-805a-9ad6085cb046",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

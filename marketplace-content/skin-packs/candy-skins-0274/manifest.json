@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Candy Skins 0274",
+    "description": "Candy Skins 0274",
+    "uuid": "c19e2388-73dc-49dd-93ff-b4c39780d4ec",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9e3f7da3-f25f-4e44-85c8-d7e41297b540",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

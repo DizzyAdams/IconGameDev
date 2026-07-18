@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 1911",
+    "description": "Modern Skins 1911",
+    "uuid": "2bb00149-fba3-4a06-b5cd-f2f23a0e3ff6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "210f2e7b-6d28-40ec-8cad-3a77866bc699",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

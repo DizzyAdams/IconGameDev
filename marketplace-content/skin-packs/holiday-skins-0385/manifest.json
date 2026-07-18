@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 0385",
+    "description": "Holiday Skins 0385",
+    "uuid": "0c7aa9a8-1200-4757-843d-7107fd2ce063",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2e7ae5a3-1e06-430a-91b4-89bce6cb8e71",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

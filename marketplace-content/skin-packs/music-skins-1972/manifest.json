@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 1972",
+    "description": "Music Skins 1972",
+    "uuid": "7cdd3904-9e7a-41e6-8948-43d5c15f0302",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d6bfffde-f627-43bd-96d7-4bb14f3fb30b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

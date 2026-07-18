@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1402",
+    "description": "Steampunk Skins 1402",
+    "uuid": "8e1ee644-e12f-48a4-baac-8891e73e09dd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2741f031-ad46-48bf-be9c-bed5d8f200e7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

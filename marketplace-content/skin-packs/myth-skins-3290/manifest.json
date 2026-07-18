@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 3290",
+    "description": "Myth Skins 3290",
+    "uuid": "49e68089-dd24-4dd5-ba8a-f91874bb3f65",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8f57640a-7632-4a30-985d-77460281a429",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

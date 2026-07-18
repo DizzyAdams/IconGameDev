@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2287",
+    "description": "Steampunk Skins 2287",
+    "uuid": "61961d0c-df16-408f-be0d-f82e33d059b9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5e530b28-a9b4-4ff1-8920-c7ff5c74db3a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

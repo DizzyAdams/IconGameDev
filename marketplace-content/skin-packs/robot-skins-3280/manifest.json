@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Robot Skins 3280",
+    "description": "Robot Skins 3280",
+    "uuid": "64fbe436-2a49-4e1b-9ceb-46b8293cfbfb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3d46df53-5c39-473b-bbcc-2be765ebcffa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

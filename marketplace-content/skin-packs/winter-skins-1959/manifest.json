@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 1959",
+    "description": "Winter Skins 1959",
+    "uuid": "51853848-afbf-4af5-9ee3-4f702acd5550",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "960f1952-337d-43ac-9ab8-f72ab938fefb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

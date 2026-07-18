@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1670",
+    "description": "Myth Skins 1670",
+    "uuid": "403f364a-0cc4-468c-8b77-99e319d699e0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a6c7ea73-80d5-45c2-9c74-11ea87cd3516",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

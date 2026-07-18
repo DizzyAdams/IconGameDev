@@ -12,6 +12,7 @@ policy URL) — those are listed in the final report.
 """
 from __future__ import annotations
 
+import argparse
 import functools
 import os
 import subprocess
@@ -45,7 +46,12 @@ def run(label: str, cmd, cwd: Path, timeout: int = 300, shell: bool = False) -> 
     return proc.returncode, out
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description="IconMineMods certification & deploy orchestrator")
+    ap.add_argument("--all", action="store_true",
+                    help="run all platform compliance checkers (Roblox, Epic, Bedrock, etc.)")
+    args = ap.parse_args(argv)
+
     checks = []
 
     # 1. Unit tests (canonical suite, excludes the heavy workload generator).
@@ -97,6 +103,30 @@ def main() -> int:
     rc, _ = run("6/6 submission pipeline (dry-run)",
                 [PY, str(ROOT / "submit/pipeline.py"), "--dry-run"], ROOT)
     checks.append(("submission_dryrun_ok", rc == 0))
+
+    # 7-10. Platform compliance checkers (--all flag).
+    if args.all:
+        py = sys.executable
+        # 7. Roblox UGC ToS compliance.
+        rc, out = run("7/10 roblox tos compliance",
+                      [py, str(ROOT / "compliance/checkers/roblox_check.py")], ROOT)
+        checks.append(("roblox_tos_compliant", rc == 0))
+
+        # 8. Fortnite / Epic Creative maps ToS compliance.
+        rc, out = run("8/10 epic tos compliance",
+                      [py, str(ROOT / "compliance/checkers/epic_check.py")], ROOT)
+        checks.append(("epic_tos_compliant", rc == 0))
+
+        # 9. Minecraft Bedrock content gate (same as check 2 but without --audit
+        #    so it's fast; --all just runs the standard gate).
+        rc, out = run("9/10 bedrock content gate",
+                      [py, str(ROOT / "compliance/checks/submit_gate.py")], ROOT)
+        checks.append(("bedrock_content_gate", rc == 0))
+
+        # 10. Full certification readiness (all artifact docs present).
+        rc, out = run("10/10 certification readiness",
+                      [py, str(ROOT / "compliance/checks/certification_readiness.py")], ROOT)
+        checks.append(("certification_ready", rc == 0))
 
     passed = sum(1 for _, ok in checks if ok)
     total = len(checks)

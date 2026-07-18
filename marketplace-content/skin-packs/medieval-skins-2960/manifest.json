@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 2960",
+    "description": "Medieval Skins 2960",
+    "uuid": "a67d11c3-b4e5-4356-9bb8-d069c1bac03f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9025a5a7-09c4-4069-bf7c-5b475f08f028",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

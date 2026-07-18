@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 0545",
+    "description": "Tribal Skins 0545",
+    "uuid": "aa472064-e1e9-4c0f-81af-84769993dcff",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fa7685f8-875a-42f1-a2fd-e8002466a4cc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

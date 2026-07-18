@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ctf World 0105",
+    "description": "Ctf World 0105",
+    "uuid": "32673ce9-960b-4ee9-a6d3-ce6761ac2f5e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "82d91044-50e3-4f82-b35e-8546a9e9c64c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Light 64x Pack v7",
+    "description": "A light 64x texture pack variant 7. Procedurally generated with unique noise profile.",
+    "uuid": "9576ac73-c64b-44a4-9460-9e619bdbb82b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "36b8f486-cc31-4df8-8009-fb0273945cc9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal Skins 1189",
+    "description": "Animal Skins 1189",
+    "uuid": "ec82f739-5626-4bbb-b714-ad2fd6dab12a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "973600da-a573-491e-a758-1a05fcc46bc7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

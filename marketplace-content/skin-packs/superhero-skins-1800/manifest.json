@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 1800",
+    "description": "Superhero Skins 1800",
+    "uuid": "fd0cefb5-a63e-4b36-908c-0d72027eefe5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "be35620e-505e-49a2-9cd0-5ca4bb4188a6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

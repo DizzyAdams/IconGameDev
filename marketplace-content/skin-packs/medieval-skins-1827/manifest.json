@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 1827",
+    "description": "Medieval Skins 1827",
+    "uuid": "08c710e2-68a4-4d06-b0c7-66b644e32441",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5cbca411-c7e9-4e48-ad4e-65328057429c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

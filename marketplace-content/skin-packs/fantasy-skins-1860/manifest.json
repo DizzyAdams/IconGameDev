@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 1860",
+    "description": "Fantasy Skins 1860",
+    "uuid": "19f17acc-192e-4bf6-801a-0f302a7634a4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3a526afe-c979-43a1-8a7e-42007b1d3658",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

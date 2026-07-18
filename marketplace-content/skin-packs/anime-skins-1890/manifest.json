@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1890",
+    "description": "Anime Skins 1890",
+    "uuid": "81cbe81a-3a63-400e-9c90-310e27d2ce89",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6837e973-c2e1-4913-838e-a90a2795e973",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

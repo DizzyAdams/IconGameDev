@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 2970",
+    "description": "Sports Skins 2970",
+    "uuid": "58223638-ebf7-4c31-bcb5-0beccdc33bfe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "82dd3a2c-41a2-4390-b579-2c29bb247498",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

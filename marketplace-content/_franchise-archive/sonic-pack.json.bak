@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Speed Runner Pack\",\n    \"description\": \"8 speed runner skins for high-velocity players! (adapted from: 6 Sonic-inspired skins! Sonic, Tails, Knuckles, Shadow, Amy, Dr. Eggman.)\",\n    \"uuid\": \"f95c43325-dd3f-02eb-6b28-0072da8cce67\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f46e992ae-4838-65c4-7b82-00cbe8d3588e\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "sonic-pack",
+  "old_name": "Speed Runner Pack"
+}

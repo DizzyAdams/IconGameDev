@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cute Skins 1680",
+    "description": "Cute Skins 1680",
+    "uuid": "e8f60f28-e883-4ec1-aa99-39e3ea74adc3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8541314b-d4ed-42a7-a326-5395e2f1385e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 1590",
+    "description": "Beach Skins 1590",
+    "uuid": "12a2562e-1175-4084-8c39-b1910c39e368",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5a8ce1ba-6be7-4648-bf86-3f7cc57840b4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

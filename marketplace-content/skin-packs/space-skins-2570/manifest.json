@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 2570",
+    "description": "Space Skins 2570",
+    "uuid": "b0bfd845-9fa8-4bf1-bcaa-ea514e4827fe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "50b1515c-1eac-4aa4-930c-d00d98b6a51b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

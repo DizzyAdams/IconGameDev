@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1254",
+    "description": "Steampunk Skins 1254",
+    "uuid": "2848771c-93fc-4c01-bc4a-087a5161e897",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "df6335c8-fe90-4fd4-baff-dbb2f83fa035",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2725",
+    "description": "Kawaii Skins 2725",
+    "uuid": "4ce85f4f-43c5-43a1-854e-6ed67a0fa891",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "933531e4-fc89-4e58-b0eb-9d59c45f33f8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

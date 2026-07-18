@@ -1,44 +1,22 @@
 {
-  "format_version": 2,
-  "header": {
-    "name": "Mutant Mobs Add-On",
-    "description": "Fight giant mutant versions of classic mobs!",
-    "uuid": "1eb53d1b-22f4-41ab-b875-7050d2aa680e",
-    "version": [
-      1,
-      0,
-      0
-    ],
-    "min_engine_version": [
-      1,
-      20,
-      0
-    ]
-  },
-  "modules": [
-    {
-      "type": "data",
-      "uuid": "87227271-1794-4ca0-b525-2f256baa1c0d",
-      "version": [
-        1,
-        0,
-        0
-      ]
-    }
-  ],
-  "metadata": {
-    "authors": [
-      "Bedrock Mass Automation"
-    ],
-    "product_type": "behavior_pack",
-    "price": "$2.99",
-    "price_usd": {
-      "currency": "USD",
-      "amount": 2.99
+    "format_version": 2,
+    "header": {
+        "name": "Mutant Mobs Add-On",
+        "description": "Fight giant mutant versions of classic mobs!",
+        "uuid": "f00000000-0000-0000-0000-000000000009",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
     },
-    "price_mc": {
-      "currency": "MXN",
-      "amount": 478
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f00000000-0000-0000-0000-00000000000a",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "authors": ["Bedrock Mass Automation"],
+        "product_type": "behavior_pack",
+        "price": "$2.99"
     }
-  }
 }

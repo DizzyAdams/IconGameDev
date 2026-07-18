@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2613",
+    "description": "Winter Skins 2613",
+    "uuid": "ddaeca8d-1e61-4f0c-bc7e-726bd4ffbb71",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e86415bd-fccd-4555-8fbd-14517517f547",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

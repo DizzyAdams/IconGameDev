@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2958",
+    "description": "Fantasy Skins 2958",
+    "uuid": "025d894f-5282-44d1-8244-9b270e7b6e8b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "808f3ded-acc3-4550-b206-6ed8b376a7b1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

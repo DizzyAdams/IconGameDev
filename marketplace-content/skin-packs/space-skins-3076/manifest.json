@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 3076",
+    "description": "Space Skins 3076",
+    "uuid": "f950de14-aecc-4a26-a792-817dfbce676b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5591fdec-4779-4ab1-b582-3f58606c6b85",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

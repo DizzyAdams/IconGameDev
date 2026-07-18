@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 2652",
+    "description": "Holiday Skins 2652",
+    "uuid": "6fae4948-2737-4700-9010-9406bcf06b07",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d6fc6c48-098d-41f9-b0ea-310b28a81d90",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

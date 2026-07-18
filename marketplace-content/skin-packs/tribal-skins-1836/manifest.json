@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 1836",
+    "description": "Tribal Skins 1836",
+    "uuid": "2d92200e-97df-4b6b-ad01-f1118476bfbd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d4efc502-5751-471f-8ff8-57999ea6618d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

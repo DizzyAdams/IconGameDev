@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyberpunk Mashup 0237",
+    "description": "Cyberpunk Mashup 0237",
+    "uuid": "fcabf14f-16ff-4bc3-a1fe-ef8b9d3e9c25",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "fd48964a-a5c2-44d6-ab9c-9aba851b6600",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

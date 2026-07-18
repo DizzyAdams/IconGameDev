@@ -1,0 +1,20 @@
+[project]
+name = "bedrock-economy-rpg"
+version = "1.0.0"
+description = "Economy + RPG Server Plugin for Minecraft Bedrock Edition"
+requires-python = ">=3.12"
+dependencies = [
+    "endstone>=0.11",
+    "asyncpg>=0.30.0",
+    "redis>=5.0.0",
+    "pydantic>=2.0.0",
+    "loguru>=0.7.0",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.32.0",
+]
+
+[project.entry-points."endstone"]
+bedrock-economy-rpg = "src.core.main:EconomyRpgPlugin"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

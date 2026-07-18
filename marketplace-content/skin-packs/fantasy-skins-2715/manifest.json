@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2715",
+    "description": "Fantasy Skins 2715",
+    "uuid": "db3f167e-8b4b-4f01-b504-d4f82b6eb6ba",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "498ed682-9c6e-45aa-a0c2-619258289e88",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

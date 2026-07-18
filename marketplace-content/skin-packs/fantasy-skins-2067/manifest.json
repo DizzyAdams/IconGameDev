@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2067",
+    "description": "Fantasy Skins 2067",
+    "uuid": "10d1fa99-9379-4435-9a23-2eb2a417cf54",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "57082c85-96b7-4d61-a2f2-93ad61b8b4fc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

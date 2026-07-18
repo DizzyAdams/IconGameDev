@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Pirate1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Pirate Skins 1188",
+  "localization_name": "Pirate Skins 1188"
+}

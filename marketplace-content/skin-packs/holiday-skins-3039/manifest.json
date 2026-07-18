@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 3039",
+    "description": "Holiday Skins 3039",
+    "uuid": "ef148f62-7d86-40f4-a006-e33b078cd0c0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "557544b3-9874-4eee-837b-8b165db83e5e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

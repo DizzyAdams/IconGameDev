@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 3033",
+    "description": "Music Skins 3033",
+    "uuid": "4ad24877-24de-45e0-8a2e-269657a51f38",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ed380b77-815c-4aa2-9efa-cc3b3491fc74",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

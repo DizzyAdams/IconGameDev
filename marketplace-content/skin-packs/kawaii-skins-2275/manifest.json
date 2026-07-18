@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2275",
+    "description": "Kawaii Skins 2275",
+    "uuid": "3efadec9-bff7-4b77-889b-c82d8ff67c8c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "da14585b-6561-43e6-9979-97099023e2cd",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

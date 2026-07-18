@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3143",
+    "description": "Steampunk Skins 3143",
+    "uuid": "6c56e038-f39f-4490-9c91-75f059f2e505",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f39a2d8c-bb3d-4cdb-884c-59dc4b0ccdca",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

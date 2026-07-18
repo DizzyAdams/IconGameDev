@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "CrystalCavern_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CrystalCavern_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CrystalCavern_12.png",
+      "type": "free"
+    }
+  ]
+}

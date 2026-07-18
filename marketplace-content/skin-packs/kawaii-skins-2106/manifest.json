@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2106",
+    "description": "Kawaii Skins 2106",
+    "uuid": "be92ae63-222e-4633-9dc1-33cbf1a8b417",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5de80f00-2991-42d4-a993-a8a53773abed",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

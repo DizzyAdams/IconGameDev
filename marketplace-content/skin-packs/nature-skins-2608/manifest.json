@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 2608",
+    "description": "Nature Skins 2608",
+    "uuid": "6a867e2d-a863-412b-8785-564c9b938762",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1fb991d1-f9b8-43ed-9f82-31dbf281b99d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 2420",
+    "description": "Myth Skins 2420",
+    "uuid": "85ae4ae2-a6c2-490c-98ea-62816645d4af",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c6decc04-9d90-4ca7-95d3-bbc7d7ee7f24",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

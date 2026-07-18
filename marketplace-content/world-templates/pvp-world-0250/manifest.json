@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pvp World 0250",
+    "description": "Pvp World 0250",
+    "uuid": "a4b05e30-2378-44f8-9506-588e3872120f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "b8f52879-f6e6-478e-9868-965db01f5db7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

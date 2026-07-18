@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2361",
+    "description": "Fantasy Skins 2361",
+    "uuid": "479dcafe-bec1-44dc-b77a-fb46d42bd7be",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f90d6f61-57e4-45df-a1d1-81b82ee3f123",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

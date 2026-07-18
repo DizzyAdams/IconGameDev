@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1030",
+    "description": "Game Skins 1030",
+    "uuid": "1b4336c3-8dcf-48a2-8446-b32d8289635e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "25bdaa8e-9ffb-495c-b3a8-63108fe16da6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

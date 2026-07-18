@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Desert Textures 0159",
+    "description": "Desert Textures 0159",
+    "uuid": "688397db-7402-4dd2-a354-22f9bde0cb64",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "06d11342-b6f1-433e-a6d6-31c2a758a4e2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

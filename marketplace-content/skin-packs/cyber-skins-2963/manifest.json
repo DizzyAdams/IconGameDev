@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 2963",
+    "description": "Cyber Skins 2963",
+    "uuid": "12787753-f505-4ff0-a3ec-ca2ab754fa1d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "21c1e189-6b44-4396-8ea4-d7433b7e935d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

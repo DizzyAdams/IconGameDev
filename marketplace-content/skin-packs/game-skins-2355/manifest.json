@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 2355",
+    "description": "Game Skins 2355",
+    "uuid": "dec615c5-3ff9-42a1-bcad-8cff04589e87",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bd7de159-4ccf-454d-adcc-f7574decc29e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Ninja Storm Legends\",\n    \"description\": \"8 ninja storm legend skins! Master of elemental chakra. (adapted from: 8 Naruto Shippuden skins! Naruto, Sasuke, Sakura, Kakashi, Itachi, Madara, Hinata, Gaara.)\",\n    \"uuid\": \"b2167729b-6103-2a19-9696-00a3c07a183f\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"b679a5353-03ac-e2b8-7afe-00a29a005d67\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "naruto-shippuden",
+  "old_name": "Ninja Storm Legends"
+}

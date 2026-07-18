@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "WoodlandRangers_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WoodlandRangers_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WoodlandRangers_12.png",
+      "type": "free"
+    }
+  ]
+}

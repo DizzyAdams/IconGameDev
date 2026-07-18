@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2332",
+    "description": "Kawaii Skins 2332",
+    "uuid": "60ec0874-d1fd-410d-b5ee-25506e23958a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "162aa161-95ef-4a3b-9854-be42658cd553",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

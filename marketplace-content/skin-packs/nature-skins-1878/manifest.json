@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 1878",
+    "description": "Nature Skins 1878",
+    "uuid": "c1217883-1b5e-469c-9b4d-9b3efa5e4a33",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "de5b85a0-9894-452c-9ae5-b9b3ae46ccd6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

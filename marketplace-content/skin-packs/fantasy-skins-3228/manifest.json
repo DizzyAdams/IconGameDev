@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 3228",
+    "description": "Fantasy Skins 3228",
+    "uuid": "2ee10c04-e974-4d65-89bf-9fbf0333e76b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "da530fdc-573b-450f-bd9c-561cfde4e663",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

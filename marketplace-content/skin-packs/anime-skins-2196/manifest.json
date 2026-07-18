@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2196",
+    "description": "Anime Skins 2196",
+    "uuid": "0df5270a-6e6c-487d-aaa5-802e89fba313",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c82f1504-dcd9-455e-b64c-644f6c7beb9c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

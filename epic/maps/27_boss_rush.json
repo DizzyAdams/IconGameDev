@@ -1,0 +1,46 @@
+{
+  "template": "boss-rush",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Boss Rush — Desafio dos Titãs",
+  "description": "Derrote 5 chefes consecutivos com apenas 3 vidas. Cada chefe é único com habilidades especiais. Entre batalhas: upgrade station. Modo speedrun disponível.",
+  "tags": ["boss-rush", "pve", "coop", "challenge", "speedrun"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_boss_rush",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 4,
+    "min_players": 1,
+    "game_mode": "boss_rush",
+    "team_size": [4],
+    "allow_respawn": false,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "elimination_mode": "all_bosses_defeated",
+    "starting_health": 100,
+    "starting_shield": 50,
+    "max_shield": 100
+  },
+  "boss_settings": {
+    "bosses": [
+      {"name": "Golem de Pedra", "health": 5000, "abilities": ["rock_smash", "ground_pound"]},
+      {"name": "Dragão de Gelo", "health": 8000, "abilities": ["ice_breath", "freeze_aura"]},
+      {"name": "Cavaleiro Sombrio", "health": 10000, "abilities": ["teleport_slash", "dark_blast"]},
+      {"name": "Aranha Rainha", "health": 12000, "abilities": ["web_trap", "poison_spit", "spawn_minions"]},
+      {"name": "Titã Final", "health": 20000, "abilities": ["meteor_shower", "shockwave", "laser_beam"]}
+    ],
+    "lives_pool": 3,
+    "time_between_bosses_sec": 30
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Boss Rush"]}
+  ]
+}

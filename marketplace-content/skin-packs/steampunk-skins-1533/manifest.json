@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1533",
+    "description": "Steampunk Skins 1533",
+    "uuid": "02f1a788-eb46-4624-a5f3-9bfe52ffb6bb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "47fc2768-f578-4e6e-86e1-72ab06cf3291",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

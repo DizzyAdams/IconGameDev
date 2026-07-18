@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 1620",
+    "description": "Fantasy Skins 1620",
+    "uuid": "ec7ee406-93da-4c10-b26e-e823d05ad9b4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "385f284c-00f9-4f37-9d7e-76c108db1bd8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

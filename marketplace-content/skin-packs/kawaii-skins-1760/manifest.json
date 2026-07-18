@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1760",
+    "description": "Kawaii Skins 1760",
+    "uuid": "518cab40-3d82-4089-92aa-145a8ebf6dec",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "13058ffe-7693-4090-b406-9e5c657f3fb3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 2680",
+    "description": "Movie Skins 2680",
+    "uuid": "cae3ee64-22b9-4f8c-b12a-41ad2172dd8f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c81493e5-e8b8-404f-816a-2f2b19fd33f5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

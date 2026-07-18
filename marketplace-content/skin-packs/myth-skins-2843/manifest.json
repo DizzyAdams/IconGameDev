@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 2843",
+    "description": "Myth Skins 2843",
+    "uuid": "5180e953-8121-4dcb-b4c6-793d04d4c594",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a1c80904-e309-4cd0-914e-5a206047034f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

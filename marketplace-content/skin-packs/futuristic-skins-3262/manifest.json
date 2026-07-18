@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Futuristic Skins 3262",
+    "description": "Futuristic Skins 3262",
+    "uuid": "124ee9ff-d5aa-4838-b001-c019a75c22aa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e0949f81-5b78-46be-bb4e-fa6517b29108",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

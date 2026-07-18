@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "ArcticFrost_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ArcticFrost_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ArcticFrost_12.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 1897",
+    "description": "Superhero Skins 1897",
+    "uuid": "696812d7-f9e9-41be-9f20-d49e1a1d1181",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9432f0ae-10b4-4516-ac12-19b3149ca3f0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

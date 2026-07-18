@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1423",
+    "description": "Game Skins 1423",
+    "uuid": "6dab28af-eaa1-4c51-bb79-48a6639f2af8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "05c89e65-495e-41ad-b9bb-668ebcb8a559",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

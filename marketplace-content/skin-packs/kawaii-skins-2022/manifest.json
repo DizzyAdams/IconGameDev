@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2022",
+    "description": "Kawaii Skins 2022",
+    "uuid": "08a2e8a2-a46a-4d7c-bad4-ab8e2ea1fd81",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "896d9fef-cec8-4b67-8a7f-26a611106b20",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

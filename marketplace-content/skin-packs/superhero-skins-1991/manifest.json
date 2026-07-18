@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Superhero Skins 1991",
+    "description": "Superhero Skins 1991",
+    "uuid": "9166417b-f908-4efe-a176-a4ccb03707c2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9b63904a-41ea-49b5-80ad-53ef0fdad1e3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

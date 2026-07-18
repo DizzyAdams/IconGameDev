@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mystic Skins 0091",
+    "description": "Mystic Skins 0091",
+    "uuid": "cfa49c50-7db0-4024-9bb8-60115cd5addd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d56fdbe5-e3f9-4c78-bb1c-7b4b4d9aeae2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

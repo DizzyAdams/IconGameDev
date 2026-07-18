@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 2086",
+    "description": "Medieval Skins 2086",
+    "uuid": "95cdb01d-5412-4222-ab42-22faeae0e19e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "77c5ad6f-e73b-4c1f-bc53-4336262f97a0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

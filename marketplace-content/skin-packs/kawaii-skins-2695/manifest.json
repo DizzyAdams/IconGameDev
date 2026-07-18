@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 2695",
+    "description": "Kawaii Skins 2695",
+    "uuid": "a2c688a5-c1ba-4a7f-8925-2ee76cbc86aa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d1ae8e1e-82ad-4c75-a881-e507e8797a29",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

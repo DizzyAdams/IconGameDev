@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Warm 16x Pack v9",
+    "description": "A warm 16x texture pack variant 9. Procedurally generated with unique noise profile.",
+    "uuid": "2cb0b244-fa94-46fc-98ff-c3f5ed9847a3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3370ce76-14a6-49c5-bc86-bd9a9974de3a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1927",
+    "description": "Anime Skins 1927",
+    "uuid": "97b33e8d-ce75-4329-a8e0-0112ab9a0cf7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "8d44c796-7b36-4a18-9d36-587e464628b7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 1995",
+    "description": "Music Skins 1995",
+    "uuid": "a3b362b2-0daa-4f86-96e6-23d61d82e304",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0403981c-88e2-4399-90f4-224ed5680c49",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tribal Skins 3111",
+    "description": "Tribal Skins 3111",
+    "uuid": "857e19f0-4f0c-4891-8eca-7d2e90b035a0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c03fb3e0-0d8b-4e08-8d1c-b8b100217b4d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

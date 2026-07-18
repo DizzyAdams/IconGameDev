@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3286",
+    "description": "Steampunk Skins 3286",
+    "uuid": "6afb2fd9-8116-44c2-a17b-2f8ed294d235",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "628bf895-7897-4097-8ff2-526d8e913d37",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

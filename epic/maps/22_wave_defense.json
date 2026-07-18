@@ -1,0 +1,48 @@
+{
+  "template": "wave-defense",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Wave Defense — Escudo Final",
+  "description": "Até 8 jogadores defendem um gerador central. 25 ondas de inimigos variados (zumbis, robôs, criaturas). Construa defesas entre as ondas.",
+  "tags": ["wave-defense", "pve", "coop", "defense", "building"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_wave_defense",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+  "game_settings": {
+    "max_players": 8,
+    "min_players": 1,
+    "game_mode": "wave_defense",
+    "team_size": [8],
+    "allow_respawn": true,
+    "respawn_delay_sec": 10,
+    "fall_damage": false,
+    "friendly_fire": false,
+    "elimination_mode": "generator_destroyed",
+    "starting_health": 100,
+    "starting_shield": 50,
+    "max_shield": 100,
+    "starting_materials": {"wood": 200, "stone": 100, "metal": 50},
+    "harvest_rate_multiplier": 2.5
+  },
+  "wave_settings": {
+    "total": 25,
+    "enemy_types": ["zombie", "robot", "creature", "flying"],
+    "boss_waves": [10, 20, 25]
+  },
+  "generator": {
+    "health": 5000,
+    "shield": 1000
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 10},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Wave Defense"]}
+  ]
+}

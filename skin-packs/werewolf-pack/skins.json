@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "WerewolfPack_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WerewolfPack_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WerewolfPack_12.png",
+      "type": "free"
+    }
+  ]
+}

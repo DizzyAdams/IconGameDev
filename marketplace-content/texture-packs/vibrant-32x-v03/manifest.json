@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant 32x Pack v4",
+    "description": "A vibrant 32x texture pack variant 4. Procedurally generated with unique noise profile.",
+    "uuid": "035864a5-cbc2-491f-b7d8-c8489f035514",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a40de75c-436f-4861-b0fa-c272ae1d8c62",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

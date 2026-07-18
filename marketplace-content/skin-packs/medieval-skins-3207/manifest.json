@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 3207",
+    "description": "Medieval Skins 3207",
+    "uuid": "4be84dc7-fc63-4d3b-b533-5162f13e709c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4e8e52c9-f5ce-4269-a713-c56bee3f0366",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

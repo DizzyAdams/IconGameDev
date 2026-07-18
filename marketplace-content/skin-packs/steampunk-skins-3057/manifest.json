@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 3057",
+    "description": "Steampunk Skins 3057",
+    "uuid": "f722b705-67c6-4958-a8c6-7c5dd1265b44",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c6d5c8cc-966d-4f2d-82b4-b5e2a88ce4d4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

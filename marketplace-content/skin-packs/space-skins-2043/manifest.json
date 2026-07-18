@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 2043",
+    "description": "Space Skins 2043",
+    "uuid": "1ec2acd2-9953-4b47-9490-30d9c68eb5c4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ed6ed814-51a8-4922-bec6-514e06cb41ad",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

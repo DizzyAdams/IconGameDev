@@ -1,0 +1,48 @@
+{
+  "template": "build-battle-arena",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Build Battle Arena — Construção e Combate",
+  "description": "4v4. Combina construção rápida e combate. Área pequena com materiais infinitos. Primeiro a 30 eliminações vence. Inspirado em Arena BHE.",
+  "tags": ["build-battle", "pvp", "competitive", "4v4", "building"],
+  "island": {
+    "type": "flat_grid_64x64",
+    "template_id": "island_build_battle_arena",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": true,
+    "storm_phases": 2,
+    "storm_wait_time_sec": 60,
+    "storm_shrink_time_sec": 90
+  },
+  "game_settings": {
+    "max_players": 8,
+    "min_players": 2,
+    "game_mode": "team_elimination",
+    "team_size": [4],
+    "allow_respawn": true,
+    "respawn_delay_sec": 3,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "score_target",
+    "elimination_target": 30,
+    "starting_health": 100,
+    "starting_shield": 50,
+    "max_shield": 100,
+    "starting_materials": {"wood": 999, "stone": 999, "metal": 999},
+    "harvest_rate_multiplier": 10.0
+  },
+  "arena_settings": {
+    "arena_size_tiles": 30,
+    "starting_materials": {"wood": 999, "stone": 999, "metal": 999},
+    "harvest_rate_multiplier": 10.0
+  },
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "respawn_manager", "respawn_delay_sec": 3},
+    {"type": "scoreboard", "visible": true}
+  ],
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-13", "changes": ["Template inicial Build Battle Arena"]}
+  ]
+}

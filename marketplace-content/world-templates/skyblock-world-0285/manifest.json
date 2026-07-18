@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Skyblock World 0285",
+    "description": "Skyblock World 0285",
+    "uuid": "34d2e49f-bf58-4c04-840b-fbf1f11fd6b6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "3ef94ec4-8023-4afe-b7d9-c912fad9feeb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

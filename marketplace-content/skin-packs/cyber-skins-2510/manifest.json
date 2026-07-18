@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cyber Skins 2510",
+    "description": "Cyber Skins 2510",
+    "uuid": "08387cd6-4643-47c9-86b5-f115773202e7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1231a54d-50df-476d-8ea6-0ead38ec22af",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

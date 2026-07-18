@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 1944",
+    "description": "Medieval Skins 1944",
+    "uuid": "227ed328-ddd5-49e3-817f-a703c4ce4433",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4530be91-a58b-47f8-a83d-52bffd08ac6d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

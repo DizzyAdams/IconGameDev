@@ -1,0 +1,81 @@
+{
+  "template": "battle-royale-arena",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "Battle Royale Arena — Zona de Combate Clássica",
+  "description": "Mapa BR clássico com 12 POIs, loot equilibrado e storm circle. Ideal para scrims e partidas ranqueadas. Suporta até 100 jogadores.",
+  "tags": ["battle-royale", "pvp", "competitive", "solo", "squad"],
+
+  "island": {
+    "type": "flat_grid_128x128",
+    "template_id": "island_br_arena",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": true,
+    "storm_phases": 8,
+    "storm_wait_time_sec": 90,
+    "storm_shrink_time_sec": 120
+  },
+
+  "game_settings": {
+    "max_players": 100,
+    "min_players": 2,
+    "game_mode": "battle_royale",
+    "team_size": [1, 2, 3, 4],
+    "allow_respawn": false,
+    "down_but_not_out": true,
+    "fall_damage": true,
+    "friendly_fire": false,
+    "elimination_mode": "last_standing",
+    "starting_health": 100,
+    "starting_shield": 0,
+    "max_shield": 100,
+    "starting_materials": {"wood": 0, "stone": 0, "metal": 0},
+    "harvest_rate_multiplier": 1.5,
+    "gravity": 1.0,
+    "glider_redeploy": false,
+    "storm_damage_per_sec": 10
+  },
+
+  "loot_pool": {
+    "tiers": {
+      "common": {"weight": 40, "color": "#B0B0B0", "weapons": ["rifle_assault", "pistol", "shotgun_tactical"]},
+      "uncommon": {"weight": 30, "color": "#00FF00", "weapons": ["rife_burst", "smg", "pistol_suppressed"]},
+      "rare": {"weight": 18, "color": "#0088FF", "weapons": ["rifle_scoped", "shotgun_heavy", "smg_tactical"]},
+      "epic": {"weight": 9, "color": "#8800FF", "weapons": ["rifle_infantry", "sniper_bolt", "shotgun_pump"]},
+      "legendary": {"weight": 3, "color": "#FF8800", "weapons": ["rifle_scar", "sniper_heavy", "minigun"]}
+    },
+    "consumables": ["shield_potion", "medkit", "bandage", "shield_small", "fish"],
+    "chest_spawn_rate": 0.7,
+    "floor_loot_density": 0.4,
+    "ammo_boxes_per_poi": 8
+  },
+
+  "pois": [
+    {"id": "poi_01", "name": "Pleasant Plaza", "type": "urban", "size_tier": "large", "chests": 18, "floor_loot_density": 0.5},
+    {"id": "poi_02", "name": "Cracked Canyon", "type": "desert", "size_tier": "medium", "chests": 12, "floor_loot_density": 0.4},
+    {"id": "poi_03", "name": "Frosty Fjord", "type": "snow", "size_tier": "large", "chests": 16, "floor_loot_density": 0.45},
+    {"id": "poi_04", "name": "Lazy Lagoon", "type": "water", "size_tier": "small", "chests": 8, "floor_loot_density": 0.35},
+    {"id": "poi_05", "name": "Steamy Springs", "type": "forest", "size_tier": "medium", "chests": 14, "floor_loot_density": 0.4},
+    {"id": "poi_06", "name": "Retail Row", "type": "urban", "size_tier": "medium", "chests": 15, "floor_loot_density": 0.5},
+    {"id": "poi_07", "name": "Haunted Hills", "type": "spooky", "size_tier": "small", "chests": 10, "floor_loot_density": 0.3},
+    {"id": "poi_08", "name": "Salty Sands", "type": "beach", "size_tier": "medium", "chests": 12, "floor_loot_density": 0.4},
+    {"id": "poi_09", "name": "Mount Mighty", "type": "mountain", "size_tier": "small", "chests": 6, "floor_loot_density": 0.3},
+    {"id": "poi_10", "name": "Dusty Depot", "type": "industrial", "size_tier": "medium", "chests": 14, "floor_loot_density": 0.45},
+    {"id": "poi_11", "name": "Shifty Shafts", "type": "underground", "size_tier": "small", "chests": 9, "floor_loot_density": 0.35},
+    {"id": "poi_12", "name": "Loot Lake", "type": "center", "size_tier": "special", "chests": 5, "floor_loot_density": 0.2}
+  ],
+
+  "devices": [
+    {"type": "class_selector", "position": {"x": 0, "y": 100, "z": 0}, "enabled": true},
+    {"type": "item_spawner", "positions": "auto-distributed", "count": 150},
+    {"type": "ammo_box", "positions": "auto-per-poi", "count": 96},
+    {"type": "vending_machine", "positions": [{"x": 10, "y": 1, "z": 20}, {"x": -15, "y": 1, "z": -30}], "restock_time_sec": 60},
+    {"type": "campfire", "positions": "per-poi-3x", "heal_per_sec": 2},
+    {"type": "vehicle_spawner", "vehicles": ["atk", "whiplash", "quadcrasher"], "count": 12}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial do mapa BR Arena"]}
+  ]
+}

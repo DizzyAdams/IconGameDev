@@ -1,0 +1,32 @@
+[
+  {
+    "id": "neon_racing",
+    "name": "NeonRacing",
+    "item_prefix": "Neon",
+    "description": "High-speed neon circuit racing with glow trails, drift boosts and synth-city tracks."
+  },
+  {
+    "id": "pet_sanctuary",
+    "name": "PetSanctuary",
+    "item_prefix": "Cozy",
+    "description": "Adopt, raise and dress up virtual pets in a peaceful sanctuary valley."
+  },
+  {
+    "id": "obby_kingdom",
+    "name": "ObbyKingdom",
+    "item_prefix": "Royal",
+    "description": "A medieval obstacle-course kingdom with castle towers, lava moats and checkpoint crowns."
+  },
+  {
+    "id": "tycoon_empire",
+    "name": "TycoonEmpire",
+    "item_prefix": "Empire",
+    "description": "Build an industrial empire from a single plot — factories, conveyors and golden upgrades."
+  },
+  {
+    "id": "sky_wars_arena",
+    "name": "SkyWarsArena",
+    "item_prefix": "Skyborne",
+    "description": "Floating-island PvP arenas with sky bridges, launch pads and storm-tier reward zones."
+  }
+]

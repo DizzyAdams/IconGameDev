@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Pocket Monster Trainers\",\n    \"description\": \"8 pocket monster trainer skins for creature collectors. (adapted from: 8 Pokemon trainer skins! Pikachu, Charizard, Mewtwo, Eevee, Lucario, Greninja, Gengar, Gardevoir.)\",\n    \"uuid\": \"f84ae135c-5fa7-84ed-0277-002555a3284b\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f832afc0f-3f2a-dfda-0113-006a3e153d29\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "pokemon",
+  "old_name": "Pocket Monster Trainers"
+}

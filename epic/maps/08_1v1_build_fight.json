@@ -1,0 +1,80 @@
+{
+  "template": "ltm-1v1-build-fight",
+  "version": "1.0.0",
+  "uefn_version": ">=31.0",
+  "display_name": "1v1 Build Fight — Duelo de Construção",
+  "description": "Duelo 1v1 focado em build fights. Respawn no centro a cada kill. Placar por kills. Best of 15. Arena circular com piso de metal.",
+  "tags": ["1v1", "build-fight", "pvp", "competitive", "duel", "training"],
+
+  "island": {
+    "type": "flat_grid_24x24",
+    "template_id": "island_1v1_build_fight",
+    "starting_weather": "clear",
+    "time_of_day": "day",
+    "allow_storm": false
+  },
+
+  "game_settings": {
+    "max_players": 2,
+    "game_mode": "build_fight",
+    "team_size": [1],
+    "kill_target": 15,
+    "allow_respawn": true,
+    "respawn_delay_sec": 2,
+    "respawn_mode": "center",
+    "starting_health": 100,
+    "starting_shield": 100,
+    "starting_materials": {"wood": 999, "stone": 999, "metal": 999},
+    "material_cap": {"wood": 999, "stone": 999, "metal": 999},
+    "harvest_rate_multiplier": 10.0,
+    "gravity": 1.0,
+    "fall_damage": false,
+    "friendly_fire": true,
+    "build_permission": "full",
+    "edit_permission": "full"
+  },
+
+  "arena_layout": {
+    "style": "circular_platform",
+    "radius_tiles": 10,
+    "floor_material": "metal_heavy",
+    "wall_material": "metal",
+    "center_pedestal": false,
+    "surrounding_wall": false
+  },
+
+  "loot_pool": {
+    "loadouts": {
+      "standard": {
+        "weapons": ["rifle_scar_rare", "shotgun_pump_rare", "smg_tactical_rare"],
+        "consumables": ["shield_potion_x3", "minis_x3", "medkit"],
+        "traps": ["spike_trap_x3", "launch_pad"]
+      },
+      "no_build": {
+        "weapons": ["rifle_scar_epic", "shotgun_heavy_epic", "sniper_bolt_rare"],
+        "consumables": ["shield_potion_x3", "minis_x3", "medkit", "fish"],
+        "traps": ["launch_pad"]
+      },
+      "arena_wesker": {
+        "weapons": ["rifle_assault_common", "shotgun_tactical_common", "smg_common"],
+        "consumables": ["shield_small_x3", "bandage_x3"]
+      }
+    },
+    "default_loadout": "standard"
+  },
+
+  "devices": [
+    {"type": "class_selector", "enabled": true},
+    {"type": "item_granter", "grant_on_spawn": true, "loadout_key": "standard"},
+    {"type": "respawn_manager", "respawn_delay_sec": 2, "respawn_position": "center"},
+    {"type": "elimination_scoreboard", "target_score": 15, "reset_on_round": true},
+    {"type": "leaderboard", "sort_by": "kills", "display": "top_2"},
+    {"type": "arena_center_spawn", "position": {"x": 0, "y": 2, "z": 0}},
+    {"type": "player_start_1", "position": {"x": -8, "y": 2, "z": 0}},
+    {"type": "player_start_2", "position": {"x": 8, "y": 2, "z": 0}}
+  ],
+
+  "version_history": [
+    {"version": "1.0.0", "date": "2025-07-10", "changes": ["Template inicial 1v1 Build Fight"]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2095",
+    "description": "Steampunk Skins 2095",
+    "uuid": "4c8efa53-ce94-44a6-951f-11ae0641af2d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a3354ab9-a1a4-4cfd-9a8e-ac5f5e5dc9fe",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

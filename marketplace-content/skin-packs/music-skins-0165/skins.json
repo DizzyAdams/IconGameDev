@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Music1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Music8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Music8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Music Skins 0165",
+  "localization_name": "Music Skins 0165"
+}

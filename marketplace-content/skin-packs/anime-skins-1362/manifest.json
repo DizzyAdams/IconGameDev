@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1362",
+    "description": "Anime Skins 1362",
+    "uuid": "10c569d2-09de-4966-a3fa-9496cf3e5017",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "33a57df5-8445-4162-9b4a-807367c7fb3a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

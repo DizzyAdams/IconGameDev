@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2571",
+    "description": "Fantasy Skins 2571",
+    "uuid": "e29f3694-1c41-4df9-9d04-72afe4e69e40",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "679eea09-e9f8-450c-a5a6-d480aeaed5e7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "FairyKingdom_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FairyKingdom_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FairyKingdom_12.png",
+      "type": "free"
+    }
+  ]
+}

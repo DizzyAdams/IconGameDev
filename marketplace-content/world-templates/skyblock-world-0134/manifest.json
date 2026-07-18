@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Skyblock World 0134",
+    "description": "Skyblock World 0134",
+    "uuid": "6f60ff67-0ea9-4baa-8379-e3883e7fcfb8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "bec8ca2c-7a4c-4510-90e4-6011b0d4b783",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

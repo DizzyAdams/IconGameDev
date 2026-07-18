@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 1997",
+    "description": "Pirate Skins 1997",
+    "uuid": "1eda55de-50ef-4cfe-a71a-91f024235ccb",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0ec6b4cd-87a7-4926-be52-2fbf2f0892d2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

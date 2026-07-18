@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 0240",
+    "description": "Anime Skins 0240",
+    "uuid": "1a5aee7c-962f-48e9-bc36-e43221b23287",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "79397e19-9a42-4870-b72d-993512696ce2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 3234",
+    "description": "Winter Skins 3234",
+    "uuid": "3db39e87-5436-45d1-b084-2e18ce689f03",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6818a975-a035-435f-9fad-3b71e8f9a454",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

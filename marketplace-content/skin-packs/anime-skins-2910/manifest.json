@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2910",
+    "description": "Anime Skins 2910",
+    "uuid": "1ee2a153-6c0c-4dbd-a9e6-88290e4862f1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "976c94fe-a7b9-4045-8b73-d6156ad94584",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

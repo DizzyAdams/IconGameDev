@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fantasy Skins 2051",
+    "description": "Fantasy Skins 2051",
+    "uuid": "3d16ea42-aecc-44b2-ad1e-97b925eb72e3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d38c1907-cac2-45e5-a064-a5fe76eb06bc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

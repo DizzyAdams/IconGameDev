@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 2838",
+    "description": "Modern Skins 2838",
+    "uuid": "6d536f9a-ee44-42c5-9d67-8efcbad797a6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6aa47f75-b0ea-46eb-914a-1271b8727417",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

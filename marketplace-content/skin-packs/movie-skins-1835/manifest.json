@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Movie Skins 1835",
+    "description": "Movie Skins 1835",
+    "uuid": "dc675743-4ca3-4d78-a8de-4aab12498092",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5a8d37f7-cdbe-4f57-a4bd-82f11520eaa2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

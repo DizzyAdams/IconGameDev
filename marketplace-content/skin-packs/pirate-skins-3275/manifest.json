@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 3275",
+    "description": "Pirate Skins 3275",
+    "uuid": "bfd0df28-14b6-4ab1-81e1-f14cd7434b58",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b0999cef-d2ee-427d-97b5-3dc78763353f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

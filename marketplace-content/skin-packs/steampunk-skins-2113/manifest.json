@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 2113",
+    "description": "Steampunk Skins 2113",
+    "uuid": "90e7d72d-5df6-4371-9cf3-3030ad5391d4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "49c9f5bd-dfa0-46bf-9f98-fa4fa2043b7b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

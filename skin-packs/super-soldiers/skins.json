@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "SuperSoldiers_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SuperSoldiers_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SuperSoldiers_12.png",
+      "type": "free"
+    }
+  ]
+}

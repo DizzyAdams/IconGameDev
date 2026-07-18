@@ -3,7 +3,7 @@
   "header": {
     "name": "Kawaii Skins 0245",
     "description": "Kawaii Skins 0245",
-    "uuid": "f29d8d96-5c50-4737-8f2a-46aa0ed8062a",
+    "uuid": "c5f05947-3174-4942-98d8-b7d58b8fa047",
     "version": [
       1,
       0,
@@ -18,26 +18,12 @@
   "modules": [
     {
       "type": "skin_pack",
-      "uuid": "e8101d77-9d05-45f7-b430-35980a49e4a2",
+      "uuid": "16c492cd-0602-4d80-8ecd-c64f3e18d04d",
       "version": [
         1,
         0,
         0
       ]
     }
-  ],
-  "metadata": {
-    "product_type": "skin_pack",
-    "price": "$2.99 (480 MC)",
-    "price_usd": 2.99,
-    "price_mc": 480,
-    "tier": "standard",
-    "status": "pending_premium_review",
-    "release_notes": {
-      "1.0.0": "Premium pack prepared for store submission."
-    },
-    "authors": [
-      "Bedrock Minemods"
-    ]
-  }
+  ]
 }

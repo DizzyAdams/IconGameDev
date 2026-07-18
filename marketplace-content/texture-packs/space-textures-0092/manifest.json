@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Textures 0092",
+    "description": "Space Textures 0092",
+    "uuid": "1f32bdbf-3ed4-4f07-aadf-97db6189bd23",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e2b917ca-87d9-4a0f-b57a-e2e605fb502b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

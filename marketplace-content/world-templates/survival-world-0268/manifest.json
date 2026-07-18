@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Survival World 0268",
+    "description": "Survival World 0268",
+    "uuid": "805854bb-9629-4828-9a91-5d36782ff788",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "6b417c0b-92d0-4770-93a5-55babe1f6aff",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Medieval Skins 2006",
+    "description": "Medieval Skins 2006",
+    "uuid": "5a28120e-d5df-4bf9-bb88-ac43c946239c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "de34b7f5-33f0-4ad4-bfd8-ae1716ba1eab",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

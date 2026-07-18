@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "VampireLegacy_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VampireLegacy_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VampireLegacy_12.png",
+      "type": "free"
+    }
+  ]
+}

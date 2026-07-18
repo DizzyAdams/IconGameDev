@@ -1,0 +1,54 @@
+{
+  "skins": [
+    {
+      "localization_name": "Street1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Street8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Street8.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Street Skins 2031",
+  "localization_name": "Street Skins 2031"
+}

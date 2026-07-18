@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§6⚔️ Economy RPG §7- Behavior Pack",
+    "description": "§eSistema completo de Economia, Quests e Lojas NPC",
+    "uuid": "a7f8e3d2-1b4c-5e6f-8a9b-0c1d2e3f4a5b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b8f9e4d3-2c5d-6f7e-9a0b-1c2d3e4f5a6b",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c9a0f5e4-3d6e-7a8f-0b1c-2d3e4f5a6b7c",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0"
+    },
+    {
+      "module_name": "@minecraft/server-entity",
+      "version": "1.0.0"
+    }
+  ],
+  "capabilities": ["script_eval"],
+  "metadata": {
+    "authors": ["IconGameDev"],
+    "license": "MIT",
+    "url": "https://github.com/IconGameDev/bedrock-economy-rpg"
+  }
+}

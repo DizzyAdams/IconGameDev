@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1706",
+    "description": "Kawaii Skins 1706",
+    "uuid": "d4b9aa9f-de83-4358-adca-3398ff84e1da",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a4804553-15c2-4fda-92e9-b30cd83d6c17",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Retro Skins 2740",
+    "description": "Retro Skins 2740",
+    "uuid": "78b6c0e5-7b5b-4110-89a9-1ffa6ff40703",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "71cb32ca-491f-4be0-b444-ad2159b9b413",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

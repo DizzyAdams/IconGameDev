@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 2807",
+    "description": "Winter Skins 2807",
+    "uuid": "13a1c017-f8a5-4119-a7ed-46c6231790ba",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "fc3875a4-eec0-42ae-aa09-d853aaf379e2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

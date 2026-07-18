@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "ShadowNinja_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ShadowNinja_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ShadowNinja_12.png",
+      "type": "free"
+    }
+  ]
+}

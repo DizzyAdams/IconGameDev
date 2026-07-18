@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Music Skins 1400",
+    "description": "Music Skins 1400",
+    "uuid": "3b3a6c85-b1a1-4d78-a900-a7a34dfaa3c3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6b3bb01d-edc6-46c6-a6ee-50dcab48807b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 3000",
+    "description": "Kawaii Skins 3000",
+    "uuid": "90452765-17b9-4fae-add0-16e483179c52",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "741af593-9b9f-4c4c-bf7c-4df0cb0bcb7b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

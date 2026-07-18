@@ -48,6 +48,8 @@ def test_texture_gen_and_validation(tmp_path, monkeypatch):
         'module_uuid': '44444444-aaaa-bbbb-cccc-444444444444',
         'modify': lambda c, rng: c,
         'noise_range': 10,
+        'seed': 42,
+        'tile_size': 16,
         'icon_label': 'C',
         'icon_sub': 'T',
     }
@@ -55,7 +57,7 @@ def test_texture_gen_and_validation(tmp_path, monkeypatch):
     monkeypatch.setattr(texture_pack_gen, "BASE", str(tmp_path / "texture-packs"))
     monkeypatch.setattr(texture_pack_gen, "BLOCK_NAMES", ['stone', 'dirt'])
     
-    texture_pack_gen.generate_pack(test_pack)
+    texture_pack_gen.generate_pack(test_pack, 0, 1)
     
     # 2. Compilation
     dist_dir = tmp_path / "dist"
@@ -95,12 +97,14 @@ def test_bulk_compile_and_validate_all(tmp_path, monkeypatch):
         'module_uuid': '88888888-aaaa-bbbb-cccc-888888888888',
         'modify': lambda c, rng: c,
         'noise_range': 10,
+        'seed': 42,
+        'tile_size': 16,
         'icon_label': 'B',
         'icon_sub': 'T',
     }
     monkeypatch.setattr(texture_pack_gen, "BASE", str(tmp_path / "texture-packs"))
     monkeypatch.setattr(texture_pack_gen, "BLOCK_NAMES", ['stone'])
-    texture_pack_gen.generate_pack(t_pack)
+    texture_pack_gen.generate_pack(t_pack, 0, 1)
     
     # Compile all
     dist_dir = tmp_path / "dist"

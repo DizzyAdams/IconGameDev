@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "CelestialGuardians_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CelestialGuardians_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CelestialGuardians_12.png",
+      "type": "free"
+    }
+  ]
+}

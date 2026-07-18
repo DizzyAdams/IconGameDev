@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 2770",
+    "description": "Holiday Skins 2770",
+    "uuid": "797d48e6-a1d8-41bf-b561-e0018528c968",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bcae2bb8-e339-4152-b8cb-19b535ae82d3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

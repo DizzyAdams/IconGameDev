@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 2660",
+    "description": "Ninja Skins 2660",
+    "uuid": "f782a0d5-9ced-4e39-80dc-afe1d976001d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e3a796de-9e43-4c84-acbd-5fbd538e97eb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

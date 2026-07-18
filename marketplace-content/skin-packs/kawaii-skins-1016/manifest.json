@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1016",
+    "description": "Kawaii Skins 1016",
+    "uuid": "51e00944-f7b3-40bf-bef3-f8db30831c00",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c9d0c585-e82a-419e-90ac-6f2458f326b5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

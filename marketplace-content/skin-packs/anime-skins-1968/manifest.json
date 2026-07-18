@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1968",
+    "description": "Anime Skins 1968",
+    "uuid": "443e2224-02da-41cb-8af4-488701c6539b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e9b5d6df-4d11-43ec-9f47-ca72e7a7c139",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

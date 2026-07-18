@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 3087",
+    "description": "Game Skins 3087",
+    "uuid": "1fdeffed-d787-4d10-908d-f9b06230decc",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "72dce623-058e-482a-ba34-f37861fc7f65",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

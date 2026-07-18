@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Crystal Textures 0179",
+    "description": "Crystal Textures 0179",
+    "uuid": "625c6972-4b24-4c3d-873f-990a7be2c4ba",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f5de5694-e6f6-482f-bc87-1064ff882259",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

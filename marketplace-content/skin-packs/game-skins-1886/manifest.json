@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Game Skins 1886",
+    "description": "Game Skins 1886",
+    "uuid": "a8620013-6d71-4e0b-9004-5b03d2684766",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "589a66c1-d48b-4536-94e1-7bd6c473cc6f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

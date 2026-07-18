@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 2245",
+    "description": "Space Skins 2245",
+    "uuid": "a782304f-5474-4818-9417-3795c6dccf7c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "580b194d-7538-42a4-ab2d-212299a4ed0f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Modern Skins 1940",
+    "description": "Modern Skins 1940",
+    "uuid": "3a3763cf-039f-441e-8b9c-961870602a78",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6d094f21-d43a-4038-8480-0ca8abb6c5b9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

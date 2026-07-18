@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pirate Skins 2074",
+    "description": "Pirate Skins 2074",
+    "uuid": "3126328b-a545-4194-ad7f-072e9c89b83f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "97c70ece-1193-4d5f-bf7c-0c231b736f44",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

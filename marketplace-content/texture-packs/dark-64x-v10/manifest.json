@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark 64x Pack v11",
+    "description": "A dark 64x texture pack variant 11. Procedurally generated with unique noise profile.",
+    "uuid": "cd7a75a0-3088-4c69-bd18-ebb4978a897a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2edbc378-4692-48e4-8612-d53a1b124eaa",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Low Res Textures 0161",
+    "description": "Low Res Textures 0161",
+    "uuid": "42c6ab12-ea4b-4489-ae27-142de16bd365",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9ec85c1f-620c-4a87-8716-0fc632ece82b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

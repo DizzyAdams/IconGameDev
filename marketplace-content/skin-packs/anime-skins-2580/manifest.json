@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2580",
+    "description": "Anime Skins 2580",
+    "uuid": "2aa93bda-3c05-4dff-a92d-bb9e8adba003",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b8d47eb6-1129-4410-ab05-ae2d4d576a15",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

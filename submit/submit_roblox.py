@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Roblox Open Cloud UGC uploader -- catalog items + game passes.
 
 Real implementation of the asset-creation flow (multipart binary upload) for
@@ -43,8 +43,8 @@ REQUEST_BACKOFF_BASE = 1.0			# seconds
 UPLOAD_BUDGET_BYTES = 250 * 1024 * 1024  # 250MB guard
 
 TYPE_MAP = {
-    "classic_shirt": "ClassicShirt",
-    "classic_pants": "ClassicPants",
+    "classic_shirt": "Shirt",
+    "classic_pants": "Pants",
     "avatar_accessory": "Hat",
     "game_pass": "GamePass",
 }
@@ -107,10 +107,13 @@ def load_creds():
 def find_image(name):
     if not os.path.isdir(ASSETS_DIR):
         return None
-    for ext in (".png", ".jpg", ".jpeg"):
-        p = os.path.join(ASSETS_DIR, name + ext)
-        if os.path.isfile(p):
-            return p
+    # Generator saves as "Crimson_Shirt.png" (spaces -> underscores). Match both.
+    candidates = [name, name.replace(" ", "_")]
+    for cand in candidates:
+        for ext in (".png", ".jpg", ".jpeg"):
+            p = os.path.join(ASSETS_DIR, cand + ext)
+            if os.path.isfile(p):
+                return p
     return None
 
 
@@ -235,11 +238,14 @@ def upload_item(api, gid, uid, item):
         "request": json.dumps({
             "assetType": asset_type,
             "displayName": name,
-            "description": it.get("description") or ("IconHub original %s: %s" % (t, name)),
-            "creationContext": {"creator": {"groupId": int(gid), "type": "Group"}},
+            "description": item.get("description") or ("IconHub original %s: %s" % (t, name)),
+            # API key is group-scoped (created in Creator Hub -> group): creator must be
+            # the GROUP, not a userId. Passing group_id as userId causes 403 "User not
+            # authenticated".
+            "creationContext": {"creator": {"groupId": int(gid)}},
         }),
     }
-    ok, code, resp = post_multipart(ASSETS_URL, api, fields, img)
+    ok, code, resp = post_multipart(ASSETS_URL, api, fields, img, file_field="fileContent")
     return (ok, "HTTP %d %s" % (code, resp[:200]))
 
 

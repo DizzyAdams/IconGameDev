@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 2218",
+    "description": "Anime Skins 2218",
+    "uuid": "795dd040-2a6b-4670-9a8d-cf26a08b6f02",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c2c347de-db9c-4150-b2a7-7a582f155eef",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

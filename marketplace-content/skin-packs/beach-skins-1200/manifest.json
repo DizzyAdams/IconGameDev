@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 1200",
+    "description": "Beach Skins 1200",
+    "uuid": "fdb4dc2f-6803-4a06-8675-144d2fe5d2e2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5eb1de72-3eba-4de5-ad0b-f2b3e6025b90",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

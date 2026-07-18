@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Warm 64x Pack v2",
+    "description": "A warm 64x texture pack variant 2. Procedurally generated with unique noise profile.",
+    "uuid": "7f6db8d4-49cd-4309-8037-a85bb18d0985",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "41663cd9-c9db-4527-86f5-9c556047be85",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

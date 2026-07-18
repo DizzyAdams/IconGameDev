@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 2840",
+    "description": "Sports Skins 2840",
+    "uuid": "1a34d158-d7e6-474a-989f-3a0c231313ee",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "53ce48de-efff-43da-9338-97d96ce6301e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

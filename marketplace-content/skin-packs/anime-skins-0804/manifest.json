@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 0804",
+    "description": "Anime Skins 0804",
+    "uuid": "7ea787da-0e84-4337-8fef-ff9dcf84ab28",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6828dedf-d729-463f-8a42-ff89fe415a3f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

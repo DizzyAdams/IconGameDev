@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 1635",
+    "description": "Holiday Skins 1635",
+    "uuid": "842a3c86-5bc7-48d4-9ceb-124928c44fa7",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "150bea31-6efb-4569-8d30-dcb50f6a1eb1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

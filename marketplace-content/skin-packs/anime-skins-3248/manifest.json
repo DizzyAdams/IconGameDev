@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 3248",
+    "description": "Anime Skins 3248",
+    "uuid": "c2ed92b8-4cc9-47e2-b528-a6bc2c7bd786",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "c26e86d7-413b-4ed6-9b4a-4698315c6c06",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

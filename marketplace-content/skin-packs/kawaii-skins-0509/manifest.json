@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 0509",
+    "description": "Kawaii Skins 0509",
+    "uuid": "d670987a-c580-449b-a764-5a171233498f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "32c708b0-4f9a-4de6-b49b-6b032b30e581",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

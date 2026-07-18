@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "MedievalKnights_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MedievalKnights_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MedievalKnights_12.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sports Skins 1930",
+    "description": "Sports Skins 1930",
+    "uuid": "0112f5f1-551b-44e0-a1c2-a5eb2b1fc84a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a0139275-dfaa-4e64-99c3-75f19e109f28",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

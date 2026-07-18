@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Nature Skins 1673",
+    "description": "Nature Skins 1673",
+    "uuid": "c8fbb3d8-d020-45d2-9bf9-d2f91f3d37e3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1187c6cd-515a-42de-a295-68f88a794350",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

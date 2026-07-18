@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Beach Skins 2005",
+    "description": "Beach Skins 2005",
+    "uuid": "0102d01e-c4ee-4607-8968-aa76261e929d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "da9b4bc5-0ef3-4655-8adf-66c9295771cc",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

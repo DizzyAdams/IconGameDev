@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Space Skins 3251",
+    "description": "Space Skins 3251",
+    "uuid": "444137a4-cfce-4223-902b-6a30c1c08c1b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0ad4fea3-7e51-40f8-b648-536121c3844d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

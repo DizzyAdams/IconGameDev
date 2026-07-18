@@ -1,0 +1,5 @@
+{
+  "old_manifest": "{\n  \"format_version\": 2,\n  \"header\": {\n    \"name\": \"Midnight Animatronics\",\n    \"description\": \"8 midnight animatronic skins from haunted arcades. (adapted from: 8 Five Nights at Freddy's skins! Freddy, Bonnie, Chica, Foxy, Springtrap, Mangle, Ballora, CircusBaby.)\",\n    \"uuid\": \"fb086dfb9-87be-ec3b-1ede-00f21b7d51ae\",\n    \"version\": [\n      1,\n      0,\n      0\n    ],\n    \"min_engine_version\": [\n      1,\n      20,\n      0\n    ]\n  },\n  \"modules\": [\n    {\n      \"type\": \"skin_pack\",\n      \"uuid\": \"f9742f7a5-dc61-2db2-4c20-0049ec4cfcf5\",\n      \"version\": [\n        1,\n        0,\n        0\n      ]\n    }\n  ]\n}",
+  "old_dir": "fnaf-pack",
+  "old_name": "Midnight Animatronics"
+}

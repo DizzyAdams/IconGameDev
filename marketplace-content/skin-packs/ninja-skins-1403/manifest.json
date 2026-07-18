@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ninja Skins 1403",
+    "description": "Ninja Skins 1403",
+    "uuid": "9ab339ab-f55f-44ed-857a-554b11fdf52f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ea4f5043-eac4-4f6f-bd73-f2cb66f1125b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

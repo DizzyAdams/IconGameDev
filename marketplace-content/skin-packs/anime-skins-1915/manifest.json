@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime Skins 1915",
+    "description": "Anime Skins 1915",
+    "uuid": "cd8068e2-b001-4c8d-8b7b-74263267e8fa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "bed127b3-8d04-4d8f-a94e-f4998fed4962",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

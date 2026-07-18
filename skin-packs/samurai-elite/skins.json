@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "SamuraiElite_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SamuraiElite_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SamuraiElite_12.png",
+      "type": "free"
+    }
+  ]
+}

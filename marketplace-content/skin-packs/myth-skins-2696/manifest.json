@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 2696",
+    "description": "Myth Skins 2696",
+    "uuid": "20c0dd7c-6298-4143-82cf-5267aae509bd",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "16f296da-4691-4b4b-8aa0-1bb69ccfb5d5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

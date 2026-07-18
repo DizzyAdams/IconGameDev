@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Holiday Skins 2849",
+    "description": "Holiday Skins 2849",
+    "uuid": "691530e0-dec2-4818-83a2-1569f7f94fa5",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e76fd96c-8667-41b6-82be-2a842a24f63b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

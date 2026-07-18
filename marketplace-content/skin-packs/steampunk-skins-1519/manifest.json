@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Steampunk Skins 1519",
+    "description": "Steampunk Skins 1519",
+    "uuid": "7d021b69-e18d-400b-a3f9-76d46fab3f8d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a1214f93-509e-4ee9-993f-dec2a12d5177",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

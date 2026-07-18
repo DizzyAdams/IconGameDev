@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "GrimReapers_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GrimReapers_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GrimReapers_12.png",
+      "type": "free"
+    }
+  ]
+}

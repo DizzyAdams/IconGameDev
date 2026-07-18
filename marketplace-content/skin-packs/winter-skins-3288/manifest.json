@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Winter Skins 3288",
+    "description": "Winter Skins 3288",
+    "uuid": "e9dc2b38-4bb8-45d2-88af-ce566252e896",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "22fdc9d8-39b0-45b7-aef9-6f9cc37f908c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

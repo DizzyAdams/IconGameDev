@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1802",
+    "description": "Kawaii Skins 1802",
+    "uuid": "4c23b059-2819-481d-8fcb-8e533a186390",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "0e9e9af8-0b23-47e1-8126-7193091c9980",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

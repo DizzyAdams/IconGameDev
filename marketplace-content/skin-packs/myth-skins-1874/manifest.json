@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Myth Skins 1874",
+    "description": "Myth Skins 1874",
+    "uuid": "ad1a5984-439c-4a98-929b-b1704f4788d0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ab9ddd36-a3de-4c68-9f0b-aadb94f32e42",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

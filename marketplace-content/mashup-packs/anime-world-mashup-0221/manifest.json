@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Anime World Mashup 0221",
+    "description": "Anime World Mashup 0221",
+    "uuid": "6829a91d-0652-447a-b882-983b114fcc8f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "mashup",
+      "uuid": "a0e8e7d3-d70e-4b03-bc0e-942173066b1c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

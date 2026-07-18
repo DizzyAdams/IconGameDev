@@ -1,0 +1,77 @@
+{
+  "geometry": "geometry.humanoid.custom",
+  "skins": [
+    {
+      "localization_name": "AngelicHost_01",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_01.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_02",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_02.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_03",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_03.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_04",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_04.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_05",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_05.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_06",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_06.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_07",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_07.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_08",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_08.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_09",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_09.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_10.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelicHost_12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AngelicHost_12.png",
+      "type": "free"
+    }
+  ]
+}

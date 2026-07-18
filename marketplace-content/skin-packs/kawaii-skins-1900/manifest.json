@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kawaii Skins 1900",
+    "description": "Kawaii Skins 1900",
+    "uuid": "1aa93733-29dd-411c-aa96-d6f522e231a6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "6da2ffe2-24a5-4750-a35e-5091577eb543",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -24,8 +24,12 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 CATALOG = HERE.parent / "catalog" / "roblox_catalog.json"
 
-PRICE = {"classic_shirt": 70, "classic_pants": 70, "avatar_accessory": 150, "game_pass": 250}
-PLATFORM_CUT = 0.30
+PRICE = {"classic_shirt": {70}, "classic_pants": {70}, "avatar_accessory": {70, 150, 250, 500, 1000}, "game_pass": {150, 250, 500, 1000}}
+def get_creator_share(typ: str) -> float:
+    if typ in ("classic_shirt", "classic_pants", "game_pass"):
+        return 0.70
+    return 0.30
+
 # Official Roblox DevEx: 100,000 Robux = US$350 -> 1 Robux = $0.0035.
 DEVEX_RATE = 0.0035
 PRICE_MIN, PRICE_MAX = 1, 10000
@@ -77,11 +81,11 @@ def main() -> int:
         name = x.get("name", "")
         price = x.get("price_robux", 0)
         exp = PRICE.get(typ)
-        if exp is not None and price != exp:
+        if exp is not None and price not in exp:
             fails.append(f"{typ} '{name}' price={price} != {exp}")
         if not (PRICE_MIN <= price <= PRICE_MAX):
             fails.append(f"{typ} '{name}' price out of [{PRICE_MIN},{PRICE_MAX}]")
-        exp_net = round(price * PLATFORM_CUT)
+        exp_net = round(price * get_creator_share(typ))
         if x.get("net_robux") != exp_net:
             fails.append(f"{typ} '{name}' net_robux={x.get('net_robux')} != {exp_net}")
         if abs(x.get("devex_usd", 0) - round(exp_net * DEVEX_RATE, 4)) > 1e-9:

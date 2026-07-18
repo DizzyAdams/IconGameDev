@@ -2,7 +2,7 @@
 
 Plan to publish original Fortnite Creative maps via Epic's UEFN/publishing pipeline.
 
-- Scale from **50 → 200** original maps.
+- Scale from **200 → 1000** original maps.
 - Price each map **$2.99 – $9.99** (Epic takes a **12%** cut; we keep the rest).
 - `maps.py` generates `maps.json` (original, IP-clean entries). `--check` validates.
 

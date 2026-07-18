@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Scifi Skins 0885",
+    "description": "Scifi Skins 0885",
+    "uuid": "d15c5c53-3d4d-4c7a-89e5-8dd15a4b161d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4e35d8ce-eaf1-4c84-91a5-a4e6fa7f716a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

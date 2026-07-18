@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Natural 32x Pack v1",
+    "description": "A natural 32x texture pack variant 1. Procedurally generated with unique noise profile.",
+    "uuid": "42ab73d0-ab58-45f4-ad11-ea28fb7decf3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0f079391-4f74-4531-9110-5cd976d15629",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

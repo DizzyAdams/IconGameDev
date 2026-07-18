@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tower Defense World 0203",
+    "description": "Tower Defense World 0203",
+    "uuid": "e6b8423e-edbf-41ab-9988-d33def3a58f3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "world_template",
+      "uuid": "dbce9519-53d6-46f7-b881-44d9e2bf29c5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
