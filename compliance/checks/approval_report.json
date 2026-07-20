@@ -1,0 +1,15 @@
+{
+  "total_packs": 14600,
+  "passed": 14600,
+  "failed": 0,
+  "build_errors": 0,
+  "approval_pct": 100.0,
+  "by_type": {
+    "skin-packs": 9700,
+    "texture-packs": 2520,
+    "world-templates": 1680,
+    "mashup-packs": 700
+  },
+  "failures": [],
+  "verdict": "100% APPROVABLE"
+}

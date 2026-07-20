@@ -61,6 +61,12 @@ def main(argv=None) -> int:
                       "--pack-dir", args.pack_dir], ROOT)
     ready = "VERDICT: READY" in out3
 
+    # 2.5/3 live-pack approval accuracy (validates the REAL source packs, not
+    # a stale dist/). This is the first-try enforcer: 100% buildable/aprovável.
+    rc4, out4 = _run("2.5/3 live-pack approval validator",
+                     [sys.executable, "compliance/checks/validate_approval.py"], ROOT)
+    approval = "VERDICT: 100% APPROVABLE" in out4
+
     clean = True
     if args.audit:
         # Resolve the pack dir to an absolute path at the repo root so the audit
@@ -81,7 +87,8 @@ def main(argv=None) -> int:
     print(f" readiness READY : {'YES' if ready else 'NO'}")
     if args.audit:
         print(f" audit CLEAN     : {'YES' if clean else 'NO'}")
-    go = ready and (not args.audit or clean)
+    go = ready and approval and (not args.audit or clean)
+    print(f"\n approval 100%   : {'YES' if approval else 'NO'}")
     print(f" VERDICT: {'GO - safe to submit' if go else 'NO-GO - fix issues above'}")
     print("=" * 72)
     return 0 if go else 2
